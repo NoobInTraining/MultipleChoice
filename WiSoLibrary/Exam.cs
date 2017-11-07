@@ -10,8 +10,27 @@ namespace WiSoLibrary
 {
 	public class Exam
 	{
+		public Exam()
+		{
+			Questions = new List<Question>();
+		}
+
 		public string Name { get; set; }
 
+		public List<Question> Questions { get; private set; }
+
+		/// <summary>
+		/// Adds a question to the array
+		/// </summary>
+		/// <param name="question"></param>
+		/// <exception cref="ArgumentNullException"/>
+		public void AddQuestion(Question question)
+		{
+			if (question.Answers == null || question.Answers.Length == 0 || string.IsNullOrWhiteSpace(question.Text))
+				throw new ArgumentNullException("Answer and Text of a Question must be set.");
+
+			Questions.Add(question);
+		}
 
 		/// <summary>
 		/// Parses the xml and returns the Exam with it's questions
@@ -42,11 +61,10 @@ namespace WiSoLibrary
 					answers.Add(new Answer(a.Value, correctAnswers.Elements().Count(c => c.Attribute("Number").Value == a.Attribute("Number").Value) > 0));
 				});
 
-				Question question = new Question(q.Element("Text").Value, answers.ToArray());
-				var dd = question.CorrectAnswers.First();
+				exam.AddQuestion(new Question(q.Element("Text").Value, answers.ToArray()));
+				
 			}
-
-			throw new NotImplementedException();
+			return exam;
 		}
 	}
 }
