@@ -18,7 +18,7 @@ Tragen Sie die Ziffer vor der zutreffenden Angabe in das Kästchen ein.
 </Answers>
 <CorrectAnswers>
 	<!--TODO: Mark correct answers-->
-	<Answer Number=""/>
+	<Answer Number="4"/>
 </CorrectAnswers>
 </Question>
 <Question Number="2">
@@ -346,7 +346,7 @@ Tragen Sie die Ziffern vor den zwei zutreffenden Risiken in die Kästchen ein.
 </CorrectAnswers>
 </Question>
 <Question Number="18">
-<Text><![CDATA[18. Aufgabe
+<Text><![CDATA[18. Aufgabe 
 Private Versicherungen werden zusätzlich zur gesetzlichen Sozialversicherung oder anstatt der gesetzlichen Sozialversicherung abgeschlossen.
 Welche der folgenden Aussagen trifft auf die private Krankenversicherung zu?
 Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.

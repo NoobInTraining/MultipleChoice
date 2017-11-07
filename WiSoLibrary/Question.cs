@@ -22,12 +22,12 @@ namespace WiSoLibrary
 		/// <summary>
 		/// The question Text
 		/// </summary>
-		public string Text { get; private set; }
+		public string Text { get; set; }
 
 		/// <summary>
 		/// The possible Answers
 		/// </summary>
-		public Answer[] Answers { get; private set; }
+		public Answer[] Answers { get; set; }
 
 		/// <summary>
 		/// Filter on Answers where IsCorrect is true.

@@ -25,11 +25,11 @@ namespace WiSoLibrary
 		/// <summary>
 		/// The Answertext
 		/// </summary>
-		public string Text { get; private set; }
+		public string Text { get; set; }
 
 		/// <summary>
 		/// Bollean value to determin wether the Answer is the right answer
 		/// </summary>
-		public bool IsCorrect { get; private set; }
+		public bool IsCorrect { get; set; }
 	}
 }
