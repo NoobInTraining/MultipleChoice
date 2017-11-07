@@ -1,13 +1,4 @@
 <Exam Name="">
-Situation
-Sie sind Mitarbeiter/—in der Summer IT GmbH. Die Summer IT GmbH ist ein Dienstleistungsunternehmen im Bereich der IT—Sicherheit.
-Die folgenden Aufgaben beziehen sich auf dieses Unternehmen.
-</Answers>
-<CorrectAnswers>
-	<!--TODO: Mark correct answers-->
-	<Answer Number=""/>
-</CorrectAnswers>
-</Question>
 <Question Number="1">
 <Text><![CDATA[1. Aufgabe
 Zur Summer IT GmbH liegen folgende Daten vor:
@@ -21,8 +12,9 @@ Tragen Sie die Ziffer vor der zutreffenden Angabe in das Kästchen ein.
 <Answers>
 <Answer Number="1"><![CDATA[Großunternehmen]]></Answer>
 <Answer Number="2"><![CDATA[Monopolist]]></Answer>
-<Answer Number="3"><![CDATA[Unternehmen des primären Sektors Marktführer]]></Answer>
-<Answer Number="4"><![CDATA[Versorgungsunternehmen]]></Answer>
+<Answer Number="3"><![CDATA[Unternehmen des primären Sektors]]></Answer>
+<Answer Number="4"><![CDATA[Marktführer]]></Answer>
+<Answer Number="5"><![CDATA[Versorgungsunternehmen]]></Answer>
 </Answers>
 <CorrectAnswers>
 	<!--TODO: Mark correct answers-->
@@ -64,6 +56,7 @@ Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.
 <Answer Number="3"><![CDATA[[3] Der Urlaubsanspruch muss zwischen Frau Müller und der Summer IT GmbH jedes Jahr neu verhandelt werden.]]></Answer>
 <Answer Number="4"><![CDATA[Der Arbeitsvertrag ist nur gültig, wenn Frau Müller mindestens 30 Werktage Urlaub gewährt werden.]]></Answer>
 <Answer Number="5"><![CDATA[Es gilt der durchschnittliche Urlaubsanspruch der Tarifverträge der Branche.]]></Answer>
+<Answer Number="6"><![CDATA[ZPA IT WiSo 2]]></Answer>
 </Answers>
 <CorrectAnswers>
 	<!--TODO: Mark correct answers-->
@@ -91,8 +84,11 @@ Welche der folgenden Unterlagen muss ihm — gegebenenfalls auf Verlangen — au
 Tragen Sie die Ziffer vor der zutreffenden Unterlage in das Kästchen ein.
 ]]></Text>
 <Answers>
-<Answer Number="1"><![CDATA[[1] Lebenslauf Arbeitsvertrag]]></Answer>
-<Answer Number="2"><![CDATA[Qualifiziertes Arbeitszeugnis Zeugniskopien]]></Answer>
+<Answer Number="1"><![CDATA[[1] Lebenslauf]]></Answer>
+<Answer Number="2"><![CDATA[Arbeitsvertrag]]></Answer>
+<Answer Number="3"><![CDATA[Qualifiziertes Arbeitszeugnis]]></Answer>
+<Answer Number="4"><![CDATA[Zeugniskopien]]></Answer>
+<Answer Number="5"><![CDATA[Nachweis über Zahlungen zur Berufsgenossenschaft/betrieblichen Unfallversicherung]]></Answer>
 </Answers>
 <CorrectAnswers>
 	<!--TODO: Mark correct answers-->
@@ -130,6 +126,7 @@ Tragen Sie die Ziffer vor dem zutreffenden Fall in das Kästchen ein.
 <Answer Number="3"><![CDATA[Die Summer IT GmbH meldet einen neuen Arbeitnehmer drei Tage nach Arbeitsbeginn zur Sozialversicherung an.]]></Answer>
 <Answer Number="4"><![CDATA[Die Summer IT GmbH hat aus betrieblichen Gründen im Monat Mai eine Urlaubssperre verhängt.]]></Answer>
 <Answer Number="5"><![CDATA[Die Summer IT GmbH schließt aus Kostengründen die Werkskantine.]]></Answer>
+<Answer Number="6"><![CDATA[ZPA IT WiSo 3]]></Answer>
 </Answers>
 <CorrectAnswers>
 	<!--TODO: Mark correct answers-->
@@ -186,6 +183,7 @@ Tragen Sie die Ziffern vor den drei zutreffenden Unfällen in die Kästchen ein.
 <Answer Number="4"><![CDATA[Ein Mitarbeiter besuchte auf dem Heimweg von seiner Arbeitsstelle eine Gaststätte. Beim Verlassen des Lokals stürzte er und verletzte sich schwer.]]></Answer>
 <Answer Number="5"><![CDATA[Ein Auszubildender verunglückte mit seinem Fahrrad auf dem Weg zum Schwimmbad, das er besuchen wollte, weil der Unterricht in der Berufs— schule ausfiel.]]></Answer>
 <Answer Number="6"><![CDATA[[6] Ein Mitarbeiter verunglückte auf dem Weg zur Arbeit.]]></Answer>
+<Answer Number="7"><![CDATA[Der Geschäftsführer beschädigt auf dem Firmenparkplatz das Fahrzeug eines Mitarbeiters, ZPA IT WiSo 4]]></Answer>
 </Answers>
 <CorrectAnswers>
 	<!--TODO: Mark correct answers-->
@@ -238,6 +236,12 @@ Welcher der folgenden Sachverhalte wird durch eine Betriebsvereinbarung geregelt
 Tragen Sie die Ziffer vor dem zutreffenden Sachverhalt in das Kästchen ein.
 ]]></Text>
 <Answers>
+<Answer Number="1"><![CDATA[[1] Höhe des Urlaubsgeldes]]></Answer>
+<Answer Number="2"><![CDATA[Höhe der Ausbildungsvergütung]]></Answer>
+<Answer Number="3"><![CDATA[Beginn und Ende der täglichen Arbeitszeit]]></Answer>
+<Answer Number="4"><![CDATA[[4] Anzahl der Urlaubstage]]></Answer>
+<Answer Number="5"><![CDATA[Höhe der Arbeitsentgelte nach Gehaltsgruppen]]></Answer>
+<Answer Number="6"><![CDATA[ZPA IT WiSo 5]]></Answer>
 </Answers>
 <CorrectAnswers>
 	<!--TODO: Mark correct answers-->
@@ -251,6 +255,10 @@ Welche der folgenden Maßnahmen kann die Summer IT GmbH ohne Beteiligung des Bet
 Tragen Sie die Ziffer vor der zutreffenden Maßnahme in das Kästchen ein.
 ]]></Text>
 <Answers>
+<Answer Number="1"><![CDATA[[1] Stilllegung einiger Produktionszweige und entsprechende Reduzierung der Belegschaft Bessere Auslastung der Maschinen durch flexiblere Arbeitszeitregelungen]]></Answer>
+<Answer Number="2"><![CDATA[Betriebsbedingte Kündigungen]]></Answer>
+<Answer Number="3"><![CDATA[Einführung von Schichtarbeit]]></Answer>
+<Answer Number="4"><![CDATA[Gehaltserhöhung des Geschäftsführers]]></Answer>
 </Answers>
 <CorrectAnswers>
 	<!--TODO: Mark correct answers-->
@@ -305,6 +313,13 @@ und Frau Müller richtig wiedergegeben?
 Tragen Sie die Ziffer vor der zutreffenden Zeile in das Kästchen ein.
 ]]></Text>
 <Answers>
+<Answer Number="1"><![CDATA[Versicherung Summer IT GmbH | Frau Müller]]></Answer>
+<Answer Number="2"><![CDATA[1 | Pflegeversicherung 100 %]]></Answer>
+<Answer Number="3"><![CDATA[2 | Krankenversicherung 30 % 70 %]]></Answer>
+<Answer Number="4"><![CDATA[3 | Arbeitslosenversicherung 70 % 30 %]]></Answer>
+<Answer Number="5"><![CDATA[4 | Rentenversicherung — 100 %]]></Answer>
+<Answer Number="6"><![CDATA[5 | Unfallversicherung 100 %]]></Answer>
+<Answer Number="7"><![CDATA[ZPA IT WiSo 6]]></Answer>
 </Answers>
 <CorrectAnswers>
 	<!--TODO: Mark correct answers-->
@@ -323,6 +338,7 @@ Tragen Sie die Ziffern vor den zwei zutreffenden Risiken in die Kästchen ein.
 <Answer Number="3"><![CDATA[Wegeunfall]]></Answer>
 <Answer Number="4"><![CDATA[Arbeitslosigkeit]]></Answer>
 <Answer Number="5"><![CDATA[Anklage]]></Answer>
+<Answer Number="6"><![CDATA[[6] Unfallschaden des PKW]]></Answer>
 </Answers>
 <CorrectAnswers>
 	<!--TODO: Mark correct answers-->
@@ -394,6 +410,11 @@ Bei welcher der folgenden Zielpaarungen handelt es sich um konkurrierende Ziele?
 Tragen Sie die Ziffer vor der zutreffenden Zielpaarung in das Kästchen ein.
 ]]></Text>
 <Answers>
+<Answer Number="1"><![CDATA[Umsatzsteigerung und Gewinnmaximierung]]></Answer>
+<Answer Number="2"><![CDATA[Kostenminimierung und Gewinnmaximierung]]></Answer>
+<Answer Number="3"><![CDATA[Einführung einer Betriebsrente und Reduzierung der Sozialleistungen]]></Answer>
+<Answer Number="4"><![CDATA[Erhöhung der Produktionsmenge und Vergrößerung der Produktionskapazitäten]]></Answer>
+<Answer Number="5"><![CDATA[Abbau von Arbeitsplätzen und Outsourcing des Rechnungswesens]]></Answer>
 </Answers>
 <CorrectAnswers>
 	<!--TODO: Mark correct answers-->
@@ -408,13 +429,16 @@ Ordnen Sie die folgenden Formen der Zusammenarbeit den nachstehenden Sachverhalt
 Tragen Sie die Ziffer vor der jeweils zutreffenden Form der Zusammenarbeit in das Kästchen ein.
 ]]></Text>
 <Answers>
-<Answer Number="1"><![CDATA[Formen der Zusammenarbeit [1] Fusion [2] Kartell Konzern]]></Answer>
-<Answer Number="2"><![CDATA[Arbeitsgemeinschaft]]></Answer>
-<Answer Number="3"><![CDATA[Sachverhalte]]></Answer>
-<Answer Number="4"><![CDATA[a) Mehrere Unternehmen führen gemeinsam einen Großauftrag aus.]]></Answer>
-<Answer Number="5"><![CDATA[b) Die EPS AG hat die Aktienmehrheit an der Tuxa AG übernommen.]]></Answer>
-<Answer Number="6"><![CDATA[c) Die Summer IT GmbH vereinbart mit Wettbewerbern einheitliche Verkaufskonditionen.]]></Answer>
-<Answer Number="7"><![CDATA[d) Zwei Kunden der Summer IT GmbH, die Schmidt GmbH und die Weber KG, schließen sich zur Schmidt GmbH & Co. KG zusammen.]]></Answer>
+<Answer Number="1"><![CDATA[Formen der Zusammenarbeit]]></Answer>
+<Answer Number="2"><![CDATA[[1] Fusion]]></Answer>
+<Answer Number="3"><![CDATA[[2] Kartell]]></Answer>
+<Answer Number="4"><![CDATA[Konzern]]></Answer>
+<Answer Number="5"><![CDATA[Arbeitsgemeinschaft]]></Answer>
+<Answer Number="6"><![CDATA[Sachverhalte]]></Answer>
+<Answer Number="7"><![CDATA[a) Mehrere Unternehmen führen gemeinsam einen Großauftrag aus.]]></Answer>
+<Answer Number="8"><![CDATA[b) Die EPS AG hat die Aktienmehrheit an der Tuxa AG übernommen.]]></Answer>
+<Answer Number="9"><![CDATA[c) Die Summer IT GmbH vereinbart mit Wettbewerbern einheitliche Verkaufskonditionen.]]></Answer>
+<Answer Number="10"><![CDATA[d) Zwei Kunden der Summer IT GmbH, die Schmidt GmbH und die Weber KG, schließen sich zur Schmidt GmbH & Co. KG zusammen.]]></Answer>
 </Answers>
 <CorrectAnswers>
 	<!--TODO: Mark correct answers-->
@@ -434,6 +458,7 @@ Tragen Sie die Ziffer vor der dem zutreffenden Fall in das Kästchen ein.
 <Answer Number="4"><![CDATA[erwirbt die Kapitalmehrheit an einem Produzenten, um Einfluss auf dessen Produktpolitik nehmen zu können.]]></Answer>
 <Answer Number="5"><![CDATA[übernimmt vollständig ein Unternehmen aus einem Geschäftsumfeld, in dem die Summer IT GmbH bisher nicht vertreten ist.]]></Answer>
 <Answer Number="6"><![CDATA[lässt sich nun auch von der Hayer GmbH beliefern.]]></Answer>
+<Answer Number="7"><![CDATA[ZPA IT WiSo 8]]></Answer>
 </Answers>
 <CorrectAnswers>
 	<!--TODO: Mark correct answers-->
@@ -490,7 +515,12 @@ Zu welcher der folgenden Rechtshandlungen ist ein Prokurist nur mit besonderer E
 Tragen Sie die Ziffer vor der zutreffenden Rechtshandlung in das Kästchen ein.
 ]]></Text>
 <Answers>
-<Answer Number="1"><![CDATA[Kauf eines Betriebsgrundstücks [2] Aufnahme eines Darlehens Prozessführung]]></Answer>
+<Answer Number="1"><![CDATA[Kauf eines Betriebsgrundstücks]]></Answer>
+<Answer Number="2"><![CDATA[[2] Aufnahme eines Darlehens]]></Answer>
+<Answer Number="3"><![CDATA[Prozessführung]]></Answer>
+<Answer Number="4"><![CDATA[[4] Kündigung von Arbeitsverträgen]]></Answer>
+<Answer Number="5"><![CDATA[Veräußerung von Grundstücken]]></Answer>
+<Answer Number="6"><![CDATA[ZPA IT WiSo 9]]></Answer>
 </Answers>
 <CorrectAnswers>
 	<!--TODO: Mark correct answers-->
@@ -506,7 +536,9 @@ Tragen Sie die Ziffer vor dem zutreffenden Teil des Businessplans in das Kästch
 <Answers>
 <Answer Number="1"><![CDATA[Unternehmensbeschreibung]]></Answer>
 <Answer Number="2"><![CDATA[Standortbeschreibung]]></Answer>
-<Answer Number="3"><![CDATA[Beschreibung der Produkte und Leistungen Markt— und Wettbewerbsanalyse Finanzplanung]]></Answer>
+<Answer Number="3"><![CDATA[Beschreibung der Produkte und Leistungen]]></Answer>
+<Answer Number="4"><![CDATA[Markt— und Wettbewerbsanalyse]]></Answer>
+<Answer Number="5"><![CDATA[Finanzplanung]]></Answer>
 </Answers>
 <CorrectAnswers>
 	<!--TODO: Mark correct answers-->
@@ -543,7 +575,10 @@ Tragen Sie die Ziffer vor dem zutreffenden Sachverhalt in das Kästchen ein.
 <Answer Number="3"><![CDATA[Der organisatorische Aufwand erhöht sich, weil die Arbeitsabläufe aufeinander abgestimmt werden müssen.]]></Answer>
 <Answer Number="4"><![CDATA[Die Arbeit wird abwechslungsreicher für die Arbeitnehmer.]]></Answer>
 <Answer Number="5"><![CDATA[Der Kommunikationsaufwand wird reduziert.]]></Answer>
-<Answer Number="6"><![CDATA[PRÜFUNGSZEIT — NICHT BESTANDTEIL DER PRÜFUNG!]]></Answer>
-<Answer Number="7"><![CDATA[Wie beurteilen Sie nach der Bearbeitung der Aufgaben die zur Verfügung stehende Prüfungszeit?]]></Answer>
-<Answer Number="8"><![CDATA[[1] Sie hätte kürzer sein können. Sie war angemessen. Sie hätte länger sein müssen.]]></Answer>
+</Answers>
+<CorrectAnswers>
+	<!--TODO: Mark correct answers-->
+	<Answer Number=""/>
+</CorrectAnswers>
+</Question>
 </Exam>

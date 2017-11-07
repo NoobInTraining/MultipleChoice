@@ -22,10 +22,13 @@ namespace WiSoAbschluss
             questions.AppendLine("<Exam Name=\"\">");
 
             string path = @"C:\Users\Mümmelmann\Documents\Visual Studio 2017\Projects\WiSoAbschluss\WISO_W2016_A_PDF24";
-            //convertAllImagesInDocrectoryAsync(path, ".png");
+			if (!Directory.Exists(path))
+				path = @"D:\Git Projects\MultipleChoice\WISO_W2016_A_PDF24";
 
-            //as soon as the first process stops we can start working 
-            while (!processes.All(p => p.HasExited))
+			//convertAllImagesInDocrectoryAsync(path, ".png"); 
+
+			//as soon as the first process stops we can start working 
+			while (!processes.All(p => p.HasExited))
             {
                 Thread.Sleep(2000);
                 while (processes.Any(p => p.HasExited))
@@ -144,8 +147,14 @@ namespace WiSoAbschluss
 				}
             }
 
-
-        }
+			//The last question is closed here
+			questions.AppendLine("</Answers>");
+			questions.AppendLine("<CorrectAnswers>");
+			questions.AppendLine("\t<!--TODO: Mark correct answers-->");
+			questions.AppendLine("\t<Answer Number=\"\"/>");
+			questions.AppendLine("</CorrectAnswers>");
+			questions.AppendLine("</Question>");
+		}
 
 		/// <summary>
 		/// checks wether line cotains less than 7 words -> new 
