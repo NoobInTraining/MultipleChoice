@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 
 namespace WiSoLibrary
 {
+	/// <summary>
+	/// Represents a final exam
+	/// </summary>
 	public class Exam
 	{
 		public Exam()
@@ -15,8 +18,28 @@ namespace WiSoLibrary
 			Questions = new List<Question>();
 		}
 
-		public string Name { get; set; }
+		/// <summary>
+		/// The name of the exam
+		/// </summary>
+		public string Name { get; private set; }
 
+		/// <summary>
+		/// The Year in wich this exam was written in.
+		/// </summary>
+		public DateTime Year { get; set; }
+
+		/// <summary>
+		/// Sets the year Property of this class according to the season and the year it was written in.
+		/// </summary>
+		/// <remarks>Year = new DateTime(year.Year, (int) season, 1);</remarks>
+		public void SetYearFromDateAndSeason(DateTime year, Season season)
+		{
+			Year = new DateTime(year.Year, (int) season, 1);
+		}
+
+		/// <summary>
+		/// A List of questions contianed in the exam
+		/// </summary>
 		public List<Question> Questions { get; private set; }
 
 		/// <summary>
@@ -47,6 +70,9 @@ namespace WiSoLibrary
 
 			//set the name
 			exam.Name = xml.Root.Attribute("Name").Value;
+			var season = xml.Root.Attribute("Season").Value;
+			var year = xml.Root.Attribute("Year").Value;
+			Enum.Parse(typeof(Season), season, true);
 
 			//itterate through all questions
 			foreach (var q in xml.Root.Elements())
