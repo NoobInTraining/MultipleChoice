@@ -259,3 +259,4 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/PDFLib-v2.1 Assembly and Doc/PDFLib-v2.1 Assembly and Doc
