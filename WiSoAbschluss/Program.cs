@@ -18,14 +18,20 @@ namespace WiSoAbschluss
         static void Main(string[] args)
         {			
             processes = new List<Process>(13);
-            questions = new StringBuilder(100);
-            questions.AppendLine("<Exam Name=\"\">");
 
-            string path = @"C:\Users\Mümmelmann\Documents\Visual Studio 2017\Projects\WiSoAbschluss\WISO_W2016_A_PDF24";
-            //convertAllImagesInDocrectoryAsync(path, ".png");
+			string path = @"C:\Users\Mümmelmann\Documents\Visual Studio 2017\Projects\WiSoAbschluss\WISO_W2016_A_PDF24";
+			if (!Directory.Exists(path))
+				path = @"D:\Git Projects\MultipleChoice\WISO_W2016_A_PDF24";
 
-            //as soon as the first process stops we can start working 
-            while (!processes.All(p => p.HasExited))
+			//convertAllImagesInDocrectoryAsync(path, ".png"); 
+
+			questions = new StringBuilder(100);
+			questions.AppendLine("<Exam Name=\"\" ");
+			calculateYearAndSuch(path);
+
+
+			//as soon as the first process stops we can start working 
+			while (!processes.All(p => p.HasExited))
             {
                 Thread.Sleep(2000);
                 while (processes.Any(p => p.HasExited))
@@ -46,7 +52,20 @@ namespace WiSoAbschluss
 
         }
 
-        private static void convertTextFiles(string path)
+		/// <summary>
+		/// Adds the Year And Season attribbute wich is derived from th eifle header
+		/// </summary>
+		/// <param name="path"></param>
+		private static void calculateYearAndSuch(string path)
+		{
+			throw new NotImplementedException();
+		}		
+
+		/// <summary>
+		/// Yoloconverts textfiles to xml
+		/// </summary>
+		/// <param name="path"></param>
+		private static void convertTextFiles(string path)
         {
             var answer = new StringBuilder();
             bool isAnswer = false;
@@ -144,8 +163,14 @@ namespace WiSoAbschluss
 				}
             }
 
-
-        }
+			//The last question is closed here
+			questions.AppendLine("</Answers>");
+			questions.AppendLine("<CorrectAnswers>");
+			questions.AppendLine("\t<!--TODO: Mark correct answers-->");
+			questions.AppendLine("\t<Answer Number=\"\"/>");
+			questions.AppendLine("</CorrectAnswers>");
+			questions.AppendLine("</Question>");
+		}
 
 		/// <summary>
 		/// checks wether line cotains less than 7 words -> new 
