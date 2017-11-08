@@ -24,7 +24,7 @@ namespace WiSoAbschluss
 			
 			foreach(var directory in Directory.GetDirectories(path))
 			{
-				processDirecotry(directory);
+				processDirecotry(directory, false);
 			}
 
 		}
@@ -74,7 +74,7 @@ namespace WiSoAbschluss
 
 			string year = "20" + myear.Value.Replace("_", ""); 
 			string season = mseason.Value == "Wi" ? "Winter" : "Summer";
-			questions.AppendLine($" Name=\"{Path.GetFileName(path)}\" Year=\"{year}\" Season=\"{season}\">");			
+			questions.AppendLine($"Name=\"{Path.GetFileName(path)}\" Year=\"{year}\" Season=\"{season}\">");			
 		}		
 
 		/// <summary>
@@ -85,6 +85,7 @@ namespace WiSoAbschluss
         {
             var answer = new StringBuilder();
             bool isAnswer = false;
+			string[] ignoreLines = new string[] { "ZPA IT WiSo" };
             //itterate trhourh all ifles
             foreach (var file in Directory.GetFiles(path, "*.txt"))                
             {
@@ -97,11 +98,14 @@ namespace WiSoAbschluss
 					{
 						#region [ start ofa new question ]
 
+						if (ignoreLines.Any(p => line.StartsWith(p)))
+							continue;
+
 						//the begiinig of a new question
-						if (Regex.IsMatch(line, @"\d+\. Aufgabe"))
+						if (Regex.IsMatch(line, @"^\d+\.? Aufgabe"))
 						{
 							//close the other quesion
-							if (questions.Length > 0)
+							if (questions.Length > 2)
 							{
 								questions.AppendLine("</Answers>");
 								questions.AppendLine("<CorrectAnswers>");
@@ -154,7 +158,7 @@ namespace WiSoAbschluss
 						#region [ Check if the next block is the answer block ]
 
 						//the start of an answer block
-						if (Regex.IsMatch(line, "T?ragen Sie die Ziffern?"))
+						if (Regex.IsMatch(line, "T?ragen Sie (\\w )*die Ziffern?"))
 						{
 							//answer block starts
 							isAnswer = true;
@@ -196,8 +200,8 @@ namespace WiSoAbschluss
 		/// <returns></returns>
 		private static bool lineIsAnswerEnding(string line)
 		{			
-			//assumption if under 5 words its the end
-			if (line.Split(' ').Length <= 7)
+			//assumption if under9 words its the end
+			if (line.Split(' ').Length <= 9)
 				return true;
 
 			//If the lines ends on either . or ? or !
