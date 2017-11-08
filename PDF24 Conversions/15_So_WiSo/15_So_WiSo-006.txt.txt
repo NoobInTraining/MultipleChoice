@@ -1,0 +1,48 @@
+16. Aufgabe
+Für die drei Geschäftsbereiche der Krypto—Control GmbH liegen für das Jahr 2014 folgende Geschäftsergebnisse vor:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Geschäftsbereich | Aufwand Ertrag
+Nr. EUR EUR
+1 250.000 325.000
+2 85.000 119.000
+3 40.000 60.000
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ermitteln Sie den wirtschaftlichsten Geschäftsbereich.
+
+Tragen Sie die Nummer des wirtschaftlichsten Geschäftsbereichs und dessen Wirtschaftlichkeit in die Kästchen ein.
+
+ 
+
+17. Aufgabe
+
+Ein Zulieferer der Krypto—Control GmbH hat bislang 720 Teile in 48 Arbeitsstunden hergestellt. Durch den Einsatz eines Fertigungsautomaten können
+nun 960 Teile in 16 Arbeitsstunden hergestellt werden.
+
+Arbeitsproduktivität = Ausbringungsmenge / Arbeitseinsatzmenge
+
+Ermitteln Sie, um wie viel Prozent die Arbeitsproduktivität gestiegen ist.
+
+Tragen Sie das Ergebnis in die Kästchen ein.
+
+ 
+
+ZPA IT WiSo 6
+

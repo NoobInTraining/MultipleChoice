@@ -1,0 +1,172 @@
+ 
+
+13. Aufgabe
+Der Mitarbeiter Peter Sendler teilt der Personalabteilung der YUHU GmbH mit, dass er seine Tätigkeit für die YUHU GmbH zum 15.06.2012 beenden
+möchte.
+
+Ermitteln Sie das Datum, an dem Herrn Sendlers Kündigung spätestens bei der YUHU GmbH eingegangen sein muss (siehe Arbeitsvertrag, Auszug
+aus & 622 BGB und Kalenderauszug 2012).
+
+Tragen Sie das Datum (TT.MM.JJMJ) in die Kästchen ein.
+
+ 
+
+Arbeitsvertrag (Auszug)
+
+Zwischen der YUHU GmbH, vertreten durch Frau Gerda Weinrich, Rahlstetter Str. 144, 22143 Hamburg, und Herrn Peter Sendler, Ackerstr. 4,
+20144 Hamburg, wird folgender Arbeitsvertrag geschlossen;
+
+& 1 Beginn des Arbeitsverhältnisses
+Das Arbeitsverhältnis beginnt am 15.12.2011.
+
+& 2 Probezeit
+Die Probezeit beträgt sechs Monate.
+
+& 11 Beendigung des Arbeitsverhältnisses
+Für die Kündigung des Arbeitsverhältnisses gelten die gesetzlichen Kündigungsfristen.
+
+Hamburg, 14.12.2011 (YUHU GmbH) (Peter Sendler)
+
+ 
+
+ 
+
+$ 622 BGB Kündigungsfrist bei Arbeitsverhältnissen
+
+(1) Das Arbeitsverhältnis eines Arbeiters oder eines Angestellten (Arbeitnehmers) kann mit einer Frist von vier Wochen zum Fünfzehnten oder zum
+Ende eines Kalendermonats gekündigt werden.
+
+(2) Für eine Kündigung durch den Arbeitgeber beträgt die Kündigungsfrist, wenn das Arbeitsverhältnis in dem Betrieb oder Unternehmen
+
+1. zwei Jahre bestanden hat, einen Monat zum Ende eines Kalendermonats,
+
+2. fünf Jahre bestanden hat, zwei Monate zum Ende eines Kalendermonats,
+
+3. acht Jahre bestanden hat, drei Monate zum Ende eines Kalendermonats,
+
+4. zehn Jahre bestanden hat, vier Monate zum Ende eines Kalendermonats,
+
+5. zwölf Jahre bestanden hat, fünf Monate zum Ende eines Kalendermonats,
+
+6. fünfzehn Jahre bestanden hat, sechs Monate zum Ende eines Kalendermonats,
+
+7. zwanzig Jahre bestanden hat, sieben Monate zum Ende eines Kalendermonats.
+
+Bei der Berechnung der Beschäftigungsdauer werden Zeiten, die vor der Vollendung des 25. Lebensjahres des Arbeitnehmers liegen, nicht
+berücksichtigt.
+
+(3) Während einer vereinbarten Probezeit, längstens für die Dauer von sechs Monaten, kann das Arbeitsverhältnis mit einer Frist von zwei Wochen
+gekündigt werden.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+April 2012 Mai 2012 Juni 2012
+KW |MODI|MI|DO|FR|SA| SO KW MO|DI|IMI|DO|FR|SA| SO | |KW|MO|DI|MI|DO/FR|SA| SO
+13 1 18 1]2| 3 | 4/5 | 6 22 1 | 2 | 3
+
+ 
+
+14 | 2 | 3|4| 5 | 6 | 7 | 8 19 | 7 | 8 | 9 | 10 /|11/12| 13 23 | 4 | 5/6] 7 | 8 9 | 10
+15 | 9 [10/1112 [1314| 15 20 | 14 (1516| 17 | 18 19 | 20 24 | 11 [1213| 14 | 1516| 17
+16 | 16 [17/18] 19 ( 20 | 21| 22 21 | 21 [22/23| 24 | 25 | 26| 27 25 | 18 [19|20| 21 | 22 |23| 24
+17 | 23 [2425| 26 | 27 | 28 | 29 22 | 28 (2930| 31 26 | 25 [2627| 28 | 29 | 30
+18 | 30
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+14. Aufgabe
+Auszubildende der YUHU GmbH diskutieren über Beispiele zur beruflichen Fortbildung.
+
+Welches der folgenden Beispiele zur beruflichen Fortbildung trifft zu?
+
+Tragen Sie die Ziffer vor dem zutreffenden Beispiel in das Kästchen ein.
+
+e e nn n
+
+1] Fritz Wagner besucht nach dem Abschluss der mittleren Reife (MSA) die Berufsfachschule für elekxtrotechnische Assistenten.
+
+Ein Auszubildender der YUHU GmbH nimmt in einer überbetrieblichen Ausbildungsstätte an einem Lehrgang zur Kunststoffbearbeitung teil.
+[3] Sie besuchen an der Volkshochschule einen Segelkurs.
+
+Ein Auszubildender mit Abitur will nach Abschluss der Ausbildung studieren.
+
+Die Auszubildende Petra Schulz nimmt nach der Ausbildung zur |T—Systemkauffrau an einem Fernlehrgang „Technisches Englisch” teil,
+
+ZPA IT WiSo 5
+
+ 
+
+ 
+

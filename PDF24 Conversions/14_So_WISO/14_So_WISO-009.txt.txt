@@ -1,0 +1,116 @@
+22. Aufgabe
+Aus der Tageszeitung erfahren Sie von der Gründung eines neuen Mitbewerbers, der Biber GmbH.
+
+Zu welchem der folgenden Zeitpunkte wurde die Biber GmbH rechtsfähig?
+Tragen Sie die Ziffer vor dem zutreffenden Zeitpunkt in das Kästchen ein.
+
+Mit ...
+
+Eintragung in das Handelsregister
+Anmeldung beim Amtsgericht
+Abschluss des ersten Rechtsgeschäfts
+Einzahlung des Stammkapitals
+Bestellung des Geschäftsführers
+
+23. Aufgabe
+In der Ecotec GmbH wird über Leitungssysteme diskutiert.
+
+Für eine Tischvorlage sind die vier unten stehenden Organigramme erstellt worden.
+
+Ordnen Sie diesen Organigrammen die jeweils entsprechende Bezeichnung zu.
+
+Tragen Sie die Ziffer vor der jeweils zutreffenden Bezeichnung in das Kästchen ein.
+
+ 
+
+ 
+
+Bezeichnungen Organigramme
+
+Matrixorganisation 2) 5)
+Stabsorganisation O Ü O
+Stab—Linien—System O
+
+Gitterorganisation
+
+ 
+
+Einliniensystem
+[6] Mehrliniensystem
+Kennliniensystem
+
+) go
+U
+
+ 
+
+ 
+
+1 1 l
+| Einkauf | rProduktionl | Absatz |
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$
+
+ 
+
+24. Aufgabe
+Für die drei Filialen der Ecotec GmbH in Süddeutschland liegen für das Jahr 2013 folgende Geschäftsergebnisse vor:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Filiale | Aufwand | Ertrag
+Nr. EUR EUR
+
+1 300.000 | 390.000
+
+2 80.000 | 120.000
+
+3 40.000 | 56.000
+
+ 
+
+ 
+
+ 
+
+Ermitteln Sie die Filiale mit der höchsten Wirtschaftlichkeit.
+
+Tragen Sie die Nummer der wirtschaftlichsten Filiale und deren Wirtschaftlichkeit in die Kästchen ein. Wirtschaftlichkeitswert ggf. auf eine Stelle nach
+dem Komma runden.
+
+ 
+
+ZPA IT WiSo 9
+
+ 
+
+ 
+

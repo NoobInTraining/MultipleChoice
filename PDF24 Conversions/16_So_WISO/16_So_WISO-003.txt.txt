@@ -1,0 +1,206 @@
+5. Aufgabe
+
+Im Zuge einer Umstrukturierung will die Easter GmbH den Arbeitsvertrag mit einem Mitarbeiter zum 31.01.2017 fristgerecht kündigen.
+
+Der Mitarbeiter ist 45 Jahre alt und seit dem 1. Februar 2010 bei der Easter GmbH beschäftigt.
+
+Ermitteln Sie das Datum, an dem die Kündigung zum 31. Januar 2017 dem Mitarbeiter spätestens zugegangen sein muss, damit die Kündigung
+
+wirksam ist.
+
+Tragen Sie das ermittelte Datum in die Kästchen ein.
+
+Auszug aus dem Bürgerlichen Gesetzbuch (BGB)
+
+ 
+
+$ 622 Kündigungsfristen bei Arbeitsverhältnissen
+
+Ende eines Kalendermonats gekündigt werden.
+
+(2) Für eine Kündigung durch den Arbeitgeber beträgt die Kündigungsfrist, wenn das Arbeitsverhältnis in dem Betrieb oder Unternehmen
+
+(1) Das Arbeitsverhältnis eines Arbeiters oder eines Angestellten (Arbeitnehmers) kann mit einer Frist von vier Wochen zum Fünfzehnten oder zum
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1. zwei Jahre bestanden hat, einen Monat zum Ende eines Kalendermonats,
+
+2. fünf Jahre bestanden hat, zwei Monate zum Ende eines Kalendermonats,
+
+3. acht Jahre bestanden hat, drei Monate zum Ende eines Kalendermonats,
+
+4. zehn Jahre bestanden hat, vier Monate zum Ende eines Kalendermonats,
+
+5. zwölf Jahre bestanden hat, fünf Monate zum Ende eines Kalendermonats,
+
+6. 15 Jahre bestanden hat, sechs Monate zum Ende eines Kalendermonats,
+
+7. 20 Jahre bestanden hat, sieben Monate zum Ende eines Kalendermonats.
+
+September 2016 Oktober 2016 November 2016 Dezember 2016
+KW | Mo] Di | Mi | Do | Fr | sa | so |kw|mo| Di | mi | Do | Fr | sa | so |kw|mo| Di | mi | Do | Fr | sa | so |Kw|mol vi | mi | Do | Fr | sa | so
+35 1| 2| 3| 4| 39 2| 44 1| 2| 31 4| 5| 6l 48 3| 4
+36| s| 6l 7| 8j 9|l 10] 11| 40 31 4| s5| el 371 gl 9l 45| 7| & 10| 11| 12| 13| 49| 5| 6l 7 10| 11
+37| 12| 13| 14| 1s| 16| 17| ag] 412| ao 11| 12| 131 14 as| 1416| 46| 14| as| 16| 17| 1g| 19| 201 5o| 12| 13} a4f as| 16| 17| 18
+38 19| 20| 21| 22| 23| 241 25| 42| 171 18 191 20 211 22| 231 47| 21l 22| 231 241 251 26| 27 54l 1909| 20|\ a1l 22| 9293| 24| 25
+39} 26| 27| 28| 2091| 30 43| 24| 25| 26| 27| 28| 2909| 3o| 48| 28| 2909| 30 52| 26| 27| 28| 29| 3o| 31
+44| 31
+Januar 2017
+
+Kw|Mo| Di | mi | Do | Fr | sa | so
+
+52
+
+7 3| 4| 51 6l 7| &
+
+2 10| 11| 12 | 13 | 14 | 15
+
+3| 16 | 17 | 18 | 19 | 20 | 21| 22
+
+4| 23 | 24 | 251 26 | 27 | 28| 29
+
+5| 30| 31
+6. Aufgabe
+
+In der Easter GmbH wurden verschiedene Sachverhalte durch betriebliche und tarifliche Vereinbarungen geregelt.
+
+Welche der folgenden Sachverhalte können durch eine Betriebsvereinbarung geregelt werden?
+
+Tragen Sie die Ziffern vor den zwei zutreffenden Sachverhalten in die Kästchen ein.
+
+Einführung einer Gleitzeitregelung für die Mitarbeiter der Easter GmbH
+Die Anzahl der Urlaubstage
+
+Die Höhe der Arbeitsentgelte nach Gehaltsgruppen
+
+[4] Aufstellung des Urlaubsplans
+
+Erhöhung der regelmäßigen täglichen Arbeitszeit auf 12 Stunden
+
+[6] Die Dauer der Entgeltfortzahlung im Krankheitsfall
+
+ZPA IT WiSo 3
+
+ 
+

@@ -1,0 +1,106 @@
+22. Aufgabe
+Für ein Produkt, wie es die Krypto—Control GmbH anbietet, wurde für den Gesamtmarkt folgende Angebots— und Nachfragesituation (modellhaft
+vereinfacht) ermittelt.
+
+Angebots— und Nachfragekurve
+EUR
+
+ 
+
+ 
+
+90
+
+ 
+
+Nachfrage
+
+80
+
+ 
+
+Angebot
+70
+
+ 
+
+ 
+
+60
+
+ 
+
+50
+
+ 
+
+40
+
+ 
+
+30
+
+ 
+
+20
+
+ 
+
+10
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+0 200 300 400 soO0 600 70OO 800 Stück
+
+Ermitteln Sie
+
+a) den Preis je Stück, zu dem ein höchstmöglicher Umsatz erzielt werden kann.
+b) den Umsatz, der maximal erzielt werden kann.
+
+c) den Angebotsüberhang bei einem Preis von 70,00 EUR je Stück.
+
+Tragen Sie die Ergebnisse in die Kästchen ein.
+
+ 
+
+23. Aufgabe
+Die Krypto—Control GmbH hat mit der Volt GmbH einen Vertrag geschlossen, der vonseiten der Volt GmbH wie folgt unterschrieben wurde.
+Unterschriften
+a) % b)
+Sekipp Br. Pfeffer
+Martina Schipp i. V. Dr. Karl Pfeffer
+
+Welche der folgenden Stellungen haben Martina Schipp und Dr. Karl Pfeffer in der Volt GmbH laut ihrer Unterschriften?
+
+Tragen Sie die Ziffer vor der jeweils zutreffenden Stellung in das Kästchen ein.
+
+Stellungen
+
+Sekretär/—in Prokurist/—in Kommanditist/—in Geschäftsführer/—in Handlungsbevollmächtigte/—r [6] Vorstand
+
+ZPA IT WiSo 8
+

@@ -1,0 +1,59 @@
+ 
+
+25. Aufgabe
+Die folgende Grafik zeigt die Marktsituation auf dem Markt für ein IT—Produkt, das auch die YUHU GmbH anbietet.
+
+Eine Umfrage ergab, dass die Käufer dieses IT—Produkts von einer Verschlechterung der wirtschaftlichen Entwicklung ausgehen. Es wird daher nur
+noch eine Absatzmenge von 4.000 Stück erwartet.
+
+a) Ermitteln Sie den derzeitigen Gesamtumsatz der Branche für dieses IT—Produkt.
+b) Ermitteln Sie den Stückpreis, den das IT—Produkt in der Modellbetrachtung im neuen Marktgleichgewicht erzielt.
+
+c) Ermitteln Sie den Gesamtumsatz in EUR, der bei dem neuen Marktgleichgewicht erzielt wird.
+Tragen Sie die Ergebnisse in die Kästchen ein.
+— W _ _
+
+90
+
+80
+Nachfrage
+
+Angebot
+
+70
+
+60
+
+50
+
+Preis in EUR
+
+40
+
+30
+
+20
+
+10
+
+ 
+
+1.000 2.000 3.000 4.000 5.000 6.000 7.000 8.000 9.900 10.0€
+
+Menge in Stück
+
+ 
+
+PRÜFUNGSZEIT — NICHT BESTANDTEIL DER PRÜFUNG!
+Wie beurteilen Sie nach der Bearbeitung der Aufgaben die zur Verfügung stehende Prüfungszeit?
+
+Sie hätte kürzer sein können.
+Sie war angemessen.
+Sie hätte länger sein müssen.
+
+ZPA IT Wiso 9
+
+ 
+
+ 
+

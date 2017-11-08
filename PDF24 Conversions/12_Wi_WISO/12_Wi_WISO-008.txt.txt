@@ -1,0 +1,52 @@
+ 
+
+23. Aufgabe
+Die YUHU GmbH wartet elektrische Anlagen. Die Arbeiten dürfen nur durchgeführt werden, wenn eine Anlage spannungsfrei ist. Der spannungsfreie
+Zustand ist nach den Sicherheitsregeln in fünf Arbeitsschritten herzustellen.
+
+Geben Sie die richtige Reihenfolge dieser Arbeitsschritte an.
+
+Tragen Sie für den ersten Arbeitsschritt die Ziffer [1], für den zweiten Arbeitsschritt die Ziffer [2] usw. in die entsprechenden Kästchen ein.
+
+a) Erden und Kurzschließen
+
+b) Spannungsfreiheit feststellen
+
+c) Allpolig und allseitig abschalten
+d) Gegen Wiedereinschalten sichern
+
+e) Gegen benachbarte, unter Spannung stehende Teile schützen
+
+24. Aufgabe
+In der YUHU GmbH sehen Sie die nachstehenden Schilder:
+
+Zu welchen der folgenden Zeichenarten gehören diese Schilder?
+Tragen Sie die Ziffer vor der jeweils zutreffenden Zeichenart in das Kästchen ein.
+
+Zeichenarten
+Verbotszeichen
+Gebotszeichen
+Warnzeichen
+Rettungszeichen
+Brandschutzzeichen
+
+Schüder
+
+a)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ZPA IT WiSo 8
+
+ 
+

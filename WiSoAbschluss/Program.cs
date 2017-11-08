@@ -15,18 +15,29 @@ namespace WiSoAbschluss
         private static List<Process> processes;
         private static StringBuilder questions;
 
-        static void Main(string[] args)
-        {			
+		static void Main(string[] args)
+		{
+
+			string path = @"C:\Users\Mümmelmann\Documents\visual studio 2017\Projects\WiSoAbschluss\PDF24 Conversions";
+			if (!Directory.Exists(path))
+				/*path = @"D:\Git Projects\MultipleChoice\WISO_W2016_A_PDF24"*/;
+			
+			foreach(var directory in Directory.GetDirectories(path))
+			{
+				processDirecotry(directory);
+			}
+
+		}
+
+		static void processDirecotry(string path, bool convert = true, string fileEnding = ".png")
+		{ 
             processes = new List<Process>(13);
 
-			string path = @"C:\Users\Mümmelmann\Documents\Visual Studio 2017\Projects\WiSoAbschluss\WISO_W2016_A_PDF24";
-			if (!Directory.Exists(path))
-				path = @"D:\Git Projects\MultipleChoice\WISO_W2016_A_PDF24";
-
-			//convertAllImagesInDocrectoryAsync(path, ".png"); 
+			if (convert)
+				convertAllImagesInDicrectoryAsync(path, fileEnding);
 
 			questions = new StringBuilder(100);
-			questions.AppendLine("<Exam Name=\"\" ");
+			questions.Append("<Exam ");
 			calculateYearAndSuch(path);
 
 
@@ -58,7 +69,12 @@ namespace WiSoAbschluss
 		/// <param name="path"></param>
 		private static void calculateYearAndSuch(string path)
 		{
-			throw new NotImplementedException();
+			var myear = Regex.Match(path, @"\d\d_");
+			var mseason = Regex.Match(path, @"[WS][io]");
+
+			string year = "20" + myear.Value.Replace("_", ""); 
+			string season = mseason.Value == "Wi" ? "Winter" : "Summer";
+			questions.AppendLine($" Name=\"{Path.GetFileName(path)}\" Year=\"{year}\" Season=\"{season}\">");			
 		}		
 
 		/// <summary>

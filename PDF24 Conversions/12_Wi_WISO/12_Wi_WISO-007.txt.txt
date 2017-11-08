@@ -1,0 +1,148 @@
+19. Aufgabe
+
+ 
+
+Eine Mitarbeiterin der YUHU GmbH ist arbeitsunfähig, weil sie am Vortag auf dem direkten Weg zur Arbeit bei einem Verkehrsunfall schwer verletzt
+
+wurde.
+
+Welche der folgenden Aussagen ist in diesem Zusammenhang zutreffend?
+Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein
+
+Die YUHU GmbH ...
+
+muss den Unfall der Krankenversicherung der Mitarbeiterin melden.
+darf die Gehaltszahlung ab dem ersten Krankheitstag einstellen.
+darf den Urlaubsanspruch der Mitarbeiterin kürzen.
+
+muss den Unfall der Gewerbeaufsichtsbehörde melden.
+
+muss den Unfall der Berufsgenossenschaft melden.
+
+20. Aufgabe
+Die YUHU GmbH muss eine Fachkraft für Arbeitssicherheit stellen.
+
+Aufgrund welcher der folgenden Rechtsgrundlagen ist die YUHU GmbH dazu verpflichtet?
+Tragen Sie die Ziffer vor der zutreffenden Rechtsgrundlage in das Kästchen ein.
+
+Arbeitsplatzschutzgesetz
+Arbeitssicherheitsgesetz
+GmbH—Gesetz
+Unfallverhütungsvorschriften
+Betriebsverfassungsgesetz
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+21. Aufgabe
+Das folgende Schema zeigt das Leitungssystem der YUHU GmbH:
+Leitung
+|
+| | |
+Einkauf Produktion Absatz
+PC
+Netz
+Software
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nach welchem der folgenden Leitungssysteme arbeitet die YUHU GmbH?
+
+Tragen Sie die Ziffer vor dem zutreffenden Leitungssystem in das Kästchen ein.
+
+Einliniensystem Matrixsystem Mehrliniensystem Stabliniensystem
+
+22. Aufgabe
+
+Abteilungssystem
+
+In der YUHU GmbH werden Arbeitsplätze durch Fertigungsautomaten ersetzt. Dadurch können in derselben Arbeitszeit doppelt so viele Teile wie
+
+vorher produziert werden.
+
+Welche der folgenden Aussagen ist in diesem Zusammenhang richtig?
+
+Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.
+
+Für die Bedienung des Fertigungsautomaten muss ein Ingenieur eingestellt werden.
+
+Die Arbeitsproduktivität wird größer.
+Der Anteil der Lohnkosten an den Herstellungskosten für ein Teil wird größer.
+
+Die Anschaffung der Fertigungsautomaten ist nur möglich, wenn der Betriebsrat zustimmt.
+
+Die Herstellungskosten für ein Teil erhöhen sich um 100 Prozent.
+
+ZPA IT WiSo 7
+
+ 
+

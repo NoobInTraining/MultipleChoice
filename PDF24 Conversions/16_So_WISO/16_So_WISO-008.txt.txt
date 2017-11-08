@@ -1,0 +1,87 @@
+22. Aufgabe
+In einem Arbeitstreffen analysieren Sie verschiedene Marktsituationen.
+
+Welcher der folgenden Indikatoren weist auf einen Verkäufermarkt hin?
+
+Tragen Sie die Ziffer vor dem zutreffenden Indikator in das Kästchen ein.
+
+Auf dem Markt für USB—Sticks gibt es weniger Nachfrager als Anbieter.
+
+Einem großen Angebot an Laptops steht eine relativ geringe Nachfrage gegenüber.
+In der IT—Branche herrscht starker Wettbewerb.
+
+Das Angebot an Laptops übersteigt die Nachfrage.
+
+Die Nachfrage nach USB—Sticks ist größer als das Angebot.
+
+23. Aufgabe
+Die Easter GmbH hat der Fresh GmbH ein Kassensystem verkauft:
+
+Rechnungsbetrag: 13.550,00 EUR
+Rechnungsdatum: 24.10.2013
+
+— Zahlungsziel: 08.11.2013
+— Zahlungsbedingung: fällig ohne Abzug
+— Lieferung am: 23. Oktober 2013
+
+Die Fresh GmbH erhielt die Rechnung, zahlt aber nicht.
+Ermitteln Sie, an welchem Tag der Anspruch der Easter GmbH auf die Zahlung der Fresh GmbH um 00:00 Uhr verjährt.
+
+Tragen Sie das ermittelte Datum in die Kästchen ein.
+
+ 
+
+ 
+
+$ 195 (BGB) Regelmäßige Verjährungsfrist
+Die regelmäßige Verjährungsfrist beträgt drei Jahre.
+
+$ 199 (BGB) Beginn der regelmäßigen Verjährungsfrist und Verjährungshöchstfristen
+(1) Die regelmäßige Verjährungsfrist beginnt, soweit nicht ein anderer Verjährungsbeginn bestimmt ist, mit dem Schiuss des Jahres, in dem
+der Anspruch entstanden ist. [...]
+
+ 
+
+ 
+
+ 
+
+24. Aufgabe
+Der 16—jährige Auszubildende Peter Müller kauft einen Motorroller im Wert von 2.299,00 EUR.
+
+Welche der folgenden Aussagen trifft auf dieses Rechtsgeschäft zu?
+Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.
+
+Das Rechtsgeschäft ist nichtig.
+
+Das Rechtsgeschäft ist anfechtbar.
+
+Das Rechtsgeschäft ist bis zur Zustimmung der gesetzlichen Vertreter schwebend unwirksam.
+Das Rechtsgeschäft ist uneingeschränkt gültig.
+
+Peter Müller ist nicht rechtsfähig.
+
+25. Aufgabe
+
+Heinz Müller und Petra Schmitz, die mehrere Jahre in der Easter GmbH beschäftigt waren, wollen sich mit einem IT—Unternehmen selbstständig
+machen.
+
+Die finanzierende Bank erwartet von den Existenzgründern die Vorlage eines Businessplans.
+
+Welche der folgenden Aussagen über einen Businessplan trifft zu?
+
+Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.
+
+Im Businessplan werden die strategischen Ziele der geplanten Unternehmung festgelegt.
+
+Der Businessplan wird von der IHK des Kammerbezirks ausgestellt, in dem das Unternehmen gegründet wird.
+Der Businessplan wird im Handelsregister hinterlegt.
+
+Ein Businessplan muss nur bei der Gründung von Kapitalgesellschaften erstellt werden.
+
+Ein Businessplan ist nur bei der Aufnahme von Darlehen notwendig.
+
+ZPA IT WiSo 8
+
+ 
+
