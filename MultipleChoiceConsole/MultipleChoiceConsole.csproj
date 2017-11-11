@@ -48,5 +48,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WiSoLibrary\WiSoLibrary.csproj">
+      <Project>{319f55f5-41e9-46ef-9a4f-c4caa7045af0}</Project>
+      <Name>WiSoLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
