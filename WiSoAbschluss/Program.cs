@@ -18,13 +18,14 @@ namespace WiSoAbschluss
 		static void Main(string[] args)
 		{
 
-			string path = @"C:\Users\Mümmelmann\Documents\visual studio 2017\Projects\WiSoAbschluss\PDF24 Conversions";
+			string path = @"C:\Users\Mümmelmann\Google Drive\Alle WISO\Als bild"; //<- New directory in drive
+					//  @"C:\Users\Mümmelmann\Documents\visual studio 2017\Projects\WiSoAbschluss\PDF24 Conversions"; // <- Old Dirceoty
 			if (!Directory.Exists(path))
 				/*path = @"D:\Git Projects\MultipleChoice\WISO_W2016_A_PDF24"*/;
 			
 			foreach(var directory in Directory.GetDirectories(path))
 			{
-				processDirecotry(directory, false);
+				processDirecotry(directory, true);
 			}
 
 		}
