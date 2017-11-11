@@ -14,7 +14,7 @@ namespace WiSoLibrary
 		/// <typeparam name="T"></typeparam>
 		/// <param name="list"></param>
 		/// <returns></returns>
-		public static List<T> RandomizeList<T>(this List<T> list)
+		public static List<T> Randomize<T>(this List<T> list)
 		{
 			//initilitze the randomness
 			Random random = new Random();
@@ -42,9 +42,9 @@ namespace WiSoLibrary
 		/// <typeparam name="T"></typeparam>
 		/// <param name="array"></param>
 		/// <returns></returns>
-		public static T[] RandomizeArray<T>(this T[] array)
+		public static T[] Randomize<T>(this T[] array)
 		{
-			return array.ToList().RandomizeList().ToArray();
+			return array.ToList().Randomize().ToArray();
 		}
 	}
 }
