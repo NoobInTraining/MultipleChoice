@@ -25,7 +25,7 @@ namespace WiSoAbschluss
 			
 			foreach(var directory in Directory.GetDirectories(path))
 			{
-				processDirecotry(directory, true);
+				processDirecotry(directory, false);
 			}
 
 		}
@@ -60,7 +60,7 @@ namespace WiSoAbschluss
             convertTextFiles(path);
 
             questions.AppendLine("</Exam>");
-            File.WriteAllText($"{path}\\questions.xml", questions.ToString());
+            File.WriteAllText($"{path}\\questions.xml", questions.ToString(), Encoding.UTF8);
 
         }
 
@@ -86,6 +86,8 @@ namespace WiSoAbschluss
         {
             var answer = new StringBuilder();
             bool isAnswer = false;
+			bool foundAtleastOneQuestion = false, isNotFirstQuestion = false, alreadyClosed = false;
+			bool continueToNextQuestion = false;
 			string[] ignoreLines = new string[] { "ZPA IT WiSo" };
             //itterate trhourh all ifles
             foreach (var file in Directory.GetFiles(path, "*.txt"))                
@@ -102,23 +104,36 @@ namespace WiSoAbschluss
 						if (ignoreLines.Any(p => line.StartsWith(p)))
 							continue;
 
+						//check if we shall continue to next question
+						if (continueToNextQuestion && !Regex.IsMatch(line, @"^\d+\.? Aufgabe"))
+							continue;
+
 						//the begiinig of a new question
 						if (Regex.IsMatch(line, @"^\d+\.? Aufgabe"))
 						{
 							//close the other quesion
-							if (questions.Length > 2)
+							if (isNotFirstQuestion || !(questions.ToString().EndsWith("Season=\"Summer\">\r\n") || questions.ToString().EndsWith("Season=\"Winter\">\r\n")))
 							{
-								questions.AppendLine("</Answers>");
-								questions.AppendLine("<CorrectAnswers>");
-								questions.AppendLine("\t<!--TODO: Mark correct answers-->");
-								questions.AppendLine("\t<Answer Number=\"\"/>");
-								questions.AppendLine("</CorrectAnswers>");
+								//check if question closed already
+								if (!alreadyClosed)
+								{
+									questions.AppendLine("</Answers>");
+									questions.AppendLine("<CorrectAnswers>");
+									questions.AppendLine("\t<!--TODO: Mark correct answers-->");
+									questions.AppendLine("\t<Answer Number=\"\"/>");
+									questions.AppendLine("</CorrectAnswers>");
+								}
 
 								//append lines to mark the begiinin g of anew quesion
 								questions.AppendLine("</Question>");
 
 								//reset answer counter
 								answerNumber = 1;
+
+								//found atleast on quesiton
+								isNotFirstQuestion = true;
+								continueToNextQuestion = false;
+								alreadyClosed = false;
 							}
 
 							//Open the next question
@@ -127,11 +142,17 @@ namespace WiSoAbschluss
 
 							//not the answer block no more
 							isAnswer = false;
+							//question was writte
+							foundAtleastOneQuestion = true;
 						}
 
 						#endregion [ start ofa new question ]
 
-						//down't work on any empty lines
+						//having issues with "Situation" at the begiining of an exam --> when first question is registered this wont be executed anymore
+						if (!foundAtleastOneQuestion)
+							continue;
+
+						//don't work on any empty lines
 						if (!string.IsNullOrWhiteSpace(line))
 						{
 							//during answerblock
@@ -170,6 +191,33 @@ namespace WiSoAbschluss
 							questions.AppendLine("<Answers>");
 							answer.Append($"<Answer Number=\"{answerNumber++}\"><![CDATA[");
 						}
+
+						#region [ check if we shall commence to end due to incopabilities]
+						//thesse types of quesions arnt supported
+						if (Regex.IsMatch(line, "T?ragen Sie (\\w )*(die Anzahl)|(das ermittelte Datum)"))
+						{
+
+							//answer block starts
+							isAnswer = true;
+							answer.Clear();
+							//close the text
+							questions.AppendLine();
+							questions.AppendLine("::Not Supported::");
+							questions.AppendLine("]]></Text>");
+							//start the answers block
+							questions.AppendLine("<!-- TODO: Question Support -->");
+							questions.AppendLine("<Answers>");							
+							questions.AppendLine($"<Answer Number=\"{answerNumber}\">Not Supported</Answer>");
+							questions.AppendLine("</Answers>");
+							questions.AppendLine("<CorrectAnswers>");
+							questions.AppendLine($"\t<Answer Number=\"{answerNumber}\"/>");
+							questions.AppendLine("</CorrectAnswers>");
+
+							alreadyClosed = true;
+							continueToNextQuestion = true;
+						}
+						#endregion
+
 						#endregion [ Check if the next block is the answer block ]
 					}
 
