@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Answer.cs" />
     <Compile Include="Exam.cs" />
+    <Compile Include="MathFunctions.cs" />
     <Compile Include="Question.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ListRandomizer.cs" />
