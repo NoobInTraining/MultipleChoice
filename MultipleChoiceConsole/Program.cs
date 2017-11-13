@@ -15,10 +15,14 @@ namespace MultipleChoiceConsole
 			var d = Exam.GetExamFromXML(@"C:\Users\Mümmelmann\Google Drive\Alle WISO\Korrigierte\16_So_WISO\questions.xml");
 			int points = 0, totalPoints = 0;
 			List<StudentAnswer> givenAnswers = new List<StudentAnswer>();
+			int counter = 1;
 
 			//itterate through all questions
 			foreach (var question in d.Questions.Randomize())
 			{
+				//Spaghetti implemented counter
+				Console.WriteLine($"Question {counter++}/{d.Questions.Count()}");
+				
 				//display the questions
 				Console.WriteLine(question.Text);
 				Console.WriteLine();
@@ -138,8 +142,10 @@ namespace MultipleChoiceConsole
 				Console.WriteLine();
 			}
 
-			
+
+			Console.WriteLine("Press any key to exit!");
+			Console.ReadKey();
+			Environment.Exit(0);
 		}
-		
 	}
 }
