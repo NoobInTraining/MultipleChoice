@@ -88,9 +88,14 @@ namespace WiSoAbschluss
             bool isAnswer = false;
 			bool foundAtleastOneQuestion = false, isNotFirstQuestion = false, alreadyClosed = false;
 			bool continueToNextQuestion = false;
-			string[] ignoreLines = new string[] { "ZPA IT WiSo" };
-            //itterate trhourh all ifles
-            foreach (var file in Directory.GetFiles(path, "*.txt"))                
+			string[] ignoreLines = new string[] {
+				"ZPA IT WiSo" ,
+				"PRÜFUNGSZEIT — NICHT ",
+				"Wie beurteilen Sie nach der Bearbeitung der Aufgaben die zur Verfügung stehend",
+				"Sie hätte kürzer sein können. Sie war angemessen"
+			};
+			//itterate trhourh all ifles
+			foreach (var file in Directory.GetFiles(path, "*.txt"))                
             {
                 int answerNumber = 1;
 
@@ -172,9 +177,10 @@ namespace WiSoAbschluss
 									answer.Append($"\t<Answer Number=\"{answerNumber++}\"><![CDATA[");
 								}
 							}
-							//apppend the line
+							//apppend the line if its not aufgabe xx
 							else
-								questions.AppendLine(line);
+								if(!Regex.IsMatch(line, @"^\d+\.? Aufgabe"))
+									questions.AppendLine(line);
 						}
 
 						#region [ Check if the next block is the answer block ]
@@ -194,7 +200,7 @@ namespace WiSoAbschluss
 
 						#region [ check if we shall commence to end due to incopabilities]
 						//thesse types of quesions arnt supported
-						if (Regex.IsMatch(line, "T?ragen Sie (\\w )*(die Anzahl)|(das ermittelte Datum)"))
+						if (Regex.IsMatch(line, "T?ragen Sie (\\w )*(die Anzahl)|(das ermittelte Datum)|(das Ergebnis)|(die Ergebnisse)"))
 						{
 
 							//answer block starts
