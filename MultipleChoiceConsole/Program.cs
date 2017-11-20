@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
@@ -12,7 +13,18 @@ namespace MultipleChoiceConsole
 	{
 		static void Main(string[] args)
 		{
-			var d = Exam.GetExamFromXML(@"C:\Users\Mümmelmann\Google Drive\Alle WISO\Korrigierte\16_So_WISO\questions.xml");
+			//check if questions.xml exists
+			if (!File.Exists("questions.xml"))
+			{
+				Console.WriteLine("Du musst die \"questions.xml\" Datei mit in dem Ordner abspeichern wo diese .exe liegt.");
+
+				Console.WriteLine("Press any key to exit!");
+				Console.ReadKey();
+				System.Environment.Exit(-1);
+			}
+
+			//load the questions xml
+			var d = Exam.GetExamFromXML(@"questions.xml");
 			int points = 0, totalPoints = 0;
 			List<StudentAnswer> givenAnswers = new List<StudentAnswer>();
 			int counter = 1;
@@ -111,6 +123,8 @@ namespace MultipleChoiceConsole
 				Console.Clear();
 			}
 
+			#region [ Display conclusion ]
+
 			//display conclusion
 			Console.WriteLine($"You got {points}/{totalPoints} correct.");
 			Console.WriteLine();
@@ -124,7 +138,7 @@ namespace MultipleChoiceConsole
 				Console.WriteLine();
 
 				//display correct answers
-				Console.WriteLine($"The correct answer{(item.Question.CorrectAnswers.Count() > 1? "s are": " is")}:");
+				Console.WriteLine($"The correct answer{(item.Question.CorrectAnswers.Count() > 1 ? "s are" : " is")}:");
 				Console.ForegroundColor = ConsoleColor.Green;
 				foreach (var s in item.Question.CorrectAnswers)
 					Console.WriteLine(s.Text.Trim());
@@ -142,6 +156,7 @@ namespace MultipleChoiceConsole
 				Console.WriteLine();
 			}
 
+			#endregion [ Display conclusion ]
 
 			Console.WriteLine("Press any key to exit!");
 			Console.ReadKey();
