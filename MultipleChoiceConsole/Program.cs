@@ -13,6 +13,8 @@ namespace MultipleChoiceConsole
 	{
 		static void Main(string[] args)
 		{
+			AppDomain.CurrentDomain.UnhandledException += UnhandledExceptionHandler;
+
 			//check if questions.xml exists
 			if (!File.Exists("questions.xml"))
 			{
@@ -161,6 +163,25 @@ namespace MultipleChoiceConsole
 			Console.WriteLine("Press any key to exit!");
 			Console.ReadKey();
 			Environment.Exit(0);
+		}
+
+		private static void UnhandledExceptionHandler(object sender, UnhandledExceptionEventArgs e)
+		{
+			if (e.IsTerminating)
+			{
+				Console.WriteLine("Unhandled exception occured.");
+				Console.WriteLine("Exception Message:");
+				Console.WriteLine(((Exception)e.ExceptionObject).Message);
+				Console.WriteLine();
+				Console.WriteLine("Stacktrace:");
+				Console.WriteLine(((Exception)e.ExceptionObject).StackTrace);
+				Console.WriteLine();
+
+
+				Console.WriteLine("Press any key to exit!");
+				Console.ReadKey();
+				Environment.Exit(0);
+			}
 		}
 	}
 }
