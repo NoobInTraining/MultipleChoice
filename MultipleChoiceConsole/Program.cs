@@ -13,7 +13,11 @@ namespace MultipleChoiceConsole
 	{
 		static void Main(string[] args)
 		{
-			foreach (var file in Directory.GetFiles(@"C:\Users\Mümmelmann\Google Drive\IT6x BS14 ITECH\Prüfungen\WiSo Abschlussklausuren xmls\Gesichtete", "questions.xml", SearchOption.AllDirectories))
+			//this goes back 3 folders (..) and then enterns the Klausuren folder
+			var klausurenPath = @"..\..\..\Klausuren";
+			//works only as long as its run from VS or in a similar directoy structure
+
+			foreach (var file in Directory.GetFiles(klausurenPath, "questions.xml", SearchOption.AllDirectories))
 			{
 				//run the test
 				testExam(file);
