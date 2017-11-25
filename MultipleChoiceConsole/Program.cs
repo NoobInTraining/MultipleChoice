@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
@@ -12,7 +13,25 @@ namespace MultipleChoiceConsole
 	{
 		static void Main(string[] args)
 		{
-			var d = Exam.GetExamFromXML(@"C:\Users\Mümmelmann\Google Drive\Alle WISO\Korrigierte\16_So_WISO\questions.xml");
+			foreach (var file in Directory.GetFiles(@"C:\Users\Mümmelmann\Google Drive\IT6x BS14 ITECH\Prüfungen\WiSo Abschlussklausuren xmls\Gesichtete", "questions.xml", SearchOption.AllDirectories))
+			{
+				//run the test
+				testExam(file);
+
+				//check wether to continue
+				Console.WriteLine("Press any key to continue and esc to end examination.");
+				if(Console.ReadKey().Key == ConsoleKey.Escape)				
+					System.Environment.Exit(0);
+
+				//reset console
+				Console.Clear();
+			}
+		}
+
+
+		static private void testExam(string questionXML)
+		{ 
+			var d = Exam.GetExamFromXML(questionXML);
 			int points = 0, totalPoints = 0;
 			List<StudentAnswer> givenAnswers = new List<StudentAnswer>();
 			int counter = 1;
@@ -143,9 +162,8 @@ namespace MultipleChoiceConsole
 			}
 
 
-			Console.WriteLine("Press any key to exit!");
-			Console.ReadKey();
-			Environment.Exit(0);
+			Console.WriteLine("Press any key to continue!");
+			Console.ReadKey();			
 		}
 	}
 }
