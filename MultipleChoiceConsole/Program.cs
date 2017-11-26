@@ -19,8 +19,6 @@ namespace MultipleChoiceConsole
 
 			foreach (var file in Directory.GetFiles(klausurenPath, "questions.xml", SearchOption.AllDirectories))
 			{
-				Console.Title = Path.GetFileNameWithoutExtension(file);
-
 				//run the test
 				testExam(file);
 
@@ -41,6 +39,9 @@ namespace MultipleChoiceConsole
 			int points = 0, totalPoints = 0;
 			List<StudentAnswer> givenAnswers = new List<StudentAnswer>();
 			int counter = 1;
+
+			//set th ttitle
+			Console.Title = d.Name;
 
 			//itterate through all questions
 			foreach (var question in d.Questions.Randomize())
