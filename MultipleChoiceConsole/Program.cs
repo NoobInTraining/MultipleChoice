@@ -19,6 +19,8 @@ namespace MultipleChoiceConsole
 
 			foreach (var file in Directory.GetFiles(klausurenPath, "questions.xml", SearchOption.AllDirectories))
 			{
+				Console.Title = Path.GetFileNameWithoutExtension(file);
+
 				//run the test
 				testExam(file);
 
