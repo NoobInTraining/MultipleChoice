@@ -17,7 +17,7 @@ namespace MultipleChoiceConsole
 			var klausurenPath = @"..\..\..\Klausuren";
 			//works only as long as its run from VS or in a similar directoy structure
 
-			foreach (var file in Directory.GetFiles(klausurenPath, "questions.xml", SearchOption.AllDirectories))
+			foreach (var file in Directory.GetFiles(klausurenPath, "questions.xml", SearchOption.AllDirectories).Randomize())
 			{
 				//run the test
 				testExam(file);
