@@ -80,7 +80,7 @@ namespace MultipleChoiceConsole
 					do
 					{
 						Console.WriteLine($"Type in exactly {question.CorrectAnswers.Count()} numbers (space or comma seperated), that you think are correct and confirm with an enter.");
-						input = MathFunctions.ConvertToIntArray(Regex.Split(Console.ReadLine().Trim(), "[, ]").Distinct());
+						input = MathFunctions.ConvertToIntArray(Regex.Split(Console.ReadLine().Trim(), "[, ]+").Distinct());
 						Console.WriteLine();
 					//do while the lenghts arn't the same or any number is smaller than 1 or greater than the length
 					} while (input.Count() != question.CorrectAnswers.Count() || input.Any(i => i < 1 || i > answers.Length));
