@@ -91,7 +91,7 @@ namespace MultipleChoiceConsole
 
 					//add each index bevor the typed one
 					foreach (int i in input)					
-						selectedAnswer.Add(answers[i - 1]);					
+						selectedAnswer.Add((Answer) answers[i - 1]);					
 				}
 				else
 				{
@@ -107,7 +107,7 @@ namespace MultipleChoiceConsole
 
 					#endregion	
 
-					selectedAnswer.Add(answers[input - 1]);
+					selectedAnswer.Add((Answer) answers[input - 1]);
 				}
 
 				#region [ add points ]

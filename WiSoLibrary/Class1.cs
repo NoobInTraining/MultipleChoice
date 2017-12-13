@@ -9,9 +9,9 @@ namespace WiSoLibrary
 	public enum QuestionTypes
 	{
 		/// <summary>
-		/// A Simple multiplechoice question
+		/// A Simple multiplechoice question with an variable array of answers
 		/// </summary>
-		Simple,
+		Default,
 
 		/// <summary>
 		/// A question where you have to Sort the given values

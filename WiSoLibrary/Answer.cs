@@ -9,7 +9,7 @@ namespace WiSoLibrary
 	/// <summary>
 	/// An answer to a quesion
 	/// </summary>
-	public struct Answer
+	public struct Answer : IAnswer
 	{
 		/// <summary>
 		/// 

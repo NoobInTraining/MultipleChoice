@@ -26,8 +26,11 @@ namespace WiSoLibrary
 		public Question(string text, string imagePath, params Answer[] answers)
 		{
 			Text = text;
-			Answers = answers;
+			var tmp = new List<IAnswer>(answers.Length);
+			Array.ForEach(answers, p => tmp.Add(p));
+			Answers = tmp.ToArray();
 			ImagePath = imagePath;
+			QuestionType = QuestionTypes.Default;
 		}
 		/// <summary>
 		/// The question Text
@@ -37,17 +40,19 @@ namespace WiSoLibrary
 		/// <summary>
 		/// The possible Answers
 		/// </summary>
-		public Answer[] Answers { get; set; }
+		public IAnswer[] Answers { get; set; }
 
 		/// <summary>
 		/// Filter on Answers where IsCorrect is true.
 		/// </summary>
-		public IEnumerable<Answer> CorrectAnswers { get { return Answers.Where(a => a.IsCorrect); } }
+		public IEnumerable<IAnswer> CorrectAnswers { get { return Answers.Where(a => ((Answer)a).IsCorrect); } }
 
 		/// <summary>
 		/// An image belonging to the question
 		/// </summary>
 		public string ImagePath { get; set; }
+
+		public QuestionTypes QuestionType{ get; }
 
 		public bool IsCorrect(params object[] param)
 		{
