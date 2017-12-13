@@ -54,6 +54,14 @@ namespace WiSoLibrary
 
 		public QuestionTypes QuestionType{ get; }
 
+		string[] IQuestion.CorrectAnswers
+		{
+			get
+			{
+				throw new NotImplementedException();
+			}
+		}
+
 		public bool IsCorrect(params IAnswer[] param)
 		{
 			throw new NotImplementedException();

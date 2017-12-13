@@ -77,6 +77,27 @@ namespace WiSoLibrary
 			//itterate through all questions
 			foreach (var q in xml.Root.Elements())
 			{
+				#region [ 13-12-2017: Mutiple type support ]
+
+				//check if attribute exists
+				var attr = q.Attribute("Type");
+				if (attr != null)
+				{
+					//get the type
+					switch (QuestionTypes.Assign.FromString(attr.Value))
+					{
+						case QuestionTypes.Sort:
+							continue;
+						case QuestionTypes.Assign:
+							continue;
+						case QuestionTypes.Input:
+							continue;
+						default:
+							break;
+					}
+				}
+
+				#endregion
 				var answerElements = q.Element("Answers").Elements().ToArray();
 				var correctAnswers = q.Element("CorrectAnswers");
 

@@ -34,5 +34,10 @@ namespace WiSoLibrary
 		/// <param name="param">Answers given by the user</param>
 		/// <returns>If given answers are correct</returns>
 		bool IsCorrect(params IAnswer[] param);
+
+		/// <summary>
+		/// Returns an Array of correct answer
+		/// </summary>
+		string[] CorrectAnswers { get; }
 	}
 }
