@@ -74,7 +74,7 @@ Tragen Sie die Ziffern vor den drei zutreffenden Aussagen in die Kästchen ein.
 </CorrectAnswers>
 </Question>
 <!-- TODO: Question Support -->
-<Question Number="5">
+<Question Number="5" Type="Sort">
 <Text><![CDATA[
 Das PC—Schulungscenter hat sich nach seiner planmäßigen Gründung erfolgreich entwickelt
 Sie wollen einen weiteren Arbeitsplatz im Sekretariat besetzen
