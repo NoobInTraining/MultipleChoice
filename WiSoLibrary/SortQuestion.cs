@@ -12,20 +12,16 @@ namespace WiSoLibrary
 		/// Representing a question of type "Sort"
 		/// </summary>
 		/// <param name="text"></param>
-		public SortQuestion(string text)
+		public SortQuestion(string text, MatchedAnswer[] answers)
 		{
 			this.Text = text;
 			this.QuestionType = QuestionTypes.Sort;
-			
+			this.possibleAnswers = answers;
 		}
 
-		public IAnswer[] Answers
-		{
-			get
-			{
-				throw new NotImplementedException();
-			}
-		}
+		private MatchedAnswer[] possibleAnswers;
+
+		public IAnswer[] Answers => Array.ConvertAll(possibleAnswers, p => (IAnswer) p);
 
 		public string[] CorrectAnswers
 		{
