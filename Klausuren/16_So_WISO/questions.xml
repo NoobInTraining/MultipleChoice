@@ -283,12 +283,12 @@ Tragen Sie die Ziffer vor dem zutreffenden Unternehmen in das Kästchen ein.
 <Answers>
 <Answer Number="1"><![CDATA[SAP AG, Berlin]]></Answer>
 <Answer Number="2"><![CDATA[Microsoft GmbH]]></Answer>
-<Answer Number="3"><![CDATA[[3] Stadtwerke Lübeck]]></Answer>
-<Answer Number="4"><![CDATA[[4] Buchhandlung Hugendubel GmbH]]></Answer>
+<Answer Number="3"><![CDATA[Stadtwerke Lübeck]]></Answer>
+<Answer Number="4"><![CDATA[Buchhandlung Hugendubel GmbH]]></Answer>
 <Answer Number="5"><![CDATA[Adobe Systems GmbH]]></Answer>
 </Answers>
 <CorrectAnswers> 
-	<Answer Number="4"/>
+	<Answer Number="3"/>
 </CorrectAnswers>
 </Question>
 <Question Number="17">
