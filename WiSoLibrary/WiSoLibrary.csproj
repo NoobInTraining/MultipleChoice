@@ -40,7 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Answer.cs" />
+    <Compile Include="SimpleAnswer.cs" />
     <Compile Include="MatchedAnswer.cs" />
     <Compile Include="QuestionTypes.cs" />
     <Compile Include="Exam.cs" />
