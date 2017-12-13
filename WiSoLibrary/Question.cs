@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace WiSoLibrary
 {
-    public struct Question : IQuestion
+    public class SimpleQuestion : IQuestion
     {
 		/// <summary>
 		/// Represents a question
 		/// </summary>
 		/// <param name="text">The actual question</param>
 		/// <param name="answers">List of answers that are accepted.</param>
-		public Question(string text, params Answer[] answers) : this(text, null, answers)
+		public SimpleQuestion(string text, params SimpleAnswer[] answers) : this(text, null, answers)
 		{
 		}
 
@@ -23,7 +23,7 @@ namespace WiSoLibrary
 		/// <param name="text">The actual question</param>
 		/// <param name="imagePath">Path of an image belonging to the exam</param>
 		/// <param name="answers">List of answers that are accepted.</param>
-		public Question(string text, string imagePath, params Answer[] answers)
+		public SimpleQuestion(string text, string imagePath, params SimpleAnswer[] answers)
 		{
 			Text = text;
 			var tmp = new List<IAnswer>(answers.Length);
@@ -45,7 +45,7 @@ namespace WiSoLibrary
 		/// <summary>
 		/// Filter on Answers where IsCorrect is true.
 		/// </summary>
-		public IEnumerable<IAnswer> CorrectAnswers { get { return Answers.Where(a => ((Answer)a).IsCorrect); } }
+		public IEnumerable<IAnswer> CorrectAnswers { get { return Answers.Where(a => ((SimpleAnswer)a).IsCorrect); } }
 
 		/// <summary>
 		/// An image belonging to the question

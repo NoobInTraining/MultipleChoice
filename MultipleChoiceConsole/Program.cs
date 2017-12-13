@@ -46,7 +46,7 @@ namespace MultipleChoiceConsole
 			//itterate through all questions
 			foreach (var q in d.Questions.Randomize())
 			{
-				Question question = (Question)q;
+				SimpleQuestion question = (SimpleQuestion)q;
 
 				//Spaghetti implemented counter
 				Console.WriteLine($"Question {counter++}/{d.Questions.Count()}");
@@ -67,7 +67,7 @@ namespace MultipleChoiceConsole
 				Console.WriteLine();
 
 				//instantiate a new list wich contains the indizies of ansers wich the user has given
-				List<Answer> selectedAnswer = new List<Answer>(question.CorrectAnswers.Count());
+				List<SimpleAnswer> selectedAnswer = new List<SimpleAnswer>(question.CorrectAnswers.Count());
 
 				//check if moa than 1 answer
 				if(question.CorrectAnswers.Count() > 1)
@@ -91,7 +91,7 @@ namespace MultipleChoiceConsole
 
 					//add each index bevor the typed one
 					foreach (int i in input)					
-						selectedAnswer.Add((Answer) answers[i - 1]);					
+						selectedAnswer.Add((SimpleAnswer) answers[i - 1]);					
 				}
 				else
 				{
@@ -107,7 +107,7 @@ namespace MultipleChoiceConsole
 
 					#endregion	
 
-					selectedAnswer.Add((Answer) answers[input - 1]);
+					selectedAnswer.Add((SimpleAnswer) answers[input - 1]);
 				}
 
 				#region [ add points ]

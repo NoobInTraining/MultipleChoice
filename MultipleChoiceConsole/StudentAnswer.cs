@@ -9,8 +9,8 @@ namespace MultipleChoiceConsole
 {
 	struct StudentAnswer
 	{
-		public Question Question { get; set; }
+		public SimpleQuestion Question { get; set; }
 
-		public Answer[] GivenAnswers{ get; set; }
+		public SimpleAnswer[] GivenAnswers{ get; set; }
 	}
 }

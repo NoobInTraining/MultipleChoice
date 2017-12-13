@@ -47,7 +47,7 @@ namespace WiSoLibrary
 		/// </summary>
 		/// <param name="question"></param>
 		/// <exception cref="ArgumentNullException"/>
-		public void AddQuestion(Question question)
+		public void AddQuestion(SimpleQuestion question)
 		{
 			if (question.Answers == null || question.Answers.Length == 0 || string.IsNullOrWhiteSpace(question.Text))
 				throw new ArgumentNullException("Answer and Text of a Question must be set.");
@@ -81,14 +81,14 @@ namespace WiSoLibrary
 				var correctAnswers = q.Element("CorrectAnswers");
 
 				//generate each question
-				List<Answer> answers = new List<Answer>(answerElements.Length);
+				List<SimpleAnswer> answers = new List<SimpleAnswer>(answerElements.Length);
 				Array.ForEach(answerElements, (a) =>
 				{
 					//add the value of the answer and search the correctAnswers elemnt if it contains it
-					answers.Add(new Answer(a.Value, correctAnswers.Elements().Count(c => c.Attribute("Number").Value == a.Attribute("Number").Value) > 0));
+					answers.Add(new SimpleAnswer(a.Value, correctAnswers.Elements().Count(c => c.Attribute("Number").Value == a.Attribute("Number").Value) > 0));
 				});
 
-				exam.AddQuestion(new Question(q.Element("Text").Value, answers.ToArray()));				
+				exam.AddQuestion(new SimpleQuestion(q.Element("Text").Value, answers.ToArray()));				
 			}
 			return exam;
 		}

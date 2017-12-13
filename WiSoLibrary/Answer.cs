@@ -9,14 +9,14 @@ namespace WiSoLibrary
 	/// <summary>
 	/// An answer to a quesion
 	/// </summary>
-	public struct Answer : IAnswer
+	public struct SimpleAnswer : IAnswer
 	{
 		/// <summary>
 		/// 
 		/// </summary>
 		/// <param name="text">The answer</param>
 		/// <param name="isCorrect">Flag if it's the right answer</param>
-		public Answer(string text, bool isCorrect)
+		public SimpleAnswer(string text, bool isCorrect)
 		{
 			Text = text;
 			IsCorrect = isCorrect;
