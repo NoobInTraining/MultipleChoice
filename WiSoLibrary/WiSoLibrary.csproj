@@ -41,7 +41,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Answer.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="Exam.cs" />
+    <Compile Include="IAnswer.cs" />
+    <Compile Include="IQuestion.cs" />
     <Compile Include="MathFunctions.cs" />
     <Compile Include="Question.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

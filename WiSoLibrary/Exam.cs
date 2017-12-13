@@ -15,7 +15,7 @@ namespace WiSoLibrary
 	{
 		public Exam()
 		{
-			Questions = new List<Question>();
+			Questions = new List<IQuestion>();
 		}
 
 		/// <summary>
@@ -40,7 +40,7 @@ namespace WiSoLibrary
 		/// <summary>
 		/// A List of questions contianed in the exam
 		/// </summary>
-		public List<Question> Questions { get; private set; }
+		public List<IQuestion> Questions { get; private set; }
 
 		/// <summary>
 		/// Adds a question to the array
@@ -79,6 +79,7 @@ namespace WiSoLibrary
 			{
 				var answerElements = q.Element("Answers").Elements().ToArray();
 				var correctAnswers = q.Element("CorrectAnswers");
+
 				//generate each question
 				List<Answer> answers = new List<Answer>(answerElements.Length);
 				Array.ForEach(answerElements, (a) =>
@@ -87,8 +88,7 @@ namespace WiSoLibrary
 					answers.Add(new Answer(a.Value, correctAnswers.Elements().Count(c => c.Attribute("Number").Value == a.Attribute("Number").Value) > 0));
 				});
 
-				exam.AddQuestion(new Question(q.Element("Text").Value, answers.ToArray()));
-				
+				exam.AddQuestion(new Question(q.Element("Text").Value, answers.ToArray()));				
 			}
 			return exam;
 		}

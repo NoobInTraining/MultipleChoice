@@ -44,8 +44,10 @@ namespace MultipleChoiceConsole
 			Console.Title = d.Name;
 
 			//itterate through all questions
-			foreach (var question in d.Questions.Randomize())
+			foreach (var q in d.Questions.Randomize())
 			{
+				Question question = (Question)q;
+
 				//Spaghetti implemented counter
 				Console.WriteLine($"Question {counter++}/{d.Questions.Count()}");
 				

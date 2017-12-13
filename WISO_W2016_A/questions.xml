@@ -1,10 +1,4 @@
 <Exam Name="">
-]]></Answer>
-</Answers>
-<CorrectAnswers>
-	<Answer Number=""/>
-</CorrectAnswers>
-</Question>
 <Question Number="1">
 <Text><![CDATA[1. Aufgabe
 Zur Summer IT GmbH liegen folgende Daten vor:
@@ -256,10 +250,6 @@ Der Betriebsrat besteht in Betrieben mit in der Regel
 701 bis 1.000 Arbeitnehmern aus 13 Mitgliedern
 ]]></Answer>
 </Answers>
-<CorrectAnswers>
-	<Answer Number=""/>
-</CorrectAnswers>
-</Question>
 <Question Number="12">
 <Text><![CDATA[12. Aufgabe
 in der Summer IT GmbH sind folgende Sachverhalte durch betriebliche und tarifliche Vereinbarungen geregelt.
@@ -434,7 +424,7 @@ Ermitteln Sie die wirtschaftlichste Filiale und deren Wirtschaftlichkeit. 17 'f�
 Tragen Sie die Nummer der wirtschaftlichsten Filiale und deren [
 Wirtschaftlichkeit in die Kästchen ein. ] ] l
 ZPÄ ITWiSo 7
-]]></Answer>
+]]></Text><Answers>
 </Answers>
 <CorrectAnswers>
 	<Answer Number=""/>
