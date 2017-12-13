@@ -1,205 +1,330 @@
 ﻿<Exam Name="10_So_WISO" Year="2010" Season="Summer">
-<Question Number="1">
-<Text><![CDATA[Zunächst beschaffen Sie sich Informationen über den Markt von PC—Schulungen in Hagenstadt. Eine Marktanalyse ergibt, dass wenigen Anbietern
+	<Question Number="1">
+		<Text>
+			<![CDATA[Zunächst beschaffen Sie sich Informationen über den Markt von PC—Schulungen in Hagenstadt. Eine Marktanalyse ergibt, dass wenigen Anbietern
 viele Nachfrager gegenüberstehen.
 Welche der folgenden Marktformen liegt vor?
 Tragen Sie die Ziffer vor der zutreffenden Marktform in das Kästchen ein.
-]]></Text>
-<Answers>
-<Answer Number="1"><![CDATA[Nachfrageoligopol bei Angebotsmonopol]]></Answer>
-<Answer Number="2"><![CDATA[Angebotsoligopol bei Nachfragepolypol]]></Answer>
-<Answer Number="3"><![CDATA[Bilaterales Polypol]]></Answer>
-<Answer Number="4"><![CDATA[Nachfrageoligopol bei Angebotspolypol]]></Answer>
-<Answer Number="5"><![CDATA[Zweiseitiges Monopol]]></Answer>
-</Answers>
-<CorrectAnswers> 
-	<Answer Number="2"/>
-</CorrectAnswers>
-</Question>
-<Question Number="2">
-<Text><![CDATA[Sie befürchten aufgrund der gesamtwirtschaftlichen Situation Nachfragerückgänge für Ihr Schulungscenter,
+]]>
+		</Text>
+		<Answers>
+			<Answer Number="1">
+				<![CDATA[Nachfrageoligopol bei Angebotsmonopol]]>
+			</Answer>
+			<Answer Number="2">
+				<![CDATA[Angebotsoligopol bei Nachfragepolypol]]>
+			</Answer>
+			<Answer Number="3">
+				<![CDATA[Bilaterales Polypol]]>
+			</Answer>
+			<Answer Number="4">
+				<![CDATA[Nachfrageoligopol bei Angebotspolypol]]>
+			</Answer>
+			<Answer Number="5">
+				<![CDATA[Zweiseitiges Monopol]]>
+			</Answer>
+		</Answers>
+		<CorrectAnswers> 
+			<Answer Number="2"/>
+		</CorrectAnswers>
+	</Question>
+	<Question Number="2">
+		<Text>
+			<![CDATA[Sie befürchten aufgrund der gesamtwirtschaftlichen Situation Nachfragerückgänge für Ihr Schulungscenter,
 Wodurch könnten Nachfragerückgänge ausgelöst werden?
 Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.
-]]></Text>
-<Answers>
-<Answer Number="1"><![CDATA[Konkurrenten des Schulungscenters haben Insolvenz angemeldet.]]></Answer>
-<Answer Number="2"><![CDATA[Das verfügbare Einkommen der Haushalte ist gestiegen.]]></Answer>
-<Answer Number="3"><![CDATA[Der Umsatzsteuersatz wurde erhöht.]]></Answer>
-<Answer Number="4"><![CDATA[Es werden mehr Konsumentenkredite aufgenommen, da die Zinsen dafür gesenkt wurden.]]></Answer>
-<Answer Number="5"><![CDATA[Das Preisniveau für Konsum— und Gebrauchsgüter ist gesunken.]]></Answer>
-<Answer Number="6"><![CDATA[Es wurden zusätzliche Steuervergünstigungen für Familien mit Kindern gewährt.]]></Answer>
-</Answers>
-<CorrectAnswers> 
-	<Answer Number="3"/>
-</CorrectAnswers>
-</Question>
-<Question Number="3">
-<Text><![CDATA[Sie und Ihr Partner möchten das PC—Schulungscenter in der Rechtsform einer Personengesellschaft führen. Sie wollen auch mit Ihrem Privatvermögen
+]]>
+		</Text>
+		<Answers>
+			<Answer Number="1">
+				<![CDATA[Konkurrenten des Schulungscenters haben Insolvenz angemeldet.]]>
+			</Answer>
+			<Answer Number="2">
+				<![CDATA[Das verfügbare Einkommen der Haushalte ist gestiegen.]]>
+			</Answer>
+			<Answer Number="3">
+				<![CDATA[Der Umsatzsteuersatz wurde erhöht.]]>
+			</Answer>
+			<Answer Number="4">
+				<![CDATA[Es werden mehr Konsumentenkredite aufgenommen, da die Zinsen dafür gesenkt wurden.]]>
+			</Answer>
+			<Answer Number="5">
+				<![CDATA[Das Preisniveau für Konsum— und Gebrauchsgüter ist gesunken.]]>
+			</Answer>
+			<Answer Number="6">
+				<![CDATA[Es wurden zusätzliche Steuervergünstigungen für Familien mit Kindern gewährt.]]>
+			</Answer>
+		</Answers>
+		<CorrectAnswers> 
+			<Answer Number="3"/>
+		</CorrectAnswers>
+	</Question>
+	<Question Number="3">
+		<Text>
+			<![CDATA[Sie und Ihr Partner möchten das PC—Schulungscenter in der Rechtsform einer Personengesellschaft führen. Sie wollen auch mit Ihrem Privatvermögen
 haften, Ihr Partner jedoch nur mit seiner Geschäftseinlage.
 Welche der folgenden Unternehmensformen entspricht dieser unterschiedlichen Haftung?
 Tragen Sie die Ziffer vor der zutreffenden Unternehmensform in das Kästchen ein.
-]]></Text>
-<Answers>
-<Answer Number="1"><![CDATA[eG]]></Answer>
-<Answer Number="2"><![CDATA[GmbH]]></Answer>
-<Answer Number="3"><![CDATA[OHG]]></Answer>
-<Answer Number="4"><![CDATA[GbR]]></Answer>
-<Answer Number="5"><![CDATA[KG]]></Answer>
-</Answers>
-<CorrectAnswers> 
-	<Answer Number="5"/>
-</CorrectAnswers>
-</Question>
-<Question Number="4">
-<Text><![CDATA[Sie befassen sich mit der Wahl der Firma für das PC—Schulungscenter.
+]]>
+		</Text>
+		<Answers>
+			<Answer Number="1">
+				<![CDATA[eG]]>
+			</Answer>
+			<Answer Number="2">
+				<![CDATA[GmbH]]>
+			</Answer>
+			<Answer Number="3">
+				<![CDATA[OHG]]>
+			</Answer>
+			<Answer Number="4">
+				<![CDATA[GbR]]>
+			</Answer>
+			<Answer Number="5">
+				<![CDATA[KG]]>
+			</Answer>
+		</Answers>
+		<CorrectAnswers> 
+			<Answer Number="5"/>
+		</CorrectAnswers>
+	</Question>
+	<Question Number="4">
+		<Text>
+			<![CDATA[Sie befassen sich mit der Wahl der Firma für das PC—Schulungscenter.
 Welche der folgenden Aussagen zur Firma sind zutreffend?
 
 Tragen Sie die Ziffern vor den drei zutreffenden Aussagen in die Kästchen ein.
-]]></Text>
-<Answers>
-<Answer Number="1"><![CDATA[Die Firma ist der Name eines Kaufmanns, unter dem er seine Geschäfte betreibt.]]></Answer>
-<Answer Number="2"><![CDATA[Unter der Firma gibt der Kaufmann seine Unterschrift ab.]]></Answer>
-<Answer Number="3"><![CDATA[Aus der Firma muss die zutreffende Branche hervorgehen.]]></Answer>
-<Answer Number="4"><![CDATA[Unter der Firma kann das Unternehmen verklagt werden.]]></Answer>
-<Answer Number="5"><![CDATA[Bei der Wahl der Firma ist das BGB zu beachten.]]></Answer>
-<Answer Number="6"><![CDATA[Die Firma einer Personengesellschaft muss keinen Hinweis zur Gesellschaftsform enthalten.]]></Answer>
-<Answer Number="7"><![CDATA[Jede neue Firma muss mindestens in einer überregionalen deutschen Tageszeitung bekannt gegeben werden.]]></Answer>
-<Answer Number="8"><![CDATA[Zu jeder Firma muss ein eindeutiges Logo entworfen werden.]]></Answer>
-<Answer Number="9"><![CDATA[Die Firma einer Personengesellschaft wird im Handelsregister Abteilung B eingetragen.]]></Answer>
-</Answers>
-<CorrectAnswers>
-	<Answer Number="1"/>
-	<Answer Number="2"/>
-	<Answer Number="4"/>
-</CorrectAnswers>
-</Question>
-<!-- TODO: Question Support -->
-<Question Number="5" Type="Sort">
-<Text><![CDATA[
+]]>
+		</Text>
+		<Answers>
+			<Answer Number="1">
+				<![CDATA[Die Firma ist der Name eines Kaufmanns, unter dem er seine Geschäfte betreibt.]]>
+			</Answer>
+			<Answer Number="2">
+				<![CDATA[Unter der Firma gibt der Kaufmann seine Unterschrift ab.]]>
+			</Answer>
+			<Answer Number="3">
+				<![CDATA[Aus der Firma muss die zutreffende Branche hervorgehen.]]>
+			</Answer>
+			<Answer Number="4">
+				<![CDATA[Unter der Firma kann das Unternehmen verklagt werden.]]>
+			</Answer>
+			<Answer Number="5">
+				<![CDATA[Bei der Wahl der Firma ist das BGB zu beachten.]]>
+			</Answer>
+			<Answer Number="6">
+				<![CDATA[Die Firma einer Personengesellschaft muss keinen Hinweis zur Gesellschaftsform enthalten.]]>
+			</Answer>
+			<Answer Number="7">
+				<![CDATA[Jede neue Firma muss mindestens in einer überregionalen deutschen Tageszeitung bekannt gegeben werden.]]>
+			</Answer>
+			<Answer Number="8">
+				<![CDATA[Zu jeder Firma muss ein eindeutiges Logo entworfen werden.]]>
+			</Answer>
+			<Answer Number="9">
+				<![CDATA[Die Firma einer Personengesellschaft wird im Handelsregister Abteilung B eingetragen.]]>
+			</Answer>
+		</Answers>
+		<CorrectAnswers>
+			<Answer Number="1"/>
+			<Answer Number="2"/>
+			<Answer Number="4"/>
+		</CorrectAnswers>
+	</Question>
+	<!-- TODO: Question Support -->
+	<Question Number="5" Type="Sort">
+		<Text>
+			<![CDATA[
 Das PC—Schulungscenter hat sich nach seiner planmäßigen Gründung erfolgreich entwickelt
 Sie wollen einen weiteren Arbeitsplatz im Sekretariat besetzen
 
 Bringen Sie die folgenden Arbeitsschritte für das Bewerbungsverfahren in eine schlüssige Reihenfolge.
-Tragen Sie für den ersten Schritt die Ziffer [1], für den zweiten Schritt die Ziffer [2] usw. in die Kästchen ein.
-a) Vorstellungsgespräch einschließlich Tests
-b) Stellenbeschreibung als Grundlage für eine Stellenausschreibung
-c) Entscheidung über den/die einzustellende/n Bewerber/—in
-d) Bewerbungseingang
-e) Aushändigung des Arbeitsvertrages
-f) Interne und externe Stellenausschreibung
-g) Einladung zu einem Vorstellungsgespräch
-h) Prüfen der Bewerbungsunterlagen
-
-::NOT SUPPORTED::
-]]></Text>
-<Answers>
-<Answer Number="99">Not Supported</Answer>		
-</Answers>
-<CorrectAnswers>
-	<Answer Number="99"/>
-</CorrectAnswers>
-</Question>
-<Question Number="6">
-<Text><![CDATA[Das PC—Schulungscenter hat sich nach seiner planmäßigen Gründung erfolgreich entwickelt
+]]>
+		</Text>
+		<Answers>		
+			<Answer Number="1">Vorstellungsgespräch einschließlich Tests</Answer>
+			<Answer Number="2">Stellenbeschreibung als Grundlage für eine Stellenausschreibung</Answer>
+			<Answer Number="3">Entscheidung über den/die einzustellende/n Bewerber/—in</Answer>
+			<Answer Number="4">Bewerbungseingang</Answer>
+			<Answer Number="5">Aushändigung des Arbeitsvertrages</Answer>
+			<Answer Number="6">Interne und externe Stellenausschreibung</Answer>
+			<Answer Number="7">Einladung zu einem Vorstellungsgespräch</Answer>
+			<Answer Number="8">Prüfen der Bewerbungsunterlagen</Answer>
+		</Answers>
+		<CorrectAnswers>
+			<Answer Number="6,1,7,3,8,2,5,4"/>
+		</CorrectAnswers>
+	</Question>
+	<Question Number="6">
+		<Text>
+			<![CDATA[Das PC—Schulungscenter hat sich nach seiner planmäßigen Gründung erfolgreich entwickelt
 Sie wollen einen weiteren Arbeitsplatz im Sekretariat besetzen
 
 Im PC—Schulungscenter soll eine Stelle befristet für ein Jahr besetzt werden.
 Welche der folgenden Konsequenzen ergeben sich für das Unternehmen aus der Befristung?
 
 Tragen Sie die Ziffern vor den zwei zutreffenden Konsequenzen in die Kästchen ein.
-]]></Text>
-<Answers> 
-<Answer Number="1"><![CDATA[muss den Arbeitsvertrag nicht kündigen, da er nur für ein Jahr gilt.]]></Answer>
-<Answer Number="2"><![CDATA[muss den Arbeitsvertrag zum Ablauf der Vertragszeit kündigen, da sonst ein unbefristeter Arbeitsvertrag entsteht.]]></Answer>
-<Answer Number="3"><![CDATA[kann den Arbeitsvertrag vor Ablauf des Jahres nicht kündigen, weil Kündigungsschutz besteht.]]></Answer>
-<Answer Number="4"><![CDATA[kann den Arbeitsvertrag nicht verlängern.]]></Answer>
-<Answer Number="5"><![CDATA[kann den Arbeitsvertrag nach dem Jahr befristet verlängern.]]></Answer>
-</Answers>
-<CorrectAnswers>
-	<Answer Number="1"/>
-	<Answer Number="5"/>
-</CorrectAnswers>
-</Question>
-<Question Number="7">
-<Text><![CDATA[Das PC—Schulungscenter hat sich nach seiner planmäßigen Gründung erfolgreich entwickelt
+]]>
+		</Text>
+		<Answers> 
+			<Answer Number="1">
+				<![CDATA[muss den Arbeitsvertrag nicht kündigen, da er nur für ein Jahr gilt.]]>
+			</Answer>
+			<Answer Number="2">
+				<![CDATA[muss den Arbeitsvertrag zum Ablauf der Vertragszeit kündigen, da sonst ein unbefristeter Arbeitsvertrag entsteht.]]>
+			</Answer>
+			<Answer Number="3">
+				<![CDATA[kann den Arbeitsvertrag vor Ablauf des Jahres nicht kündigen, weil Kündigungsschutz besteht.]]>
+			</Answer>
+			<Answer Number="4">
+				<![CDATA[kann den Arbeitsvertrag nicht verlängern.]]>
+			</Answer>
+			<Answer Number="5">
+				<![CDATA[kann den Arbeitsvertrag nach dem Jahr befristet verlängern.]]>
+			</Answer>
+		</Answers>
+		<CorrectAnswers>
+			<Answer Number="1"/>
+			<Answer Number="5"/>
+		</CorrectAnswers>
+	</Question>
+	<Question Number="7">
+		<Text>
+			<![CDATA[Das PC—Schulungscenter hat sich nach seiner planmäßigen Gründung erfolgreich entwickelt
 Sie wollen einen weiteren Arbeitsplatz im Sekretariat besetzen
 
 In den Arbeitsvertrag des neuen Mitarbeiters haben Sie ein Wettbewerbsverbot aufgenommen.
 Welche der folgenden Handlungen werden dem Mitarbeiter durch das Wettbewerbsverbot untersagt?
 Tragen Sie die Ziffer vor der untersagten Handlung in das Kästchen ein.
-]]></Text>
-<Answers>
-<Answer Number="1"><![CDATA[Teilnahme an Verkaufswettbewerben von Lieferanten]]></Answer>
-<Answer Number="2"><![CDATA[Vermittlung oder Abschluss von Geschäften auf eigene Rechnung in einer anderen Branche]]></Answer>
-<Answer Number="3"><![CDATA[Vermittlung oder Durchführung von PC—Schulungen auf eigene Rechnung]]></Answer>
-<Answer Number="4"><![CDATA[Abgabe von Schulungsangeboten für öffentliche Ausschreibungen im Namen des PC—Schulungscenters]]></Answer>
-<Answer Number="5"><![CDATA[Absprachen mit Mitbewerbern, z. B. Preisabsprachen, die den Wettbewerb beeinträchtigen]]></Answer>
-</Answers>
-<CorrectAnswers> 
-	<Answer Number="3"/>
-</CorrectAnswers>
-</Question>
-<Question Number="8">
-<Text><![CDATA[Das PC—Schulungscenter hat sich nach seiner planmäßigen Gründung erfolgreich entwickelt
+]]>
+		</Text>
+		<Answers>
+			<Answer Number="1">
+				<![CDATA[Teilnahme an Verkaufswettbewerben von Lieferanten]]>
+			</Answer>
+			<Answer Number="2">
+				<![CDATA[Vermittlung oder Abschluss von Geschäften auf eigene Rechnung in einer anderen Branche]]>
+			</Answer>
+			<Answer Number="3">
+				<![CDATA[Vermittlung oder Durchführung von PC—Schulungen auf eigene Rechnung]]>
+			</Answer>
+			<Answer Number="4">
+				<![CDATA[Abgabe von Schulungsangeboten für öffentliche Ausschreibungen im Namen des PC—Schulungscenters]]>
+			</Answer>
+			<Answer Number="5">
+				<![CDATA[Absprachen mit Mitbewerbern, z. B. Preisabsprachen, die den Wettbewerb beeinträchtigen]]>
+			</Answer>
+		</Answers>
+		<CorrectAnswers> 
+			<Answer Number="3"/>
+		</CorrectAnswers>
+	</Question>
+	<Question Number="8">
+		<Text>
+			<![CDATA[Das PC—Schulungscenter hat sich nach seiner planmäßigen Gründung erfolgreich entwickelt
 Sie wollen einen weiteren Arbeitsplatz im Sekretariat besetzen
 
 Sie wollen mit Monika Schulz einen Ausbildungsvertrag schließen. Einer Ihrer Mitarbeiter hat dazu folgendes Formular vorbereitet.
 Welche der folgenden mit 1 bis 8 gekennzeichneten Angaben muss ein Ausbildungsvertrag nicht enthalten?
 Tragen Sie die Ziffern vor den zwei überflüssigen Angaben in die Kästchen ein.
-]]></Text>
-<Answers>
-<Answer Number="1"><![CDATA[Ausbildender]]></Answer>
-<Answer Number="2"><![CDATA[Auszubildender]]></Answer>
-<Answer Number="3"><![CDATA[Ausbildungsberuf]]></Answer>
-<Answer Number="4"><![CDATA[Ausbildungsdauer]]></Answer>
-<Answer Number="5"><![CDATA[Dauer der Probezeit]]></Answer>
-<Answer Number="6"><![CDATA[Berufsschulunterricht im Blockmodell/ausbildungsbegleitend (nicht Zutreffendes bitte streichen)]]></Answer>
-<Answer Number="7"><![CDATA[Ausbildungsvergütung]]></Answer>
-<Answer Number="8"><![CDATA[Schulabschluss]]></Answer>
-</Answers>
-<CorrectAnswers>
-	<Answer Number="6"/>
-	<Answer Number="8"/>
-</CorrectAnswers>
-</Question>
-<Question Number="9">
-<Text><![CDATA[Mit welcher der folgenden Formeln kann die Rentabilität des PC—Schulungscenters berechnet werden?
+]]>
+		</Text>
+		<Answers>
+			<Answer Number="1">
+				<![CDATA[Ausbildender]]>
+			</Answer>
+			<Answer Number="2">
+				<![CDATA[Auszubildender]]>
+			</Answer>
+			<Answer Number="3">
+				<![CDATA[Ausbildungsberuf]]>
+			</Answer>
+			<Answer Number="4">
+				<![CDATA[Ausbildungsdauer]]>
+			</Answer>
+			<Answer Number="5">
+				<![CDATA[Dauer der Probezeit]]>
+			</Answer>
+			<Answer Number="6">
+				<![CDATA[Berufsschulunterricht im Blockmodell/ausbildungsbegleitend (nicht Zutreffendes bitte streichen)]]>
+			</Answer>
+			<Answer Number="7">
+				<![CDATA[Ausbildungsvergütung]]>
+			</Answer>
+			<Answer Number="8">
+				<![CDATA[Schulabschluss]]>
+			</Answer>
+		</Answers>
+		<CorrectAnswers>
+			<Answer Number="6"/>
+			<Answer Number="8"/>
+		</CorrectAnswers>
+	</Question>
+	<Question Number="9">
+		<Text>
+			<![CDATA[Mit welcher der folgenden Formeln kann die Rentabilität des PC—Schulungscenters berechnet werden?
 Tragen Sie die Ziffer vor der zutreffenden Formel in das Kästchen ein.
-]]></Text>
-<Answers>
-<Answer Number="1"><![CDATA[Kapital / Umsatzerlöse — 100]]></Answer>
-<Answer Number="2"><![CDATA[Umsatzerlöse / Kosten — 100]]></Answer>
-<Answer Number="3"><![CDATA[Gewinn / Kapital + 100]]></Answer>
-<Answer Number="4"><![CDATA[Kapital / Gewinn + 100]]></Answer>
-<Answer Number="5"><![CDATA[Ertrag / Kapital — 100]]></Answer>
-</Answers>
-<CorrectAnswers> 
-	<Answer Number="3"/>
-</CorrectAnswers>
-</Question>
-<Question Number="10">
-<Text><![CDATA[Im Rahmen der Sozialversicherung haben Sie als Ausbildende/—r und Arbeitgeber/—in Pflichten zu erfüllen.
+]]>
+		</Text>
+		<Answers>
+			<Answer Number="1">
+				<![CDATA[Kapital / Umsatzerlöse — 100]]>
+			</Answer>
+			<Answer Number="2">
+				<![CDATA[Umsatzerlöse / Kosten — 100]]>
+			</Answer>
+			<Answer Number="3">
+				<![CDATA[Gewinn / Kapital + 100]]>
+			</Answer>
+			<Answer Number="4">
+				<![CDATA[Kapital / Gewinn + 100]]>
+			</Answer>
+			<Answer Number="5">
+				<![CDATA[Ertrag / Kapital — 100]]>
+			</Answer>
+		</Answers>
+		<CorrectAnswers> 
+			<Answer Number="3"/>
+		</CorrectAnswers>
+	</Question>
+	<Question Number="10">
+		<Text>
+			<![CDATA[Im Rahmen der Sozialversicherung haben Sie als Ausbildende/—r und Arbeitgeber/—in Pflichten zu erfüllen.
 
 Der neue Auszubildende ist sozialversicherungspflichtig.
 — Welche der folgenden Konsequenzen ergeben sich daraus für das PC—Schulungscenter als Ausbildenden.
 Tragen Sie die Ziffern vor den zwei zutreffenden Konsequenzen in die Kästchen ein.
 
-Das PC—Schulungscenter muss ...]]></Text>
-<Answers>
-<Answer Number="1"><![CDATA[Auszubildende immer bei der örtlichen AOK anmelden.]]></Answer>
-<Answer Number="2"><![CDATA[Auszubildende bei der Krankenkasse mit dem niedrigsten Beitragssatz anmelden.]]></Answer>
-<Answer Number="3"><![CDATA[50 % des Beitrags zur Krankenversicherung tragen.]]></Answer>
-<Answer Number="4"><![CDATA[den gesamten Sozialversicherungsbeitrag an die Krankenkasse abführen.]]></Answer>
-<Answer Number="5"><![CDATA[für Auszubildende keinen Beitrag zur Arbeitslosenversicherung abführen.]]></Answer>
-<Answer Number="6"><![CDATA[den Beitrag zur berufsgenossenschaftlichen Unfallversicherung allein tragen.]]></Answer>
-</Answers>
-<CorrectAnswers>
-	<Answer Number="4"/>
-	<Answer Number="6"/>
-</CorrectAnswers>
-</Question>
-<Question Number="11">
-<Text><![CDATA[Im Rahmen der Sozialversicherung haben Sie als Ausbildende/—r und Arbeitgeber/—in Pflichten zu erfüllen.
+Das PC—Schulungscenter muss ...]]>
+		</Text>
+		<Answers>
+			<Answer Number="1">
+				<![CDATA[Auszubildende immer bei der örtlichen AOK anmelden.]]>
+			</Answer>
+			<Answer Number="2">
+				<![CDATA[Auszubildende bei der Krankenkasse mit dem niedrigsten Beitragssatz anmelden.]]>
+			</Answer>
+			<Answer Number="3">
+				<![CDATA[50 % des Beitrags zur Krankenversicherung tragen.]]>
+			</Answer>
+			<Answer Number="4">
+				<![CDATA[den gesamten Sozialversicherungsbeitrag an die Krankenkasse abführen.]]>
+			</Answer>
+			<Answer Number="5">
+				<![CDATA[für Auszubildende keinen Beitrag zur Arbeitslosenversicherung abführen.]]>
+			</Answer>
+			<Answer Number="6">
+				<![CDATA[den Beitrag zur berufsgenossenschaftlichen Unfallversicherung allein tragen.]]>
+			</Answer>
+		</Answers>
+		<CorrectAnswers>
+			<Answer Number="4"/>
+			<Answer Number="6"/>
+		</CorrectAnswers>
+	</Question>
+	<Question Number="11">
+		<Text>
+			<![CDATA[Im Rahmen der Sozialversicherung haben Sie als Ausbildende/—r und Arbeitgeber/—in Pflichten zu erfüllen.
 
 Eine Mitarbeiterin des PC—Schulungscenters hat auf dem direkten Weg zur Arbeit einen Verkehrsunfall erlitten und eine ärztliche Arbeitsunfähigkeits—
 bescheinigung vorgelegt.
@@ -207,20 +332,32 @@ Welche der folgenden Maßnahmen müssen Sie nun vornehmen?
 Tragen Sie die Ziffer vor der zutreffenden Maßnahme in das Kästchen ein.
 
 Sie müssen ...
-]]></Text>
-<Answers>
-<Answer Number="1"><![CDATA[den polizeilichen Unfallbericht anfordern.]]></Answer>
-<Answer Number="2"><![CDATA[zur unverzüglichen Lohnfortzahlung im Krankheitsfall die Krankenkasse informieren.]]></Answer>
-<Answer Number="3"><![CDATA[den Unfall der Berufsgenossenschaft melden.]]></Answer>
-<Answer Number="4"><![CDATA[alle Mitarbeiter über den Unfallhergang informieren.]]></Answer>
-<Answer Number="5"><![CDATA[die voraussichtliche Fehlzeit in die Personalakte eintragen.]]></Answer>
-</Answers>
-<CorrectAnswers> 
-	<Answer Number="3"/>
-</CorrectAnswers>
-</Question>
-<Question Number="12">
-<Text><![CDATA[Als Arbeitgeber/—in müssen Sie Vorschriften des Arbeitsrechts, des Arbeitsschutzes und der Arbeitssicherheit einhalten.
+]]>
+		</Text>
+		<Answers>
+			<Answer Number="1">
+				<![CDATA[den polizeilichen Unfallbericht anfordern.]]>
+			</Answer>
+			<Answer Number="2">
+				<![CDATA[zur unverzüglichen Lohnfortzahlung im Krankheitsfall die Krankenkasse informieren.]]>
+			</Answer>
+			<Answer Number="3">
+				<![CDATA[den Unfall der Berufsgenossenschaft melden.]]>
+			</Answer>
+			<Answer Number="4">
+				<![CDATA[alle Mitarbeiter über den Unfallhergang informieren.]]>
+			</Answer>
+			<Answer Number="5">
+				<![CDATA[die voraussichtliche Fehlzeit in die Personalakte eintragen.]]>
+			</Answer>
+		</Answers>
+		<CorrectAnswers> 
+			<Answer Number="3"/>
+		</CorrectAnswers>
+	</Question>
+	<Question Number="12">
+		<Text>
+			<![CDATA[Als Arbeitgeber/—in müssen Sie Vorschriften des Arbeitsrechts, des Arbeitsschutzes und der Arbeitssicherheit einhalten.
 
 Im PC—Schulungscenter sind Unfallverhütungsvorschriften einzuhalten.
 Welche der folgenden Maßnahmen müssen Sie als Arbeitgeber im Zusammenhang mit Unfallverhütungsvorschriften ergreifen?
@@ -228,103 +365,170 @@ Welche der folgenden Maßnahmen müssen Sie als Arbeitgeber im Zusammenhang mit 
 Tragen Sie die Ziffer vor der zutreffenden Maßnahme in das Kästchen ein.
 
 Sie müssen die im PC—Schulungscenter geltenden Unfallverhütungsvorschriften ...
-]]></Text>
-<Answers>
-<Answer Number="1"><![CDATA[in die Arbeitsverträge aufnehmen.]]></Answer>
-<Answer Number="2"><![CDATA[den Mitarbeitern in regelmäßigen Schulungen vermitteln.]]></Answer>
-<Answer Number="3"><![CDATA[in Absprache mit dem Amt für Arbeitsschutz betriebsindividuell erstellen.]]></Answer>
-<Answer Number="4"><![CDATA[im PC—Schulungscenter an geeigneter Stelle auslegen oder aushängen.]]></Answer>
-<Answer Number="5"><![CDATA[der Berufsgenossenschaft mitteilen.]]></Answer>
-</Answers>
-<CorrectAnswers> 
-	<Answer Number="4"/>
-</CorrectAnswers>
-</Question>
-<!-- TODO: Question Support -->
-<Question Number="13">
-<Text><![CDATA[Als Arbeitgeber/—in müssen Sie Vorschriften des Arbeitsrechts, des Arbeitsschutzes und der Arbeitssicherheit einhalten.
+]]>
+		</Text>
+		<Answers>
+			<Answer Number="1">
+				<![CDATA[in die Arbeitsverträge aufnehmen.]]>
+			</Answer>
+			<Answer Number="2">
+				<![CDATA[den Mitarbeitern in regelmäßigen Schulungen vermitteln.]]>
+			</Answer>
+			<Answer Number="3">
+				<![CDATA[in Absprache mit dem Amt für Arbeitsschutz betriebsindividuell erstellen.]]>
+			</Answer>
+			<Answer Number="4">
+				<![CDATA[im PC—Schulungscenter an geeigneter Stelle auslegen oder aushängen.]]>
+			</Answer>
+			<Answer Number="5">
+				<![CDATA[der Berufsgenossenschaft mitteilen.]]>
+			</Answer>
+		</Answers>
+		<CorrectAnswers> 
+			<Answer Number="4"/>
+		</CorrectAnswers>
+	</Question>
+	<!-- TODO: Question Support -->
+	<Question Number="13" Type="Assign">
+		<Text>
+			<![CDATA[Als Arbeitgeber/—in müssen Sie Vorschriften des Arbeitsrechts, des Arbeitsschutzes und der Arbeitssicherheit einhalten.
 
 Sie benötigen Rechtsinformationen zu verschiedenen arbeitsrechtlichen Sachverhalten.
 In welchen der folgenden Rechtsgrundlagen finden Sie die jeweilige Rechtsinformation zu den darunter stehenden Sachverhalten?
 Tragen Sie die Ziffer vor der jeweils zutreffenden Rechtsgrundlage in das Kästchen ein.
 
-::NOT SUPPORTED::
-]]></Text>
-<Answers>
-<Answer Number="1"><![CDATA[Rechtsgrundlagen]]></Answer>
-<Answer Number="2"><![CDATA[Kündigungsschutzgesetz]]></Answer>
-<Answer Number="3"><![CDATA[Tarifvertrag]]></Answer>
-<Answer Number="4"><![CDATA[Betriebsverfassungsgesetz]]></Answer>
-<Answer Number="5"><![CDATA[Mutterschutzgesetz]]></Answer>
-<Answer Number="6"><![CDATA[[5] Jugendarbeitsschutzgesetz]]></Answer>
-<Answer Number="7"><![CDATA[Berufsbildungsgesetz]]></Answer>
-<Answer Number="8"><![CDATA[Sachverhalte]]></Answer>
-<Answer Number="9"><![CDATA[a) Kündigung einer schwangeren Mitarbeiterin]]></Answer>
-<Answer Number="10"><![CDATA[b) Regelmäßige wöchentliche Arbeitszeit in der Medienbranche]]></Answer>
-<Answer Number="11"><![CDATA[c) Notwendigkeit der Sozialauswahl bei einer betriebsbedingten Kündigung]]></Answer>
-<Answer Number="12"><![CDATA[d) Wöchentliche KHöchstarbeitszeit für einen 16—jährigen Auszubildenden]]></Answer>
-<Answer Number="13"><![CDATA[e) Mitwirkung des Betriebsrates bei einer Kündigung]]></Answer>
-<Answer Number="99">Not Supported</Answer>		
-</Answers>
-<CorrectAnswers>
-	<Answer Number="99"/>
-</CorrectAnswers>
-</Question>
-<!-- TODO: Question Support -->
-<Question Number="14">
-<Text><![CDATA[Als Arbeitgeber/—in müssen Sie Vorschriften des Arbeitsrechts, des Arbeitsschutzes und der Arbeitssicherheit einhalten.
+]]>
+		</Text>
+		<Answers>
+			<Answer Number="1">
+				<![CDATA[Kündigungsschutzgesetz]]>
+			</Answer>
+			<Answer Number="2">
+				<![CDATA[Tarifvertrag]]>
+			</Answer>
+			<Answer Number="3">
+				<![CDATA[Betriebsverfassungsgesetz]]>
+			</Answer>
+			<Answer Number="4">
+				<![CDATA[Mutterschutzgesetz]]>
+			</Answer>
+			<Answer Number="5">
+				<![CDATA[Jugendarbeitsschutzgesetz]]>
+			</Answer>
+			<Answer Number="6">
+				<![CDATA[Berufsbildungsgesetz]]>
+			</Answer>
+			<Answer Number="7">
+				<![CDATA[Kündigung einer schwangeren Mitarbeiterin]]>
+			</Answer>
+			<Answer Number="8">
+				<![CDATA[Regelmäßige wöchentliche Arbeitszeit in der Medienbranche]]>
+			</Answer>
+			<Answer Number="9">
+				<![CDATA[Notwendigkeit der Sozialauswahl bei einer betriebsbedingten Kündigung]]>
+			</Answer>
+			<Answer Number="10">
+				<![CDATA[Wöchentliche KHöchstarbeitszeit für einen 16—jährigen Auszubildenden]]>
+			</Answer>
+			<Answer Number="11">
+				<![CDATA[Mitwirkung des Betriebsrates bei einer Kündigung]]>
+			</Answer>			
+		</Answers>
+		<CorrectAnswers>
+			<Answer Number="7,4"/>
+			<Answer Number="8,2"/>
+			<Answer Number="9,1"/>
+			<Answer Number="10,5"/>
+			<Answer Number="11,3"/>
+		</CorrectAnswers>
+	</Question>	
+	<Question Number="14">
+		<Text>
+			<![CDATA[Als Arbeitgeber/—in müssen Sie Vorschriften des Arbeitsrechts, des Arbeitsschutzes und der Arbeitssicherheit einhalten.
 
 Im PC—Schulungscenter sind die folgenden Zeichen zu finden.
 Welches dieser Zeichen weist auf Mittel und Geräte zur Brandbekämpfung hin?
 Tragen Sie die Ziffer vor dem zutreffenden Zeichen in das Kästchen ein.
-]]></Text>
-<Answers>
-<Answer Number="99">Not Supported</Answer>		
-</Answers>
-<CorrectAnswers>
-	<Answer Number="99"/> 
-</CorrectAnswers>
-</Question>
-<Question Number="15">
-<Text><![CDATA[Als Arbeitgeber/—in müssen Sie Vorschriften des Arbeitsrechts, des Arbeitsschutzes und der Arbeitssicherheit einhalten.
+]]>
+		</Text>
+		<Image><![CDATA[picture1.png]]></Image>
+		<Answers>
+			<Answer Number="1">1</Answer>		
+			<Answer Number="2">2</Answer>		
+			<Answer Number="3">3</Answer>		
+			<Answer Number="4">4</Answer>		
+			<Answer Number="5">5</Answer>		
+		</Answers>
+		<CorrectAnswers>
+			<Answer Number="2"/>
+		</CorrectAnswers>
+	</Question>
+	<Question Number="15">
+		<Text>
+			<![CDATA[Als Arbeitgeber/—in müssen Sie Vorschriften des Arbeitsrechts, des Arbeitsschutzes und der Arbeitssicherheit einhalten.
 
 Bei der Einrichtung von ergonomischen Bildschirmarbeitsplätzen müssen Sie unter anderem Maße für den Seh— und Greifraum beachten.
 Welcher der folgenden Rechtsgrundlagen können Sie diese Maße entnehmen?
 Tragen Sie die Ziffer vor der zutreffenden Rechtsgrundlage in das Kästchen ein.
-]]></Text>
-<Answers>
-<Answer Number="1"><![CDATA[Bildschirmarbeitsverordnung (BildscharbV)]]></Answer>
-<Answer Number="2"><![CDATA[Normen des Deutschen Instituts für Normung (DIN)]]></Answer>
-<Answer Number="3"><![CDATA[Unfallverhütungsvorschrift (UWV)]]></Answer>
-<Answer Number="4"><![CDATA[Arbeitsstätten—Richtlinien (ASR)]]></Answer>
-<Answer Number="5"><![CDATA[Verordnung der Berufsgenossenschaften (VBG)]]></Answer>
-</Answers>
-<CorrectAnswers> 
-	<Answer Number="2"/>
-</CorrectAnswers>
-</Question>
-<Question Number="16">
-<Text><![CDATA[Als Arbeitgeber/—in müssen Sie Vorschriften des Arbeitsrechts, des Arbeitsschutzes und der Arbeitssicherheit einhalten.
+]]>
+		</Text>
+		<Answers>
+			<Answer Number="1">
+				<![CDATA[Bildschirmarbeitsverordnung (BildscharbV)]]>
+			</Answer>
+			<Answer Number="2">
+				<![CDATA[Normen des Deutschen Instituts für Normung (DIN)]]>
+			</Answer>
+			<Answer Number="3">
+				<![CDATA[Unfallverhütungsvorschrift (UWV)]]>
+			</Answer>
+			<Answer Number="4">
+				<![CDATA[Arbeitsstätten—Richtlinien (ASR)]]>
+			</Answer>
+			<Answer Number="5">
+				<![CDATA[Verordnung der Berufsgenossenschaften (VBG)]]>
+			</Answer>
+		</Answers>
+		<CorrectAnswers> 
+			<Answer Number="2"/>
+		</CorrectAnswers>
+	</Question>
+	<Question Number="16">
+		<Text>
+			<![CDATA[Als Arbeitgeber/—in müssen Sie Vorschriften des Arbeitsrechts, des Arbeitsschutzes und der Arbeitssicherheit einhalten.
 
 Aus welchen der folgenden Gründe müssen Sie Unfälle in Ihrem PC—Schulungscenter der zuständigen Institution melden?
 Tragen Sie die Ziffern vor den zwei zutreffenden Gründen in die Kästchen ein.
-]]></Text>
-<Answers>
-<Answer Number="1"><![CDATA[Nach fünf gemeldeten Arbeitsunfällen wird der Betrieb vom Gewerbeaufsichtsamt abgemahnt.]]></Answer>
-<Answer Number="2"><![CDATA[Das Arbeitsamt will über Unfälle informiert werden.]]></Answer>
-<Answer Number="3"><![CDATA[Arbeitsunfälle können später zu Erwerbs— bzw. Berufsunfähigkeit führen.]]></Answer>
-<Answer Number="4"><![CDATA[Nach Arbeitsunfälten erhält jeder Betroffene Schmerzensgeld.]]></Answer>
-<Answer Number="5"><![CDATA[Arbeitsunfälle können später zu Rentenzahlungen führen.]]></Answer>
-<Answer Number="6"><![CDATA[Die IHK trägt jeden Unfall in eine Unfallstatistik ein.]]></Answer>
-</Answers>
-<CorrectAnswers>
-	<Answer Number="3"/>
-	<Answer Number="5"/>
-</CorrectAnswers>
-</Question>
-<!-- TODO: Question Support -->
-<Question Number="17">
-<Text><![CDATA[Als Unternehmer/—in für PC—Schulungen müssen Sie sich am Markt behaupten.
+]]>
+		</Text>
+		<Answers>
+			<Answer Number="1">
+				<![CDATA[Nach fünf gemeldeten Arbeitsunfällen wird der Betrieb vom Gewerbeaufsichtsamt abgemahnt.]]>
+			</Answer>
+			<Answer Number="2">
+				<![CDATA[Das Arbeitsamt will über Unfälle informiert werden.]]>
+			</Answer>
+			<Answer Number="3">
+				<![CDATA[Arbeitsunfälle können später zu Erwerbs— bzw. Berufsunfähigkeit führen.]]>
+			</Answer>
+			<Answer Number="4">
+				<![CDATA[Nach Arbeitsunfälten erhält jeder Betroffene Schmerzensgeld.]]>
+			</Answer>
+			<Answer Number="5">
+				<![CDATA[Arbeitsunfälle können später zu Rentenzahlungen führen.]]>
+			</Answer>
+			<Answer Number="6">
+				<![CDATA[Die IHK trägt jeden Unfall in eine Unfallstatistik ein.]]>
+			</Answer>
+		</Answers>
+		<CorrectAnswers>
+			<Answer Number="3"/>
+			<Answer Number="5"/>
+		</CorrectAnswers>
+	</Question>	
+	<Question Number="17">
+		<Text>
+			<![CDATA[Als Unternehmer/—in für PC—Schulungen müssen Sie sich am Markt behaupten.
 
 Es wird damit gerechnet, dass die Nachfrage auf dem Markt für — 4
 PC—Schulungen zunehmen wird, alle übrigen Bedingungen aber gleich — FURStke
@@ -332,23 +536,34 @@ bleiben. Sie sollen die Auswirkung dieser Veränderung grafisch dar—
 stellen.
 Wie müssen Sie die erwartete Auswirkung grafisch darstellen?
 Tragen Sie die Ziffer vor der zutreffenden Antwort in das Kästchen ein.
-
-::NOT SUPPORTED::
-]]></Text>
-<Answers>
-<Answer Number="1"><![CDATA[Mit einer nach oben verschobenen Angebotskurve]]></Answer>
-<Answer Number="2"><![CDATA[Mit einer nach rechts verschobenen Nachfragekurve]]></Answer>
-<Answer Number="3"><![CDATA[Mit einer steileren Nachfragekurve]]></Answer>
-<Answer Number="4"><![CDATA[Mit einer flacheren Nachfragekurve]]></Answer>
-<Answer Number="5"><![CDATA[Mit einer nach links verschobenen Nachfragekurve]]></Answer>
-<Answer Number="99">Not Supported</Answer>		
-</Answers>
-<CorrectAnswers>
-	<Answer Number="99"/>
-</CorrectAnswers>
-</Question>
-<Question Number="18">
-<Text><![CDATA[Als Unternehmer/—in für PC—Schulungen müssen Sie sich am Markt behaupten.
+]]>
+		</Text>
+		<Image><![CDATA[picture2.png]]></Image>
+		
+		<Answers>
+			<Answer Number="1">
+				<![CDATA[Mit einer nach oben verschobenen Angebotskurve]]>
+			</Answer>
+			<Answer Number="2">
+				<![CDATA[Mit einer nach rechts verschobenen Nachfragekurve]]>
+			</Answer>
+			<Answer Number="3">
+				<![CDATA[Mit einer steileren Nachfragekurve]]>
+			</Answer>
+			<Answer Number="4">
+				<![CDATA[Mit einer flacheren Nachfragekurve]]>
+			</Answer>
+			<Answer Number="5">
+				<![CDATA[Mit einer nach links verschobenen Nachfragekurve]]>
+			</Answer>
+		</Answers>
+		<CorrectAnswers>
+			<Answer Number="2"/>
+		</CorrectAnswers>
+	</Question>
+	<Question Number="18">
+		<Text>
+			<![CDATA[Als Unternehmer/—in für PC—Schulungen müssen Sie sich am Markt behaupten.
 
 In einer Fachzeitschrift lesen Sie: „Die Horizontale Konzentration im PC—Schulungsmarkt nimmt zu.”
 In einem Arbeitstreffen wollen Sie diese Entwicklung beschreiben.
@@ -356,37 +571,61 @@ Mit welchem der folgenden Beispiele können Sie eine horizontale Konzentration v
 Tragen Sie die Ziffer vor dem zutreffenden Beispiel in das Kästchen ein.
 
 Ein PC—Schulungscenter ...
-]]></Text>
-<Answers>
-<Answer Number="1"><![CDATA[wird von einem Schulbuchverlag gekauft.]]></Answer>
-<Answer Number="2"><![CDATA[wird von einem Finanzinvestor gekauft.]]></Answer>
-<Answer Number="3"><![CDATA[fusioniert mit einem Konzern, der bereits mehrere Schulungscenter betreibt.]]></Answer>
-<Answer Number="4"><![CDATA[erwirbt ein Fachgeschäft für Bürobedarf.]]></Answer>
-<Answer Number="5"><![CDATA[erwirbt einen Software—Produzenten, um eigene E—Learning—Programme herzustellen.]]></Answer>
-</Answers>
-<CorrectAnswers> 
-	<Answer Number="3"/>
-</CorrectAnswers>
-</Question>
-<Question Number="19">
-<Text><![CDATA[Sie erwägen mit einem anderen erfolgreichen PC—Schulungscenter zu fusionieren.
+]]>
+		</Text>
+		<Answers>
+			<Answer Number="1">
+				<![CDATA[wird von einem Schulbuchverlag gekauft.]]>
+			</Answer>
+			<Answer Number="2">
+				<![CDATA[wird von einem Finanzinvestor gekauft.]]>
+			</Answer>
+			<Answer Number="3">
+				<![CDATA[fusioniert mit einem Konzern, der bereits mehrere Schulungscenter betreibt.]]>
+			</Answer>
+			<Answer Number="4">
+				<![CDATA[erwirbt ein Fachgeschäft für Bürobedarf.]]>
+			</Answer>
+			<Answer Number="5">
+				<![CDATA[erwirbt einen Software—Produzenten, um eigene E—Learning—Programme herzustellen.]]>
+			</Answer>
+		</Answers>
+		<CorrectAnswers> 
+			<Answer Number="3"/>
+		</CorrectAnswers>
+	</Question>
+	<Question Number="19">
+		<Text>
+			<![CDATA[Sie erwägen mit einem anderen erfolgreichen PC—Schulungscenter zu fusionieren.
 Welche der folgenden Ziele können mit dieser Fusion erreicht werden?
 Tragen Sie die Ziffern vor den zwei zutreffenden Zielen in die Kästchen ein.
-]]></Text>
-<Answers>
-<Answer Number="1"><![CDATA[Rationalisierung]]></Answer>
-<Answer Number="2"><![CDATA[Verbesserte Kreditwürdigkeit]]></Answer>
-<Answer Number="3"><![CDATA[Erhalt staatlicher Subventionen]]></Answer>
-<Answer Number="4"><![CDATA[Intensivierung des Wettbewerbs]]></Answer>
-<Answer Number="5"><![CDATA[Ermäßigung der Umsatzsteuer]]></Answer>
-</Answers>
-<CorrectAnswers>
-	<Answer Number="1"/>
-	<Answer Number="2"/>
-</CorrectAnswers>
-</Question>
-<Question Number="20">
-<Text><![CDATA[Die Mitarbeiter/—innen und Auszubildenden des PC—Schulungscenters haben ein Mitbestimmungsrecht.
+]]>
+		</Text>
+		<Answers>
+			<Answer Number="1">
+				<![CDATA[Rationalisierung]]>
+			</Answer>
+			<Answer Number="2">
+				<![CDATA[Verbesserte Kreditwürdigkeit]]>
+			</Answer>
+			<Answer Number="3">
+				<![CDATA[Erhalt staatlicher Subventionen]]>
+			</Answer>
+			<Answer Number="4">
+				<![CDATA[Intensivierung des Wettbewerbs]]>
+			</Answer>
+			<Answer Number="5">
+				<![CDATA[Ermäßigung der Umsatzsteuer]]>
+			</Answer>
+		</Answers>
+		<CorrectAnswers>
+			<Answer Number="1"/>
+			<Answer Number="2"/>
+		</CorrectAnswers>
+	</Question>
+	<Question Number="20">
+		<Text>
+			<![CDATA[Die Mitarbeiter/—innen und Auszubildenden des PC—Schulungscenters haben ein Mitbestimmungsrecht.
 
 Die Auszubildenden der fusionierten PC—Schulungscenter wollen eine Jugend— und Auszubildendenvertretung (JAV) wählen und fragen Sie nach der
 entsprechenden Voraussetzung.
@@ -394,95 +633,144 @@ Welche der folgenden Antworten müssen Sie Ihnen dazu geben?
 Tragen Sie die Ziffer vor der zutreffenden Antwort in das Kästchen ein.
 
 Das Unternehmen, in dem eine JVA gewählt werden kann, muss ...
-]]></Text>
-<Answers> 
-<Answer Number="1"><![CDATA[einen Jahresumsatz von mindesten 5 Millionen EUR erzielen.]]></Answer>
-<Answer Number="2"><![CDATA[mindestens 25 Arbeitnehmer beschäftigen, die das 24. Lebensjahr noch nicht vollendet haben.]]></Answer>
-<Answer Number="3"><![CDATA[mindestens 2.000 Arbeitnehmer beschäftigen, davon mindestens 25 Jugendliche.]]></Answer>
-<Answer Number="4"><![CDATA[mindestens fünf Arbeitnehmer beschäftigen oder Auszubildende ausbilden, wobei die Arbeitnehmer das 18. Lebensjahr und die Auszubildenden das 25. Lebensjahr noch nicht vollendet haben dürfen.]]></Answer>
-<Answer Number="5"><![CDATA[eine Kapitalgesellschaft sein.]]></Answer>
-</Answers>
-<CorrectAnswers> 
-	<Answer Number="4"/>
-</CorrectAnswers>
-</Question>
-<Question Number="21">
-<Text><![CDATA[Die Mitarbeiter/—innen und Auszubildenden des PC—Schulungscenters haben ein Mitbestimmungsrecht.
+]]>
+		</Text>
+		<Answers> 
+			<Answer Number="1">
+				<![CDATA[einen Jahresumsatz von mindesten 5 Millionen EUR erzielen.]]>
+			</Answer>
+			<Answer Number="2">
+				<![CDATA[mindestens 25 Arbeitnehmer beschäftigen, die das 24. Lebensjahr noch nicht vollendet haben.]]>
+			</Answer>
+			<Answer Number="3">
+				<![CDATA[mindestens 2.000 Arbeitnehmer beschäftigen, davon mindestens 25 Jugendliche.]]>
+			</Answer>
+			<Answer Number="4">
+				<![CDATA[mindestens fünf Arbeitnehmer beschäftigen oder Auszubildende ausbilden, wobei die Arbeitnehmer das 18. Lebensjahr und die Auszubildenden das 25. Lebensjahr noch nicht vollendet haben dürfen.]]>
+			</Answer>
+			<Answer Number="5">
+				<![CDATA[eine Kapitalgesellschaft sein.]]>
+			</Answer>
+		</Answers>
+		<CorrectAnswers> 
+			<Answer Number="4"/>
+		</CorrectAnswers>
+	</Question>
+	<Question Number="21">
+		<Text>
+			<![CDATA[Die Mitarbeiter/—innen und Auszubildenden des PC—Schulungscenters haben ein Mitbestimmungsrecht.
 
 Die Auszubildenden der fusionierten PC—Schulungscenter fragen Sie, für welchen Zeitraum die JAV im Regelfall gewählt wird.
 Nennen Sie die Anzahl der Jahre, für die eine JAV im Regelfall gewählt wird.
 Tragen Sie die Anzahl der Jahre in das Kästchen ein.
 
 ::Not Supported::
-]]></Text>
-<!-- TODO: Question Support -->
-<Answers>
-<Answer Number="1">4</Answer>
-<Answer Number="2">1</Answer>
-<Answer Number="3">2</Answer>
-<Answer Number="4">3</Answer>
-</Answers>
-<CorrectAnswers>
-	<Answer Number="3"/>
-</CorrectAnswers>
-</Question>
-<Question Number="22">
-<Text><![CDATA[Die Mitarbeiter/—innen und Auszubildenden des PC—Schulungscenters haben ein Mitbestimmungsrecht.
+]]>
+		</Text>
+		<!-- TODO: Question Support -->
+		<Answers>
+			<Answer Number="1">4</Answer>
+			<Answer Number="2">1</Answer>
+			<Answer Number="3">2</Answer>
+			<Answer Number="4">3</Answer>
+		</Answers>
+		<CorrectAnswers>
+			<Answer Number="3"/>
+		</CorrectAnswers>
+	</Question>
+	<Question Number="22">
+		<Text>
+			<![CDATA[Die Mitarbeiter/—innen und Auszubildenden des PC—Schulungscenters haben ein Mitbestimmungsrecht.
 
 Die Auszubildenden besprechen mit Ihnen die Rechte und Pflichten in Bezug auf die JAV.
 Welche der folgenden Aussagen der Jugendlichen ist zutreffend?
 Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.
 
 Die Jugend— und Auszubildendenvertreter ...
-]]></Text>
-<Answers> 
-<Answer Number="1"><![CDATA[müssen zu allen Besprechungen zwischen Arbeitgeber und Betriebsrat eingeladen werden.]]></Answer>
-<Answer Number="2"><![CDATA[sind automatisch auch gewählte Betriebsratsmitglieder.]]></Answer>
-<Answer Number="3"><![CDATA[erhalten vom PC—Schulungscenter eine Aufwandsentschädigung für ehrenamtliche Tätigkeit.]]></Answer>
-<Answer Number="4"><![CDATA[müssen nach jeder Betriebsratssitzung eine Jugendversammlung einberufen.]]></Answer>
-<Answer Number="5"><![CDATA[genießen einen erweiterten Kündigungsschutz.]]></Answer>
-</Answers>
-<CorrectAnswers> 
-	<Answer Number="5"/>
-</CorrectAnswers>
-</Question>
-<Question Number="23">
-<Text><![CDATA[Im PC—Schulungscenter sind Vorschriften zum Umweltschutz einzuhalten.
+]]>
+		</Text>
+		<Answers> 
+			<Answer Number="1">
+				<![CDATA[müssen zu allen Besprechungen zwischen Arbeitgeber und Betriebsrat eingeladen werden.]]>
+			</Answer>
+			<Answer Number="2">
+				<![CDATA[sind automatisch auch gewählte Betriebsratsmitglieder.]]>
+			</Answer>
+			<Answer Number="3">
+				<![CDATA[erhalten vom PC—Schulungscenter eine Aufwandsentschädigung für ehrenamtliche Tätigkeit.]]>
+			</Answer>
+			<Answer Number="4">
+				<![CDATA[müssen nach jeder Betriebsratssitzung eine Jugendversammlung einberufen.]]>
+			</Answer>
+			<Answer Number="5">
+				<![CDATA[genießen einen erweiterten Kündigungsschutz.]]>
+			</Answer>
+		</Answers>
+		<CorrectAnswers> 
+			<Answer Number="5"/>
+		</CorrectAnswers>
+	</Question>
+	<Question Number="23">
+		<Text>
+			<![CDATA[Im PC—Schulungscenter sind Vorschriften zum Umweltschutz einzuhalten.
 
 Sie diskutieren die Aufgaben des Unternehmens Duales System Deutschland GmbH.
 Welche der folgenden Aussagen trifft auf die Duales System Deutschland GmbH zu?
 Tragen Sie die Ziffer vor der zutreffenden Antwort in das Kästchen ein.
 
 Die Duales System Deutschland GmbH ...
-]]></Text>
-<Answers> 
-<Answer Number="1"><![CDATA[entsorgt Müll durch die Methoden Deponieren und Verbrennen fachgerecht.]]></Answer>
-<Answer Number="2"><![CDATA[entsorgt und recycelt besonders gekennzeichnete Verpackungen.]]></Answer>
-<Answer Number="3"><![CDATA[verwertet sowohl anorganische als auch organische Primärrohstofte fachgerecht.]]></Answer>
-<Answer Number="4"><![CDATA[sammelt Leihverpackungen, bereitet diese auf und stellt sie zur erneuten Verwendung bereit.]]></Answer>
-<Answer Number="5"><![CDATA[führt alle Wertstoffe aus Müll einer Wiederverwertung zu.]]></Answer>
-</Answers>
-<CorrectAnswers> 
-	<Answer Number="2"/>
-</CorrectAnswers>
-</Question>
-<Question Number="24">
-<Text><![CDATA[Im PC—Schulungscenter sind Vorschriften zum Umweltschutz einzuhalten.
+]]>
+		</Text>
+		<Answers> 
+			<Answer Number="1">
+				<![CDATA[entsorgt Müll durch die Methoden Deponieren und Verbrennen fachgerecht.]]>
+			</Answer>
+			<Answer Number="2">
+				<![CDATA[entsorgt und recycelt besonders gekennzeichnete Verpackungen.]]>
+			</Answer>
+			<Answer Number="3">
+				<![CDATA[verwertet sowohl anorganische als auch organische Primärrohstofte fachgerecht.]]>
+			</Answer>
+			<Answer Number="4">
+				<![CDATA[sammelt Leihverpackungen, bereitet diese auf und stellt sie zur erneuten Verwendung bereit.]]>
+			</Answer>
+			<Answer Number="5">
+				<![CDATA[führt alle Wertstoffe aus Müll einer Wiederverwertung zu.]]>
+			</Answer>
+		</Answers>
+		<CorrectAnswers> 
+			<Answer Number="2"/>
+		</CorrectAnswers>
+	</Question>
+	<Question Number="24">
+		<Text>
+			<![CDATA[Im PC—Schulungscenter sind Vorschriften zum Umweltschutz einzuhalten.
 
 Das PC—Schulungscenter erhält eine Warenlieferung. Der Lieferer fordert die Verkaufsverpackung zurück und liefert das Papier und den Karton an
 eine Papiermühle.
 Welche der folgenden Bezeichnungen trifft auf diesen Sachverhalt zu?
 Tragen Sie die Ziffer vor der zutreffenden Bezeichnung in das Kästchen ein.
-]]></Text>
-<Answers>
-<Answer Number="1"><![CDATA[Recycling]]></Answer>
-<Answer Number="2"><![CDATA[Rohstoffverwertung]]></Answer>
-<Answer Number="3"><![CDATA[Leihverpackung]]></Answer>
-<Answer Number="4"><![CDATA[Wiederverwendung]]></Answer>
-<Answer Number="5"><![CDATA[Aufbereitung]]></Answer>
-</Answers>
-<CorrectAnswers> 
-	<Answer Number="1"/>
-</CorrectAnswers>
-</Question>
+]]>
+		</Text>
+		<Answers>
+			<Answer Number="1">
+				<![CDATA[Recycling]]>
+			</Answer>
+			<Answer Number="2">
+				<![CDATA[Rohstoffverwertung]]>
+			</Answer>
+			<Answer Number="3">
+				<![CDATA[Leihverpackung]]>
+			</Answer>
+			<Answer Number="4">
+				<![CDATA[Wiederverwendung]]>
+			</Answer>
+			<Answer Number="5">
+				<![CDATA[Aufbereitung]]>
+			</Answer>
+		</Answers>
+		<CorrectAnswers> 
+			<Answer Number="1"/>
+		</CorrectAnswers>
+	</Question>
 </Exam>
