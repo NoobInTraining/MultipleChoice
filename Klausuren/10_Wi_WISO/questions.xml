@@ -1,0 +1,497 @@
+﻿<Exam Name="10_Wi_WISO" Year="2010" Season="Winter">
+<Question Number="1">
+<Text><![CDATA[Die SKEIP GmbH wird im nächsten Jahr eine Niederlassung in London gründen. Sie wurden vom Abteilungsleiter ermuntert, sich auf eine der neuen
+Stellen in der Niederlassung zu bewerben:
+
+IT—Fachkräfte
+Für unsere neue Niederlassung in London suchen wir IT—Fachkräfte.
+Ihr Profil:
+	® Ausbildung zur IT—Fachkraft, z. B. IT—Systemelektroniker/—in, Informatikkaufmann/—frau
+	® Gute Allgemeinkenntnisse im Bereich PC—Technik
+	® Reisebereitschaft
+	® Gute Englischkenntnisse
+Ihre Aufgaben:
+	® Aufsetzen von Industrie—PCs und Soft—SPS
+	® Einrichten von Druckern, Scannern, Kamerasystemen
+	® Durchführung von Systemtests
+	® Betreuung der Abnahme durch den Kunden
+	® Aufstellung, Inbetriebnahme und Endabnahme beim Kunden
+	® Technischer Support
+Es erwarten Sie ein dynamisches internationales Team, flexible Arbeitszeiten und ein moderner Arbeitsplatz. Außerdem bieten wir Ihnen eine
+attraktive Gehaltsgestaltung und die Chance, mit uns weiter zu wachsen. Wenn Sie diese interessante Aufgabe reizt, freuen wir uns auf Ihre
+Bewerbung.
+
+Die folgenden Monate wollen Sie zur Verbesserung Ihrer Bewerbungschancen nutzen.
+Mit welchen der folgenden Maßnahmen können Sie Ihre Bewerbungschancen am ehesten verbessern?
+Tragen Sie die Ziffern vor den zwei zutreffenden Maßnahmen die Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Lektüre von Fachzeitschriften]]></Answer>
+<Answer Number="2"><![CDATA[Wiederholung des Stoffs, der während der Ausbildung vermittelt wurde]]></Answer>
+<Answer Number="3"><![CDATA[Aufnahme eines Bachelor—Studiums im erlernten Beruf]]></Answer>
+<Answer Number="4"><![CDATA[Beginn einer Weiterqualifizierung zum IT—Professional im IHK—Weiterbildungssystem]]></Answer>
+<Answer Number="5"><![CDATA[Erhöhung der Mobilität durch Bereitschaft zum Ortswechsel]]></Answer>
+<Answer Number="6"><![CDATA[Beginn und Abschluss eines Englischkurses]]></Answer>
+</Answers>
+<CorrectAnswers>
+	<Answer Number="5"/>
+	<Answer Number="6"/>
+</CorrectAnswers>
+</Question>
+<Question Number="2">
+<Text><![CDATA[Eine 30—jährige Mitarbeiterin der SKEIP GmbH stellt fest, dass es für den von ihr vor zehn Jahren erlernten Beruf aufgrund des technischen Fort—
+schritts immer weniger Stellen gibt. In der SKEIP GmbH wurden bereits Entlassungen angekündigt.
+Wie sollte sich die Mitarbeiterin in dieser Situation verhalten?
+Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein
+
+Die Mitarbeiterin sollte ...
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[eine berufsbegleitende Fortbildung beginnen.]]></Answer>
+<Answer Number="2"><![CDATA[sich auf Stellen für ungelernte Arbeit bewerben.]]></Answer>
+<Answer Number="3"><![CDATA[sich im gelernten Beruf selbstständig machen.]]></Answer>
+<Answer Number="4"><![CDATA[nichts unternehmen, solange ihr nicht gekündigt wurde.]]></Answer>
+<Answer Number="5"><![CDATA[kündigen.]]></Answer>
+</Answers>
+<CorrectAnswers> 
+	<Answer Number="1"/>
+</CorrectAnswers>
+</Question>
+<Question Number="3">
+<Text><![CDATA[Sie haben mit der SKEIP GmbH einen schriftlichen Arbeitsvertrag geschlossen.
+Welcher der folgenden Bestandteile Ihres Arbeitsvertrags bindet die SKEIP GmbH an kollektives Arbeitsrecht?
+Tragen Sie die Ziffer vor dem zutreffenden Vertragsbestandteil in das Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Das monatliche Bruttogehalt beträgt 2.000,00 EUR.]]></Answer>
+<Answer Number="2"><![CDATA[Der/die Angestellte arbeitet als Sachbearbeiter/—in im Kundenservice.]]></Answer>
+<Answer Number="3"><![CDATA[Das Arbeitsverhältnis beginnt am 2. Mai 2008.]]></Answer>
+<Answer Number="4"><![CDATA[Die reguläre wöchentliche Arbeitszeit beträgt gemäß Betriebsvereinbarung 38,5 Stunden.]]></Answer>
+<Answer Number="5"><![CDATA[Die SKEIP GmbH gewährt einen monatlichen Fahrtkostenzuschuss von 100,00 EUR.]]></Answer>
+</Answers>
+<CorrectAnswers> 
+	<Answer Number="4"/>
+</CorrectAnswers>
+</Question>
+<Question Number="4">
+<Text><![CDATA[Die SKEIP GmbH hat mit Ihnen einen Einzelarbeitsvertrag geschlossen.
+Welche der folgenden Aussagen ist in diesem Zusammenhang zutreffend?
+Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.
+
+Ein Einzelarbeitsvertrag ...
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[darf nur abgeschlossen werden, wenn für die SKEIP GmbH kein gültiger Tarifvertrag vorliegt.]]></Answer>
+<Answer Number="2"><![CDATA[bedarf der Zustimmung des Betriebsrats.]]></Answer>
+<Answer Number="3"><![CDATA[muss eine Urlaubsregelung enthalten.]]></Answer>
+<Answer Number="4"><![CDATA[darf ein übertarifliches Arbeitsentgelt vereinbaren.]]></Answer>
+<Answer Number="5"><![CDATA[darf nur befristet geschlossen werden.]]></Answer>
+</Answers>
+<CorrectAnswers> 
+	<Answer Number="4"/>
+</CorrectAnswers>
+</Question>
+<Question Number="5">
+<Text><![CDATA[Bei Abschluss eines Arbeitsvertrags übernimmt die SKEIP GmbH Pflichten.
+In welchem der folgenden Fälle würde das Unternehmen eine dieser Pflichten verletzen?
+Tragen Sie die Ziffer vor dem zutreffenden Fall in das Kästchen ein.
+
+Die SKEIP GmbH ...
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[stellt einem Mitarbeiter beim Ausscheiden aus dem Unternehmen ein einfaches Zeugnis aus.]]></Answer>
+<Answer Number="2"><![CDATA[erlaubt einem teilzeitbeschäftigten Mitarbeiter eine Nebentätigkeit.]]></Answer>
+<Answer Number="3"><![CDATA[meldet einen neuen Arbeitnehmer nach Beendigung der Probezeit zur Sozialversicherung an.]]></Answer>
+<Answer Number="4"><![CDATA[[4] verweigert den Mitarbeitern/—innen im Mai aus betrieblichen Gründen den Urlaub.]]></Answer>
+<Answer Number="5"><![CDATA[schließt aus Kostengründen die Werkskantine.]]></Answer>
+</Answers>
+<CorrectAnswers> 
+	<Answer Number="3"/>
+</CorrectAnswers>
+</Question>
+<Question Number="6">
+<Text><![CDATA[Sie wollen Einsicht in Ihre von der SKEIP GmbH geführte Personalakte nehmen.
+Welche der folgenden Aussagen beschreibt zutreffend die Rechtslage?
+Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.
+
+Sie haben ...
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[aufgrund des Datenschutzes kein Recht auf Einsichtnahme.]]></Answer>
+<Answer Number="2"><![CDATA[kein Recht auf Einsichtnahme, da es sich um ein Arbeitsmittel der Personalverwaltung handelt.]]></Answer>
+<Answer Number="3"><![CDATA[ein Recht auf uneingeschränkte Einsichtnahme.]]></Answer>
+<Answer Number="4"><![CDATA[ein Recht auf Einsichtnahme nur im Beisein eines Mitglieds des Betriebsrats.]]></Answer>
+<Answer Number="5"><![CDATA[ein Recht auf Einsichtnahme nur in gesetzlich geregelten Ausnahmen.]]></Answer>
+</Answers>
+<CorrectAnswers> 
+	<Answer Number="3"/>
+</CorrectAnswers>
+</Question>
+<!-- TODO: Question Support -->
+<Question Number="7">
+<Text><![CDATA[in der SKEIP GmbH sind Regelungen aus dem Arbeitsrecht zu beachten.
+Welche der folgenden Rechtsgrundlagen treffen auf die nachstehenden Sachverhalte zu?
+Tragen Sie die Ziffer vor der jeweils zutreffenden Rechtsgrundlage in das Kästchen ein.
+
+::Not supported::
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Rechtsgrundlagen]]></Answer>
+<Answer Number="2"><![CDATA[Kündigungsschutzgesetz]]></Answer>
+<Answer Number="3"><![CDATA[Tarifvertrag]]></Answer>
+<Answer Number="4"><![CDATA[Betriebsverfassungsgesetz]]></Answer>
+<Answer Number="5"><![CDATA[Eine andere als die genannten Rechtsgrundlagen]]></Answer>
+<Answer Number="6"><![CDATA[Sachverhalte]]></Answer>
+<Answer Number="7"><![CDATA[a) Eine Mitarbeiterin genießt Kündigungsschutz bis zum Ablauf von zwei Monaten nach Beendigung des Mutterschaftsurlaub3 b) Die regelmäßige wöchentliche Arbeitszeit der Medienbranche beträgt 37,5 Stunden.]]></Answer>
+<Answer Number="8"><![CDATA[c) Eine betriebsbedingte Kündigung ist rechtsunwirksam, wenn sie sozial ungerechtfertigt ist.]]></Answer>
+<Answer Number="9"><![CDATA[d) Wählbar zur Jugend— und Auszubildendenvertretung sind grundsätzlich alle Arbeitnehmer, die das 25. Lebensjahr noch nicht vollendet haben.]]></Answer>
+<Answer Number="10"><![CDATA[e) Ein Auszubildender kann das Ausbildungsverhältnis nach der Probezeit aus wichtigem Grund kündigen.]]></Answer>
+<Answer Number="11"><![CDATA[f) Eine Kündigung ohne Anhörung des Betriebsrats ist unwirksam.]]></Answer>
+<Answer Number="99">Not Supported</Answer>		
+</Answers>
+<CorrectAnswers>
+	<Answer Number="99"/>
+</CorrectAnswers>
+</Question>
+<Question Number="8">
+<Text><![CDATA[In der SKEIP GmbH wurde ein Betriebsrat gewählt.
+Welche der folgenden Aussagen über den Betriebsrat ist zutreffend?
+Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.
+
+Ein Betriebsrat ...
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[muss in jedem Betrieb gewählt werden.]]></Answer>
+<Answer Number="2"><![CDATA[muss je zur Hälfte aus weiblichen und männlichen Arbeitnehmern gebildet werden.]]></Answer>
+<Answer Number="3"><![CDATA[darf nur von Mitarbeitern gewählt werden, die dem Betrieb mindestens ein Jahr angehören.]]></Answer>
+<Answer Number="4"><![CDATA[hat bei der Kündigung eines Arbeitnehmers ein Mitbestimmungsrecht.]]></Answer>
+<Answer Number="5"><![CDATA[hat bei der Aufstellung des Urlaubsplans ein Mitbestimmungsrecht.]]></Answer>
+</Answers>
+<CorrectAnswers> 
+	<Answer Number="5"/>
+</CorrectAnswers>
+</Question>
+<Question Number="9">
+<Text><![CDATA[Die Geschäftsführung der SKEIP GmbH und der Betriebsrat schließen Betriebsvereinbarungen ab.
+Welcher der folgenden Sachverhalte kann durch eine Betriebsvereinbarung geregelt werden?
+| Tragen Sie die Ziffer vor dem zutreffenden Sachverhalt in das Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Kündigungsfristen]]></Answer>
+<Answer Number="2"><![CDATA[Gleitende Arbeitszeit]]></Answer>
+<Answer Number="3"><![CDATA[Mindesturlaub]]></Answer>
+<Answer Number="4"><![CDATA[Mindestlöhne gemäß Tarifvertrag]]></Answer>
+<Answer Number="5"><![CDATA[Mindestbeitrag einer Krankenversicherung]]></Answer>
+</Answers>
+<CorrectAnswers> 
+	<Answer Number="2"/>
+</CorrectAnswers>
+</Question>
+<!-- TODO: Question Support -->
+<Question Number="10">
+<Text><![CDATA[Der Mitarbeiter Peter Sendler teilt der Personalabteilung der SKEIP GmbH mit, dass er seine Tätigkeit für die SKEIP GmbH zum 30.06.2010 beenden
+möchte,
+Ermitteln Sie das Datum, an dem Herrn Sendlers Kündigung spätestens bei der SKEIP GmbH eingegangen sein muss (siehe folgenden Arbeitsvertrag,
+
+::NOT Supported::
+]]></Text>
+<Answers>
+<Answer Number="99">Not Supported</Answer>		
+</Answers>
+<CorrectAnswers>
+	<Answer Number="99"/>
+</CorrectAnswers>
+</Question>
+<Question Number="11">
+<Text><![CDATA[Ein Mitarbeiter der SKEIP GmbH hat gekündigt.
+Welche der folgenden Unterlagen müssen ihm — ggf. auf Verlangen — ausgehändigt werden?
+Tragen Sie die Ziffern vor den zwei zutreffenden Unterlagen in die Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Lebenslauf]]></Answer>
+<Answer Number="2"><![CDATA[Arbeitsvertrag]]></Answer>
+<Answer Number="3"><![CDATA[Qualifiziertes Arbeitszeugnis]]></Answer>
+<Answer Number="4"><![CDATA[Zeugniskopien]]></Answer>
+<Answer Number="5"><![CDATA[Lohnsteuerkarte/Lohnsteuerbescheinigung]]></Answer>
+</Answers>
+<CorrectAnswers>
+	<Answer Number="3"/>
+	<Answer Number="5"/>
+</CorrectAnswers>
+</Question>
+<Question Number="12">
+<Text><![CDATA[Ein ehemaliger Arbeitskollege, der eine neue Arbeitsstelle angetreten hat, bittet Sie in folgender Angelegenheit um Rat:
+In seinem Arbeitsvertrag ist ein übertarifliches Bruttogehalt von 1.900,00 EUR und eine Probezeit von drei Monaten vereinbart. Im ersten Monat
+der Probezeit war er wegen Krankheit vier Tage arbeitsunfähig und konnte eine Arbeit nicht termingerecht erledigen. Vor der ersten Gehaltszahlung
+wurde ihm mitgeteilt, dass ihm aufgrund seiner Erkrankung und seiner geringeren Leistung nur das tarifliche Bruttogehalt von 1.700,00 EUR gezahlt
+werde.
+
+Welcher der folgenden Sachverhalte entspricht der Rechtslage?
+Tragen Sie die Ziffer vor dem zutreffenden Sachverhalt in das Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Das vereinbarte Gehalt von 1.900 EUR muss vom Arbeitgeber gezahlt werden.]]></Answer>
+<Answer Number="2"><![CDATA[Die Gehaltsdifferenz von 200 EUR wird von der Krankenkasse gezahlt.]]></Answer>
+<Answer Number="3"><![CDATA[Die Gehaltsdifferenz von 200 EUR wird von der Agentur für Arbeit gezahlt.]]></Answer>
+<Answer Number="4"><![CDATA[Die Kürzung eines übertariflichen Gehalts ist bis auf Tarifgehaltniveau zulässig.]]></Answer>
+<Answer Number="5"><![CDATA[Die Kürzung von Gehältern ist in der Probezeit bei Minderleistung zulässig.]]></Answer>
+</Answers>
+<CorrectAnswers> 
+	<Answer Number="1"/>
+</CorrectAnswers>
+</Question>
+<Question Number="13">
+<Text><![CDATA[Die SKEIP GmbH will ein IT—Servicecenter in der Rechtsform einer GmbH gründen.
+Welche der folgenden Aussagen zur GmbH sind zutreffend?
+Tragen Sie die Ziffern vor den zwei zutreffenden Aussagen in die Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Das Stammkapital muss mindestens 20.000 EUR betragen.]]></Answer>
+<Answer Number="2"><![CDATA[Die Gesellschaft muss von mindestens zwei Personen gegründet werden.]]></Answer>
+<Answer Number="3"><![CDATA[Die Gesellschaft wird in Abteilung A des Handelsregisters eingetragen.]]></Answer>
+<Answer Number="4"><![CDATA[Die Gesellschaft kann erst nach Eintragung ins Handelsregister Verträge schließen.]]></Answer>
+<Answer Number="5"><![CDATA[Die Firma kann „Gesellschaft für IT — Service mbH” lauten.]]></Answer>
+<Answer Number="6"><![CDATA[Die Geschäftsführung der GmbH obliegt dem Vorstand.]]></Answer>
+<Answer Number="6"><![CDATA[Due neu gegründete GmbH ist eine juristische PErson des privaten Rechts.]]></Answer>
+</Answers>
+<CorrectAnswers>
+	<Answer Number="5"/>
+	<Answer Number="7"/>
+</CorrectAnswers>
+</Question>
+<Question Number="14">
+<Text><![CDATA[Welche der folgenden Institutionen führt das Handelsregister?
+Tragen Sie die Ziffer vor der zutreffenden Institution in das Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Industrie— und Handelskammer]]></Answer>
+<Answer Number="2"><![CDATA[Gewerkschaft]]></Answer>
+<Answer Number="3"><![CDATA[Berufsgenossenschaft]]></Answer>
+<Answer Number="4"><![CDATA[Arbeitgeberverband]]></Answer>
+<Answer Number="5"><![CDATA[Amtsgericht]]></Answer>
+</Answers>
+<CorrectAnswers> 
+	<Answer Number="5"/>
+</CorrectAnswers>
+</Question>
+<Question Number="15">
+<Text><![CDATA[Welche der folgenden Aussagen zur Firma sind zutreffend?
+Tragen Sie die Ziffern vor den zwei zutreffenden Aussagen in die Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Für jede Firma muss ein Urheberschutz beantragt werden.]]></Answer>
+<Answer Number="2"><![CDATA[Unter der Firma gibt der Kaufmann seine Unterschrift ab.]]></Answer>
+<Answer Number="3"><![CDATA[Aus der Firma muss die zutreffende Branche hervorgehen.]]></Answer>
+<Answer Number="4"><![CDATA[Unter der Firma kann das Unternehmen verklagt werden.]]></Answer>
+<Answer Number="5"><![CDATA[Die Vorschriften zur Firma sind im BGB enthalten.]]></Answer>
+<Answer Number="6"><![CDATA[Die Firma einer Personengesellschaft enthält keinen Hinweis auf die Gesellschaftsform.]]></Answer>
+</Answers>
+<CorrectAnswers>
+	<Answer Number="2"/>
+	<Answer Number="4"/>
+</CorrectAnswers>
+</Question>
+<Question Number="16">
+<Text><![CDATA[Bei welcher der folgenden Rechtsformen haften alle Gesellschafter mit ihrem Privatvermögen?
+Tragen Sie die Ziffer vor der zutreffenden Rechtsform in das Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Offene Handelsgesellschaft (OHG)]]></Answer>
+<Answer Number="2"><![CDATA[Gesellschaft mit beschränkter Haftung (GmbH)]]></Answer>
+<Answer Number="3"><![CDATA[Aktiengesellschaft (AG)]]></Answer>
+<Answer Number="4"><![CDATA[Kommanditgesellschaft (KG)]]></Answer>
+<Answer Number="5"><![CDATA[Genossenschaft (e. G.)]]></Answer>
+</Answers>
+<CorrectAnswers> 
+	<Answer Number="1"/>
+</CorrectAnswers>
+</Question>
+<Question Number="17">
+<Text><![CDATA[Eine Mitarbeiterin der SKEIP GmbH ist arbeitsunfähig, weil sie am Vortag auf dem direkten Weg zur Arbeit bei einem Verkehrsunfall schwer verletzt wurde.
+Welche der folgenden Aussagen ist in diesem Zusammenhang zutreffend?
+Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.
+
+Die SKEIP GmbH ...
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[muss den Unfall der Krankenversicherung der Mitarbeiterin melden.]]></Answer>
+<Answer Number="2"><![CDATA[darf die Gehaltszahlung ab dem ersten Krankheitstag einstellen.]]></Answer>
+<Answer Number="3"><![CDATA[[3] darf den Urlaubsanspruch der Mitarbeiterin kürzen.]]></Answer>
+<Answer Number="4"><![CDATA[muss den Unfall der Gewerbeaufsichtsbehörde melden.]]></Answer>
+<Answer Number="5"><![CDATA[muss den Unfall der Berufsgenossenschaft melden.]]></Answer>
+</Answers>
+<CorrectAnswers> 
+	<Answer Number="5"/>
+</CorrectAnswers>
+</Question>
+<Question Number="18">
+<Text><![CDATA[Die SKEIP GmbH muss eine Fachkraft für Arbeitssicherheit stellen.
+Aufgrund welcher der folgenden Rechtsgrundlagen ist die SKEIP GmbH dazu verpflichtet?
+Tragen Sie die Ziffer vor der zutreffenden Rechtsgrundlage in das Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Arbeitsplatzschutzgesetz]]></Answer>
+<Answer Number="2"><![CDATA[Arbeitssicherheitsgesetz]]></Answer>
+<Answer Number="3"><![CDATA[GmbH—Gesetz]]></Answer>
+<Answer Number="4"><![CDATA[Unfallverhütungsvorschriften]]></Answer>
+<Answer Number="5"><![CDATA[Betriebsverfassungsgesetz]]></Answer>
+</Answers>
+<CorrectAnswers> 
+	<Answer Number="2"/>
+</CorrectAnswers>
+</Question>
+<!-- TODO: Question Support -->
+<Question Number="19">
+<Text><![CDATA[Die SKEIP GmbH wartet elektrische Anlagen. Die Arbeiten dürfen nur durchgeführt werden, wenn eine Anlage spannungsfrei ist. Der spannungsfreie
+Zustand ist nach den Sicherheitsregeln in fünf Arbeitsschritten herzustellen.
+Geben Sie die richtige Reihenfolge dieser Arbeitsschritte an.
+Tragen Sie für den ersten Schritt die Ziffer [1], für den zweiten Schritt die Ziffer [2] usw. in die entsprechenden Kästchen ein.
+
+a) Erden und Kurzschließen
+b) Spannungsfreiheit feststellen
+c) Allpolig und allseitig abschalten
+d) Gegen Wiedereinschalten sicHern
+e) Gegen benachbarte, unter Spannung stehende Teile schützen
+
+::NOT SUPPROTED::]]></Text>
+<Answers>
+<Answer Number="99">Not Supported</Answer>		
+</Answers>
+<CorrectAnswers>
+	<Answer Number="99"/>
+</CorrectAnswers>
+</Question>
+<!-- TODO: Question Support -->
+<Question Number="20">
+<Text><![CDATA[In einem Technikraum eines Kunden der SKEIP GmbH ist das folgende Schild angebracht.
+Welche der folgenden Bedeutungen hat das Schild?
+Tragen Sie die Ziffer vor der zutreffenden Bedeutung in das Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Keine unterbrechungsfreie Stromversorgung]]></Answer>
+<Answer Number="2"><![CDATA[Keine manuelle Schaltung möglich]]></Answer>
+<Answer Number="3"><![CDATA[Tür geschlossen halten]]></Answer>
+<Answer Number="4"><![CDATA[Nicht schalten]]></Answer>
+<Answer Number="5"><![CDATA[Lüftungsklappe nicht öffnen]]></Answer>
+<Answer Number="99">Not Supported</Answer>		
+</Answers>
+<CorrectAnswers>
+	<Answer Number="99"/>
+</CorrectAnswers>
+</Question>
+<!-- TODO: Question Support -->
+<Question Number="21">
+<Text><![CDATA[in dem Labor eines Kunden der SKEIP GmbH ist das folgende Warnschild angebracht.
+Vor welcher der folgenden Gefahren warnt das Schild?
+Tragen Sie die Ziffer vor der zutreffenden Gefahr in das Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Explosion]]></Answer>
+<Answer Number="2"><![CDATA[Elektrizität]]></Answer>
+<Answer Number="3"><![CDATA[Laserstrahl]]></Answer>
+<Answer Number="4"><![CDATA[Blitzschlag]]></Answer>
+<Answer Number="5"><![CDATA[Feuer]]></Answer>
+<Answer Number="99">Not Supported</Answer>		
+</Answers>
+<CorrectAnswers>
+	<Answer Number="99"/>
+</CorrectAnswers>
+</Question>
+<Question Number="22">
+<Text><![CDATA[In einer Informationsschrift der SKEIP GmbH lesen Sie: „Mit der neuen Maschine werden nun in derselben Arbeitszeit doppelt so viele Teile wie mit
+der alten Maschine produziert.”
+Welche der folgenden Aussagen kann aus dieser Information abgeleitet werden?
+
+Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Der mit den Teilen erzielte Umsatz wurde verdoppelt.]]></Answer>
+<Answer Number="2"><![CDATA[Die Arbeitsproduktivität wurde erhöht.]]></Answer>
+<Answer Number="3"><![CDATA[Der Anteil der Lohnkosten an den Herstellungskosten ist gestiegen.]]></Answer>
+<Answer Number="4"><![CDATA[Die Herstellungskosten wurden halbiert]]></Answer>
+<Answer Number="5"><![CDATA[Es wird weniger Personal benötigt.]]></Answer>
+</Answers>
+<CorrectAnswers> 
+	<Answer Number="2"/>
+</CorrectAnswers>
+</Question>
+<!-- TODO: Question Support -->
+<Question Number="23">
+<Text><![CDATA[An der Leistungserstellung der SKEIP GmbH sind die folgenden betriebswirtschaftlichen Produktionsfaktoren beteiligt.
+Produktionsfaktoren
+Betriebsmittel
+Werkstoffe
+Ausführende Arbeitskräfte .
+Leitende Arbeitskräfte
+
+Um welche der vorstehenden Produktionsfaktoren handelt es sich in den nachstehenden Beispielen?
+
+::NOT SUPPORTED::
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Beispiele]]></Answer>
+<Answer Number="2"><![CDATA[a) Gebäude]]></Answer>
+<Answer Number="3"><![CDATA[b) Notebook]]></Answer>
+<Answer Number="4"><![CDATA[c) Kabelbinder]]></Answer>
+<Answer Number="5"><![CDATA[d) DV—Netzwerk]]></Answer>
+<Answer Number="6"><![CDATA[e) Hausmeister]]></Answer>
+<Answer Number="99">Not Supported</Answer>		
+</Answers>
+<CorrectAnswers>
+	<Answer Number="99"/>
+</CorrectAnswers>
+</Question>
+<!-- TODO: Question Support -->
+<Question Number="24">
+<Text><![CDATA[Die folgende Grafik zeigt die Marktsituation auf dem Markt für ein IT—Produkt, das auch die SKEIP GmbH anbietet.
+100
+90
+80
+Nachfrage
+70 \\
+N
+\
+60 ”
+Angebot
+50
+40 \
+30 \
+20 | \
+10
+Preis in EUR
+N
+1.000 2.000 3.000 4.000 5.000 6.000 7.000 8.000 9.000 10.000
+Menge in Stück
+a) Ermitteln Sie den derzeitigen Gesamtumsatz der Branche für dieses IT—Produkt.
+Tragen Sie das Ergebnis in die Kästchen ein.
+
+::Not Supported::
+]]></Text>
+<!-- TODO: Question Support -->
+<Answers>
+<Answer Number="1">Not Supported</Answer>
+</Answers>
+<CorrectAnswers>
+	<Answer Number="1"/>
+</CorrectAnswers>
+</Question>
+<Question Number="25">
+<Text><![CDATA[Die SKEIP GmbH hat Frau Brinkmann als Ausbilderin eingestellt.
+Welche der folgenden Voraussetzungen musste Frau Brinkmann nach den gesetzlichen Regelungen erfüllen, um als verantwortliche Ausbilderin von
+der zuständigen IHK anerkannt zu werden?
+Tragen Sie die Ziffer vor der zutreffenden Voraussetzung in das Kästchen ein.
+
+Frau Brinkmann muss ...
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Mitglied im zuständigen Prüfungsausschuss sein.]]></Answer>
+<Answer Number="2"><![CDATA[über die persönliche und fachliche Eignung verfügen.]]></Answer>
+<Answer Number="3"><![CDATA[jährlich ein Weiterbildungsseminar der IHK besuchen.]]></Answer>
+<Answer Number="4"><![CDATA[Mitglied der Geschäftsleitung sein.]]></Answer>
+<Answer Number="5"><![CDATA[Mitglied einer Gewerkschaft sein.]]></Answer>
+</Answers>
+<CorrectAnswers> 
+	<Answer Number="3"/>
+</CorrectAnswers>
+</Question>
+</Exam>

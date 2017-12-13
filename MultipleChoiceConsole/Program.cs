@@ -13,23 +13,35 @@ namespace MultipleChoiceConsole
 	{
 		static void Main(string[] args)
 		{
-			AppDomain.CurrentDomain.UnhandledException += UnhandledExceptionHandler;
+			//this goes back 3 folders (..) and then enterns the Klausuren folder
+			var klausurenPath = @"..\..\..\Klausuren";
+			//works only as long as its run from VS or in a similar directoy structure
 
-			//check if questions.xml exists
-			if (!File.Exists("questions.xml"))
+			foreach (var file in Directory.GetFiles(klausurenPath, "questions.xml", SearchOption.AllDirectories))
 			{
-				Console.WriteLine("Du musst die \"questions.xml\" Datei mit in dem Ordner abspeichern wo diese .exe liegt.");
+				//run the test
+				testExam(file);
 
-				Console.WriteLine("Press any key to exit!");
-				Console.ReadKey();
-				System.Environment.Exit(-1);
+				//check wether to continue
+				Console.WriteLine("Press any key to continue and esc to end examination.");
+				if(Console.ReadKey().Key == ConsoleKey.Escape)				
+					System.Environment.Exit(0);
+
+				//reset console
+				Console.Clear();
 			}
+		}
 
-			//load the questions xml
-			var d = Exam.GetExamFromXML(@"questions.xml");
+
+		static private void testExam(string questionXML)
+		{ 
+			var d = Exam.GetExamFromXML(questionXML);
 			int points = 0, totalPoints = 0;
 			List<StudentAnswer> givenAnswers = new List<StudentAnswer>();
 			int counter = 1;
+
+			//set th ttitle
+			Console.Title = d.Name;
 
 			//itterate through all questions
 			foreach (var question in d.Questions.Randomize())
@@ -125,8 +137,6 @@ namespace MultipleChoiceConsole
 				Console.Clear();
 			}
 
-			#region [ Display conclusion ]
-
 			//display conclusion
 			Console.WriteLine($"You got {points}/{totalPoints} correct.");
 			Console.WriteLine();
@@ -140,7 +150,7 @@ namespace MultipleChoiceConsole
 				Console.WriteLine();
 
 				//display correct answers
-				Console.WriteLine($"The correct answer{(item.Question.CorrectAnswers.Count() > 1 ? "s are" : " is")}:");
+				Console.WriteLine($"The correct answer{(item.Question.CorrectAnswers.Count() > 1? "s are": " is")}:");
 				Console.ForegroundColor = ConsoleColor.Green;
 				foreach (var s in item.Question.CorrectAnswers)
 					Console.WriteLine(s.Text.Trim());
@@ -158,30 +168,9 @@ namespace MultipleChoiceConsole
 				Console.WriteLine();
 			}
 
-			#endregion [ Display conclusion ]
 
-			Console.WriteLine("Press any key to exit!");
-			Console.ReadKey();
-			Environment.Exit(0);
-		}
-
-		private static void UnhandledExceptionHandler(object sender, UnhandledExceptionEventArgs e)
-		{
-			if (e.IsTerminating)
-			{
-				Console.WriteLine("Unhandled exception occured.");
-				Console.WriteLine("Exception Message:");
-				Console.WriteLine(((Exception)e.ExceptionObject).Message);
-				Console.WriteLine();
-				Console.WriteLine("Stacktrace:");
-				Console.WriteLine(((Exception)e.ExceptionObject).StackTrace);
-				Console.WriteLine();
-
-
-				Console.WriteLine("Press any key to exit!");
-				Console.ReadKey();
-				Environment.Exit(0);
-			}
+			Console.WriteLine("Press any key to continue!");
+			Console.ReadKey();			
 		}
 	}
 }

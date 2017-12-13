@@ -1,0 +1,471 @@
+﻿<Exam Name="11_So_WISO" Year="2011" Season="Summer">
+<!-- TODO: Question Support -->
+<Question Number="1">
+<Text><![CDATA[In einem Zeitungsartikel zur wirtschaftlichen Lage Deutschlands werden Kennzahlen genannt.
+Ordnen Sie die nachstehenden Kennzahlen den folgenden wirtschaftspolitischen Zielen zu.
+Tragen Sie die Ziffer vor dem jeweils zutreffenden wirtschaftspolitischen Ziel in das Kästchen ein.
+
+:: Not Supported::
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Wirtschaftspolitische Ziele]]></Answer>
+<Answer Number="2"><![CDATA[Preisstabilität]]></Answer>
+<Answer Number="3"><![CDATA[Außenhandelsgleichgewicht]]></Answer>
+<Answer Number="4"><![CDATA[Wirtschaftswachstum]]></Answer>
+<Answer Number="5"><![CDATA[Hoher Beschäftigungsgrad]]></Answer>
+<Answer Number="6"><![CDATA[Kennzahlen]]></Answer>
+<Answer Number="7"><![CDATA[a) Reales Bruttoinlandsprodukt]]></Answer>
+<Answer Number="8"><![CDATA[b) Arbeitslosenquote]]></Answer>
+<Answer Number="9"><![CDATA[c) Lebenshaltungskostenindex]]></Answer>
+<Answer Number="10"><![CDATA[d) Außenhandelsüberschuss/—defizit]]></Answer>
+<Answer Number="99">Not Supported</Answer>	
+</Answers>
+<CorrectAnswers>	
+<Answer Number="99"/>
+</CorrectAnswers>
+</Question>
+<Question Number="2">
+<Text><![CDATA[Um welche der folgenden Unternehmungsformen handelt es sich bei der EPP AG?
+Tragen Sie die Ziffer vor der zutreffenden Unternehmungsform in das Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Einzelunternehmen]]></Answer>
+<Answer Number="2"><![CDATA[Gesellschaft bürgerlichen Rechts]]></Answer>
+<Answer Number="3"><![CDATA[Personengesellschaft]]></Answer>
+<Answer Number="4"><![CDATA[Kapitalgesellschaft]]></Answer>
+<Answer Number="5"><![CDATA[Genossenschaft]]></Answer>
+</Answers>
+<CorrectAnswers>
+	<Answer Number="4"/>
+</CorrectAnswers>
+</Question>
+<!-- TODO: Question Support -->
+<Question Number="3">
+<Text><![CDATA[Das folgende Schema zeigt das Leitungssystem der EPP AG,
+Nach welchem der folgenden Leitungssysteme arbeitet die EPP AG?
+Tragen Sie die Ziffer vor dem zutreffenden Leitungssystem in das Kästchen ein.
+
+::Not Supported::
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Einliniensystem]]></Answer>
+<Answer Number="2"><![CDATA[Matrixsystem]]></Answer>
+<Answer Number="3"><![CDATA[Mehrliniensystem]]></Answer>
+<Answer Number="4"><![CDATA[Stabliniensystem]]></Answer>
+<Answer Number="5"><![CDATA[Abteilungssystem]]></Answer>
+<Answer Number="99">Not Supported</Answer>	
+</Answers>
+<CorrectAnswers>	
+<Answer Number="99"/>
+</CorrectAnswers>
+</Question>
+<Question Number="4">
+<Text><![CDATA[Sie sollen einen Geschäftsbrief vorbereiten, den der Prokurist Herr Werner Merker unterschreibt.
+Welche der folgenden Unterschriftszeilen müssen Sie verwenden?
+Tragen Sie die Ziffer vor der zutreffenden Unterschriftszeile in das Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[EPP AG
+	ppa. Werner Merker]]></Answer>
+<Answer Number="2"><![CDATA[EPP AG
+	i. V. Werner Merker]]></Answer>
+<Answer Number="3"><![CDATA[EPP AG
+	i. A. Werner Merker]]></Answer>
+<Answer Number="4"><![CDATA[EPP AG
+	Werner Merker]]></Answer>
+</Answers>
+<CorrectAnswers> 
+	<Answer Number="1"/>
+</CorrectAnswers>
+</Question>
+<Question Number="5">
+<Text><![CDATA[Der EPP AG liegt eine Anfrage der Axis GmbH vor, zu der bisher noch keine Geschäftsbeziehungen bestehen.
+Welche der folgenden Aussagen zu einer GmbH sind zutreffend?
+Tragen Sie die Ziffern vor den zwei zutreffenden Aussagen in die Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Das Stammkapital beträgt mindestens 25.000,00 EUR.]]></Answer>
+<Answer Number="2"><![CDATA[Die GmbH wird durch ihre Geschäftsführer vertreten.]]></Answer>
+<Answer Number="3"><![CDATA[Nähere Informationen über die GmbH sind in Abteilung A des Handelsregisters nachzulesen.]]></Answer>
+<Answer Number="4"><![CDATA[Die Gesellschafter haften gegebenenfalls auch mit ihrem Privatvermögen.]]></Answer>
+<Answer Number="5"><![CDATA[Die Geschäftsführer haften persönlich für Verbindlichkeiten der GmbH.]]></Answer>
+<Answer Number="6"><![CDATA[Die Bilanzen einer GmbH können bei der Industrie— und Handelskammer eingesehen werden.]]></Answer>
+</Answers>
+<CorrectAnswers>
+	<Answer Number="1"/>
+	<Answer Number="2"/>
+</CorrectAnswers>
+</Question>
+<Question Number="6">
+<Text><![CDATA[Die EPP AG hat die SOFTWARE GmbH gekauft und betreibt diese unter Beibehaltung der Firma SOFTWARE GmbH weiter.
+Um welche der folgenden Formen eines Unternehmenszusammenschlusses handelt es sich?
+Tragen Sie die Ziffer vor der zutreffenden Form des Unternehmenszusammenschlusses in das Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Fusion]]></Answer>
+<Answer Number="2"><![CDATA[Arbeitsgemeinschaft]]></Answer>
+<Answer Number="3"><![CDATA[Konzern]]></Answer>
+<Answer Number="4"><![CDATA[Kartell]]></Answer>
+<Answer Number="5"><![CDATA[Interessengemeinschaft]]></Answer>
+</Answers>
+<CorrectAnswers> 
+	<Answer Number="3"/>
+</CorrectAnswers>
+</Question>
+<Question Number="7">
+<Text><![CDATA[In der EPP AG werden neue Bildschirmarbeitsplätze eingerichtet. Dementsprechend sind die Anforderungen der Bildschirmarbeitsverordnung
+(BildscharbV) zu beachten.
+Welche der folgenden Aussagen entsprechen den Regeln der BildscharbV?
+Tragen Sie die Ziffern vor den zwei zutreffenden Aussagen in die Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Die Temperatur in Räumen mit Bildschirmarbeitsplätzen darf 22 °C nicht übersteigen.]]></Answer>
+<Answer Number="2"><![CDATA[Bildschirmarbeitsplätze müssen vor Inbetriebnahme durch die Berufsgenossenschaft abgenommen werden.]]></Answer>
+<Answer Number="3"><![CDATA[Die Software eines Bildschirmarbeitsplatzes muss an die auszuführende Aufgabe angepasst sein.]]></Answer>
+<Answer Number="4"><![CDATA[Am Bildschirmarbeitsplatz darf ohne Wissen der Benutzer die Arbeitsleistung temporär kontrolliert werden.]]></Answer>
+<Answer Number="5"><![CDATA[Die tägliche Arbeit am Bildschirm muss durch andere Tätigkeiten oder Pausen unterbrochen werden.]]></Answer>
+</Answers>
+<CorrectAnswers>
+	<Answer Number="3"/>
+	<Answer Number="5"/>
+</CorrectAnswers>
+</Question>
+<Question Number="8">
+<Text><![CDATA[In welcher der folgenden Organisationen/Einrichtungen ist die EPP AG als Hersteller elektronischer Bauteile aufgrund gesetzlicher Bestimmungen
+Mitglied?
+Tragen Sie die Ziffer vor der zutreffenden Organisation/Einrichtung in das Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Einzelhandelsverband]]></Answer>
+<Answer Number="2"><![CDATA[Arbeitgeberverband]]></Answer>
+<Answer Number="3"><![CDATA[Wertpapierbörse]]></Answer>
+<Answer Number="4"><![CDATA[Industrie— und Handelskammer]]></Answer>
+<Answer Number="5"><![CDATA[Handwerkskammer]]></Answer>
+</Answers>
+<CorrectAnswers> 
+	<Answer Number="4"/>
+</CorrectAnswers>
+</Question>
+<!-- TODO: Question Support -->
+<Question Number="9">
+<Text><![CDATA[Für vier durchgeführte Aufträge der EPP AG liegen folgende Zahlen vor:
+Auftrag
+Aufwand 300.000 EUR | 80.000 EUR | 40.000 EUR | 50.000 EUR
+Ertrag  360.000 EUR | 100.000 EUR | 52.000 EUR | 62.000 EUR
+a) Welcher Auftrag wurde am wirtschaftlichsten abgewickelt?
+Tragen Sie die Ziffer des wirtschaftlichsten Auftrags in das Kästchen ein.
+
+:: Not Supported ::
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[b) Wie lautet die Kennziffer für die Wirtschaftlichkeit dieses Auftrags?]]></Answer>
+<Answer Number="2"><![CDATA[Tragen Sie die Kennziffer des wirtschaftlichsten Auftrags in das Kästchen ein (Ergebnis ggf. auf zwei Stellen nach dem Komma runden).]]></Answer>
+<Answer Number="99">Not Supported</Answer>		
+</Answers>
+<CorrectAnswers>	
+<Answer Number="99"/>
+</CorrectAnswers>
+</Question>
+<Question Number="10">
+<Text><![CDATA[Die EPP AG will die Arbeitsproduktivität je Stunde in der Fertigung steigern.
+Welche der folgenden Maßnahmen ist dazu am ehesten geeignet?
+Tragen Sie die Ziffer vor der zutreffenden Maßnahme in das Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Erhöhung der Verkaufspreise]]></Answer>
+<Answer Number="2"><![CDATA[[2] Anordnung von Überstunden]]></Answer>
+<Answer Number="3"><![CDATA[Erhöhung des Tariflohns]]></Answer>
+<Answer Number="4"><![CDATA[Umstellung von Zeitlohn auf Leistungslohn]]></Answer>
+<Answer Number="5"><![CDATA[Umstellung von Leistungslohn auf Zeitlohn]]></Answer>
+</Answers>
+<CorrectAnswers> 
+	<Answer Number="4"/>
+</CorrectAnswers>
+</Question>
+<Question Number="11">
+<Text><![CDATA[In der Jugend— und Auszubildendenvertretung der EPP AG wird über den Ausbildungsvertrag diskutiert.
+Welcher der folgenden Gründe führt zwingend zur Auflösung des Ausbildungsvertrages?
+Tragen Sie die Ziffer vor dem zutreffenden Grund in das Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Die EPP AG wird den Auszubildenden nach bestandener Abschlussprüfung nicht übernehmen.]]></Answer>
+<Answer Number="2"><![CDATA[Bei der ärztlichen Nachuntersuchung des Auszubildenden stellt sich heraus, dass er den körperlichen Anforderungen des Berufs nicht gewachsen ist.]]></Answer>
+<Answer Number="3"><![CDATA[Erst nach Beginn der Ausbildung hat der Auszubildende erfahren, dass es in der EPP AG keine 5—Tage—Woche gibt.]]></Answer>
+<Answer Number="4"><![CDATA[Die Ausbildungsvergütung ist geringer als erwartet.]]></Answer>
+<Answer Number="5"><![CDATA[Durch eine Veränderung der Eigentümerstruktur der EPP AG soll die Ausbildungsabteilung geschlossen werden.]]></Answer>
+</Answers>
+<CorrectAnswers> 
+	<Answer Number="2"/>
+</CorrectAnswers>
+</Question>
+<Question Number="12">
+<Text><![CDATA[Eine Auszubildende teilt der Personalabteilung der EPP AG mit, dass sie im dritten Monat schwanger sei.
+Welche der folgenden Aussagen sind in diesem Zusammenhang zutreffend?
+Tragen Sie die Ziffern vor den zwei zutreffenden Aussagen in die Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Die EPP AG muss die Schwangerschaft unverzüglich der Industrie— und Handelskammer mitteilen.]]></Answer>
+<Answer Number="2"><![CDATA[Die EPP AG muss die Schwangerschaft unverzüglich der Berufsschule mitteilen.]]></Answer>
+<Answer Number="3"><![CDATA[Die EPP AG muss die Schwangerschaft unverzüglich der Krankenkasse mitteilen.]]></Answer>
+<Answer Number="4"><![CDATA[Die Auszubildende darf bis unmittelbar vor der Entbindung ausgebildet werden.]]></Answer>
+<Answer Number="5"><![CDATA[Die Auszubildende darf sechs Wochen vor der Entbindung nicht ausgebildet werden.]]></Answer>
+<Answer Number="6"><![CDATA[Die Auszubildende darf während der Schwangerschaft nur an vier Tagen pro Woche ausgebildet werden.]]></Answer>
+<Answer Number="7"><![CDATA[Die Auszubildende darf nach der Entbindung acht Wochen lang nicht ausgebildet werden.]]></Answer>
+</Answers>
+<CorrectAnswers>
+	<Answer Number="5"/>
+	<Answer Number="7"/>
+</CorrectAnswers>
+</Question>
+<Question Number="13">
+<Text><![CDATA[Andrea Wirth, ledig, keine Kinder, ist in der Kranz GmbH teilzeitbeschäftigt und erhält dort einen monatlichen Bruttolohn von 1.800,00 EUR.
+Seit Monatsbeginn ist sie stundenweise auch in der EPP AG tätig.
+Nach welcher der folgenden Steuerklassen muss die EPP AG die Lohnsteuer für den Lohn von Frau Wirth ermitteln?
+Tragen Sie die Ziffer vor der zutreffenden Steuerklasse in das Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Steuerklasse 1]]></Answer>
+<Answer Number="2"><![CDATA[Steuerklasse 2]]></Answer>
+<Answer Number="3"><![CDATA[Steuerklasse 3]]></Answer>
+<Answer Number="4"><![CDATA[Steuerklasse 4]]></Answer>
+<Answer Number="5"><![CDATA[Steuerklasse 5]]></Answer>
+<Answer Number="6"><![CDATA[Steuerklasse 6]]></Answer>
+</Answers>
+<CorrectAnswers> 
+	<Answer Number="6"/>
+</CorrectAnswers>
+</Question>
+<Question Number="14">
+<Text><![CDATA[Eine Aushilfskraft bittet in der Personalabteilung der EPP AG um Informationen zur Sozialversicherung.
+Welche der folgenden Einzelversicherungen sind nicht im Beitragssatz der Sozialversicherung enthalten?
+Tragen Sie die Ziffern vor den zwei zutreffenden Einzelversicherungen in die Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Krankenversicherung]]></Answer>
+<Answer Number="2"><![CDATA[Pflegeversicherung]]></Answer>
+<Answer Number="3"><![CDATA[Lebensversicherung]]></Answer>
+<Answer Number="4"><![CDATA[Rentenversicherung]]></Answer>
+<Answer Number="5"><![CDATA[Arbeitslosenversicherung]]></Answer>
+<Answer Number="6"><![CDATA[Unfallversicherung]]></Answer>
+</Answers>
+<CorrectAnswers>
+	<Answer Number="3"/>
+	<Answer Number="6"/>
+</CorrectAnswers>
+</Question>
+<Question Number="15">
+<Text><![CDATA[Sie wollen Ihre Ausbildungsvergütung überprüfen.
+In welcher der folgenden Rechtsgrundlagen können Sie am ehesten nachprüfen, ob Ihre von der EPP AG gezahlte Ausbildungsvergütung dem
+geltenden Mindestsatz entspricht?
+Tragen Sie die Ziffer vor der zutreffenden Rechtsgrundlage in das Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Berufsbildungsgesetz]]></Answer>
+<Answer Number="2"><![CDATA[Jugendarbeitsschutzgesetz]]></Answer>
+<Answer Number="3"><![CDATA[Lohnsteuertabelle]]></Answer>
+<Answer Number="4"><![CDATA[Lohn— und Gehaltstarifvertrag]]></Answer>
+<Answer Number="5"><![CDATA[Manteltarifvertrag]]></Answer>
+</Answers>
+<CorrectAnswers> 
+	<Answer Number="4"/>
+</CorrectAnswers>
+</Question>
+<Question Number="16">
+<Text><![CDATA[Eine Auszubildende will einen Teil ihrer Berufsausbildung im Ausland durchführen. In diesem Zusammenhang wurde sie auf den Dienst Europass
+hingewiesen. Sie bittet Sie um weitere Erläuterungen.
+Weiche der folgenden Aussagen zum Dienst Europass ist zutreffend?
+Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Europass ist ein kostenpflichtiger Dienst.]]></Answer>
+<Answer Number="2"><![CDATA[Der Dienst Europass unterstützt Auszubildende, erworbene Qualifikationen, Fähigkeiten und Kompetenzen bei Bewerbungen europaweit verständlich darzustellen.]]></Answer>
+<Answer Number="3"><![CDATA[Der Dienst Europass beglaubigt Ausbildungsabschnitte von Auszubildenden, die im europäischen Ausland durchgeführt wurden, im „Europass— Mobilität” .]]></Answer>
+<Answer Number="4"><![CDATA[Der vom Dienst Europass ausgestellte „Europass—Mobilität” ist für eine Berufsausbildung im europäischen Ausland verpflichtend.]]></Answer>
+<Answer Number="5"><![CDATA[Der Dienst Europass zertifiziert Fremdsprachenkenntnisse im „Europass—Sprachkenntnisse”.]]></Answer>
+
+</Answers>
+<CorrectAnswers> 
+	<Answer Number="2"/>
+</CorrectAnswers>
+</Question>
+<Question Number="17">
+<Text><![CDATA[Die Unternehmensleitung der EPP AG plant für das kommende Geschäftsjahr einige Änderungen.
+Zu welchen der folgenden Änderungen muss die Unternehmensleitung die Zustimmung des Betriebsrats einholen?
+Tragen Sie die Ziffern vor den zwei zutreffenden Änderungen in die Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[[Errichtung einer neuen Produktionsanlage]]></Answer>
+<Answer Number="2"><![CDATA[Einführung eines neuen Personalbeurteilungssystems]]></Answer>
+<Answer Number="3"><![CDATA[Durchführung eines „Tages der offenen Tür”]]></Answer>
+<Answer Number="4"><![CDATA[Planung des zukünftigen Personalbedarfs]]></Answer>
+<Answer Number="5"><![CDATA[Planung neuer Arbeitsverfahren und Arbeitsabläufe]]></Answer>
+<Answer Number="6"><![CDATA[Einstellung von zwei Mitarbeitern]]></Answer>
+</Answers>
+<CorrectAnswers>
+	<Answer Number="2"/>
+	<Answer Number="6"/>
+</CorrectAnswers>
+</Question>
+<Question Number="18">
+<Text><![CDATA[Wegen schlechter Auftragslage erwägt die EPP AG, mehreren Mitarbeitern und Mitarbeiterinnen zu kündigen.
+Welche der folgenden Personengruppen genießen einen besonderen gesetzlichen Kündigungsschutz?
+Tragen Sie die Ziffern vor den zwei zutreffenden Personengruppen in die Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Handlungsbevollmächtigte]]></Answer>
+<Answer Number="2"><![CDATA[Schwangere]]></Answer>
+<Answer Number="3"><![CDATA[Mitglieder des Betriebsrates]]></Answer>
+<Answer Number="4"><![CDATA[Mitarbeiter/—innen ab dem 50. Lebensjahr]]></Answer>
+<Answer Number="5"><![CDATA[Prokuristen]]></Answer>
+<Answer Number="6"><![CDATA[Teilzeitkräfte]]></Answer>
+</Answers>
+<CorrectAnswers>
+	<Answer Number="2"/>
+	<Answer Number="3"/>
+</CorrectAnswers>
+</Question>
+<Question Number="19">
+<Text><![CDATA[Der Betriebsrat der EPP AG muss ordentliche Betriebsversammlungen durchführen.
+Welche der folgenden Aussagen zur ordentlichen Betriebsversammlung ist zutreffend?
+Tragen Sie die Ziffer vor der zutreffenden Aussage in das Kästchen ein.
+
+Der Betriebsrat der EPP AG muss eine ordentliche Betriebsversammlung durchführen: 
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Einmal im Monat]]></Answer>
+<Answer Number="2"><![CDATA[Einmal im Kalendervierteljahr]]></Answer>
+<Answer Number="3"><![CDATA[Einmal im Kalenderjahr]]></Answer>
+<Answer Number="4"><![CDATA[Nur nach Bedarf]]></Answer>
+<Answer Number="5"><![CDATA[Beim Auftreten bestimmter Ereignisse]]></Answer>
+</Answers>
+<CorrectAnswers> 
+	<Answer Number="2"/>
+</CorrectAnswers>
+</Question>
+<Question Number="20">
+<Text><![CDATA[Der Betriebsrat der EPP AG lädt zu einer Betriebsversammlung ein.
+Welche der folgenden Personengruppen dürfen in einer Betriebsversammlung an Abstimmungen über betriebliche Belange teilnehmen?
+Tragen Sie die Ziffern vor den zwei zutreffenden Personengruppen in die Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Auszubildende des Betriebes]]></Answer>
+<Answer Number="2"><![CDATA[Pressevertreter]]></Answer>
+<Answer Number="3"><![CDATA[Zuständige Bundestagsabgeordnete]]></Answer>
+<Answer Number="4"><![CDATA[Alle Betriebsangehörigen, auch wenn sie keine Gewerkschaftsmitglieder sind]]></Answer>
+<Answer Number="5"><![CDATA[Betriebsräte anderer Betriebe der gleichen Branche]]></Answer>
+<Answer Number="6"><![CDATA[In der EPP AG kurzfristige eingesetzte Mitarbetier eines externen Dienstleisters]]></Answer>
+</Answers>
+<CorrectAnswers>
+	<Answer Number="1"/>
+	<Answer Number="4"/>
+</CorrectAnswers>
+</Question>
+<!-- TODO: Question Support -->
+<Question Number="21">
+<Text><![CDATA[In der Jugendvertretung der EPP AG werden im Zusammenhang mit den anstehenden Tarifverhandlungen Arbeitskampfmaßnahmen diskutiert.
+Um welche der folgenden Arbeitskampfmaßnahmen handelt es sich jeweils in den unten stehenden Fällen?
+Tragen Sie die Ziffer vor der jeweils zutreffenden Arbeitskampfmaßnahme in das Kästchen ein.
+
+:: Not Supported ::
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Arbeitskampfmaßnahmen]]></Answer>
+<Answer Number="2"><![CDATA[Wilder Streik]]></Answer>
+<Answer Number="3"><![CDATA[[2] Warnstreik]]></Answer>
+<Answer Number="4"><![CDATA[Aussperrung]]></Answer>
+<Answer Number="5"><![CDATA[Schwerpunktstreik]]></Answer>
+<Answer Number="6"><![CDATA[Fälle]]></Answer>
+<Answer Number="7"><![CDATA[a) In allen Unternehmungen einer Branche wird die Arbeit auf Betreiben der Gewerkschaft für eine Stunde niedergelegt.]]></Answer>
+<Answer Number="8"><![CDATA[b) Die Arbeitsverhältnisse aller Arbeitnehmer bestimmter Betriebe werden während eines Streiks vorübergehend aufgehoben.]]></Answer>
+<Answer Number="9"><![CDATA[c) Die Arbeitnehmer einer Unternehmung legen während der Laufzeit des Tarifvertrags ohne Abstimmung mit der Gewerkschaft ihre Arbeit für vier Stunden nieder, um ihre Forderung durchzusetzen.]]></Answer>
+<Answer Number="99">Not Supported</Answer>		
+</Answers>
+<CorrectAnswers>
+	<Answer Number="99"/>
+</CorrectAnswers>
+</Question>
+<Question Number="22">
+<Text><![CDATA[Die EPP AG hat für die Sicherheit ihrer Mitarbeiter/— innen während der Arbeit zu sorgen.
+Welche der folgenden Stellen ist Ansprechpartner der EPP AG bei Angelegenheiten der Arbeitssicherheit?
+Tragen Sie die Ziffer vor der zutreffenden Stelle in das Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Amt für Arbeitsschutz und Sicherheitstechnik (Gewerbeaufsichtsamt)]]></Answer>
+<Answer Number="2"><![CDATA[Arbeitgeberverband]]></Answer>
+<Answer Number="3"><![CDATA[Industrie— und Handelskammer]]></Answer>
+<Answer Number="4"><![CDATA[Allgemeine Ortskrankenkasse]]></Answer>
+<Answer Number="5"><![CDATA[Technischer Überwachungsverein]]></Answer>
+</Answers>
+<CorrectAnswers> 
+	<Answer Number="1"/>
+</CorrectAnswers>
+</Question>
+<Question Number="23">
+<Text><![CDATA[Der Personalabteilung der EPP AG werden nachstehende Unfälle gemeldet.
+Welche der folgenden Unfälle müssen der Berufsgenossenschaft gemeldet werden?
+Tragen Sie die Ziffern vor den drei zutreffenden Unfällen in die Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Ein Mitarbeiter erlitt bei einem Stromschlag an einem defekten Kabel in seinem Büro Verbrennungen.]]></Answer>
+<Answer Number="2"><![CDATA[Eine Mitarbeiterin verletzte sich ihren Fuß auf dem Parkplatz der EPP AG an einer vorstehenden Bodenplatte.]]></Answer>
+<Answer Number="3"><![CDATA[Ein Mitarbeiter brach sich im Erholungsurlaub beim Skifahren ein Bein.]]></Answer>
+<Answer Number="4"><![CDATA[Ein Mitarbeiter besuchte auf dem Heimweg von seiner Arbeitsstelle eine Gaststätte. Beim Verlassen des Lokals stürzte er und verletzte sich schwer.]]></Answer>
+<Answer Number="5"><![CDATA[Ein Auszubildender verunglückte mit seinem Fahrrad auf dem Weg zum Schwimmbad, das er besuchen wollte, weil der Unterricht in der Berufs— schule ausfiel.]]></Answer>
+<Answer Number="6"><![CDATA[Ein Mitarbeiter verunglückte auf dem Weg zur Arbeit.]]></Answer>
+<Answer Number="7"><![CDATA[Ein Kurierfahrer der Blitz & Co. GmbH, der im Auftrag der EPP AG unterwegs war, verunglückte mit seinem Fahrzeug.]]></Answer>
+</Answers>
+<CorrectAnswers>
+	<Answer Number="1"/>
+	<Answer Number="2"/>
+	<Answer Number="6"/>
+</CorrectAnswers>
+</Question>
+<Question Number="24">
+<Text><![CDATA[Ein Mitarbeiter der EPP AG hat auf einer Fensterbank seines Büros eine Blumenvase abgestellt. Bei einem Windstoß fällt sie herunter und beschädigt
+den auf dem Firmengelände abgestellten Pkw eines Kunden.
+Welche der folgenden Personen/Institutionen kommt für den Schaden auf?
+Tragen Sie die Ziffer vor der zutreffenden Person/Institution in das Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[Der Mitarbeiter der EPP AG]]></Answer>
+<Answer Number="2"><![CDATA[Der Kunde]]></Answer>
+<Answer Number="3"><![CDATA[Die Haftpflichtversicherung der EPP AG]]></Answer>
+<Answer Number="4"><![CDATA[Die Fahrzeug—Kaskoversicherung des Kunden]]></Answer>
+<Answer Number="5"><![CDATA[Die Berufsgenossenschaft]]></Answer>
+</Answers>
+<CorrectAnswers> 
+	<Answer Number="3"/>
+</CorrectAnswers>
+</Question>
+<!-- TODO: Question Support -->
+<Question Number="25">
+<Text><![CDATA[Auf dem Gelände der EPP AG sind folgenden Zeichen angebracht.
+Bei welchem dieser Zeichen handelt es sich um ein Warnzeichen?
+Tragen Sie die Ziffer vor dem zutreffenden Zeichen in das Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="99">Not Supported</Answer>		
+</Answers>
+<CorrectAnswers>
+	<Answer Number="99"/>
+</CorrectAnswers>
+</Question>
+<Question Number="26">
+<Text><![CDATA[in welchen der folgenden Angelegenheiten muss sich die EPP AG an die Industrie— und Handelskammer wenden?
+Tragen Sie die Ziffern vor den zwei zutreffenden Angelegenheiten in die Kästchen ein.
+]]></Text>
+<Answers>
+<Answer Number="1"><![CDATA[[1] Ausstellung eines Prüfungszeugnisses]]></Answer>
+<Answer Number="2"><![CDATA[[2] Anmeldung der Insolvenz]]></Answer>
+<Answer Number="3"><![CDATA[Eintragung von Ausbildungsverträgen für Informatikkaufleute]]></Answer>
+<Answer Number="4"><![CDATA[Zahlung der Gewerbesteuer]]></Answer>
+<Answer Number="5"><![CDATA[Abschluss eines Haustarifvertrages]]></Answer>
+<Answer Number="6"><![CDATA[[6] Prüfung des Jahresabschlusses]]></Answer>
+<Answer Number="7"><![CDATA[Eintragung einer Prokuraerteilung in das Handelsregister]]></Answer>
+</Answers>
+<CorrectAnswers>
+	<Answer Number="1"/>
+	<Answer Number="3"/>
+</CorrectAnswers>
+</Question>
+</Exam>
