@@ -23,9 +23,16 @@ namespace WiSoLibrary
 		/// </summary>
 		IAnswer[] Answers { get; }
 
+		/// <summary>
+		/// The Questiontype of this question
+		/// </summary>
 		QuestionTypes QuestionType { get; }
 
-
-		bool IsCorrect(params object[] param);
+		/// <summary>
+		/// Checks wether a parameter is correct
+		/// </summary>
+		/// <param name="param">Answers given by the user</param>
+		/// <returns>If given answers are correct</returns>
+		bool IsCorrect(params IAnswer[] param);
 	}
 }

@@ -54,7 +54,7 @@ namespace WiSoLibrary
 
 		public QuestionTypes QuestionType{ get; }
 
-		public bool IsCorrect(params object[] param)
+		public bool IsCorrect(params IAnswer[] param)
 		{
 			throw new NotImplementedException();
 		}
