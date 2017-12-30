@@ -156,5 +156,12 @@ namespace WiSoLibrary
 			//return the question
 			return new SortQuestion(question.Element("Text").Value, answers.ToArray());
 		}
+
+		private static void SetImagePath(IQuestion question, XElement xmlQuestion)
+		{
+			
+		}
+
+
 	}
 }
