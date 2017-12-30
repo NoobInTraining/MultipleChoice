@@ -16,11 +16,12 @@ namespace WiSoLibrary.Tests
 		[TestMethod()]
 		public void IsCorrectTest()
 		{
-			var doc = XDocument.Load(@"C:\Users\Mümmelmann\Documents\visual studio 2017\Projects\WiSoAbschluss\Klausuren\10_So_WISO\questions.xml");
+			var doc = XDocument.Load(@"..\..\..\Klausuren\10_So_WISO\questions.xml");
 
 			var aSortQuestion = doc.Root.Elements("Question").Single(p => p.Attribute("Number").Value == "5");
-			var ques = parseSortQuestion(aSortQuestion);			
-			
+			var ques = parseSortQuestion(aSortQuestion);
+
+
 		}
 		 
 		/// <summary>

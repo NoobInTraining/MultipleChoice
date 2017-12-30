@@ -79,7 +79,7 @@ namespace WiSoLibrary
 			{
 				#region [ 13-12-2017: Mutiple type support ]
 
-				//check if attribute exists
+				//check if "Type" attribute exists
 				var attr = q.Attribute("Type");
 				if (attr != null)
 				{
@@ -93,6 +93,7 @@ namespace WiSoLibrary
 							continue;
 						case QuestionTypes.Input:
 							continue;
+						//continue by doing it the original way
 						default:
 							break;
 					}
@@ -117,10 +118,11 @@ namespace WiSoLibrary
 		}
 
 		/// <summary>
-		/// 
+		/// Parses an element of the questions XML of type Sort
 		/// </summary>
 		/// <param name="question"></param>
 		/// <returns></returns>
+		/// <exception cref="Exception">If the Question is not of type Sort.</exception>
 		private static SortQuestion parseSortQuestion(XElement question)
 		{
 			//check if the question is of type Sort
@@ -136,9 +138,12 @@ namespace WiSoLibrary
 
 			//check if the numbers match
 			if (possibleAnswer.Count() != correctStep.Count())
-				throw new Exception();
-
-			//itterate thorugh the correct stepts 
+				throw new Exception("The amount of possible answers and given answers arn't equal.");
+			//check if all possible answers where used
+			else if (possibleAnswer.All(p => correctStep.Any(b => b == p.Attribute("Number").Value)))
+				throw new Exception("Not all answers appear are used.");
+			
+			//itterate thorugh the correct steps 
 			for (int i = 0; i < correctStep.Length; i++)
 			{
 				//get the correct step for this occasion
