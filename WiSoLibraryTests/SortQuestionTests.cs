@@ -14,7 +14,7 @@ namespace WiSoLibrary.Tests
 	public class SortQuestionTests
 	{
 		[TestMethod()]
-		public void IsCorrectTest()
+		public void SortQuestionTest()
 		{
 			var doc = XDocument.Load(@"..\..\..\Klausuren\10_So_WISO\questions.xml");
 
