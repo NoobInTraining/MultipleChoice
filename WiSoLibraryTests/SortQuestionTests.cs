@@ -30,8 +30,11 @@ namespace WiSoLibrary.Tests
 				new MatchedAnswer("Aushändigung des Arbeitsvertrages",								7), 
 				new MatchedAnswer("Interne und externe Stellenausschreibung",						1), 
 				new MatchedAnswer("Einladung zu einem Vorstellungsgespräch",						3), 
-				new MatchedAnswer("Prüfen der Bewerbungsunterlagen",								9) 
+				new MatchedAnswer("Prüfen der Bewerbungsunterlagen",								5) 
 			};
+
+			//check if all answers are available
+			Assert.IsTrue(ques.Answers.All(a => answers.Any(b => b.Text == a.Text)));
 
 			//check if it's correct
 			Assert.IsTrue(ques.IsCorrect(answers));

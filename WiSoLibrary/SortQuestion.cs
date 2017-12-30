@@ -69,7 +69,7 @@ namespace WiSoLibrary
 			try
 			{
 				//check if all answers are the correct 
-				return matchedAnswer.All(g => matchedAnswer.Single(m => m.Text == g.Text).Position == g.Position);
+				return matchedAnswer.All(g => possibleAnswers.Single(m => m.Text == g.Text).Position == g.Position);
 			}			
 			catch (InvalidOperationException ex)
 			{
