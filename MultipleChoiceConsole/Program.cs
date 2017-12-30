@@ -13,6 +13,10 @@ namespace MultipleChoiceConsole
 	{
 		static void Main(string[] args)
 		{
+			//so to test the question in user-interactivity
+
+			return;
+
 			//this goes back 3 folders (..) and then enterns the Klausuren folder
 			var klausurenPath = @"..\..\..\Klausuren";
 			//works only as long as its run from VS or in a similar directoy structure

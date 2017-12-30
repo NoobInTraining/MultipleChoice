@@ -20,8 +20,21 @@ namespace WiSoLibrary.Tests
 
 			var aSortQuestion = doc.Root.Elements("Question").Single(p => p.Attribute("Number").Value == "5");
 			var ques = parseSortQuestion(aSortQuestion);
+					
+			//generate the given answers	
+			var answers = new MatchedAnswer[] {
+				new MatchedAnswer("Vorstellungsgespräch einschließlich Tests",						2), 	
+				new MatchedAnswer("Stellenbeschreibung als Grundlage für eine Stellenausschreibung",6), 
+				new MatchedAnswer("Entscheidung über den/die einzustellende/n Bewerber/—in",		4), 
+				new MatchedAnswer("Bewerbungseingang",												8), 
+				new MatchedAnswer("Aushändigung des Arbeitsvertrages",								7), 
+				new MatchedAnswer("Interne und externe Stellenausschreibung",						1), 
+				new MatchedAnswer("Einladung zu einem Vorstellungsgespräch",						3), 
+				new MatchedAnswer("Prüfen der Bewerbungsunterlagen",								9) 
+			};
 
-
+			//check if it's correct
+			Assert.IsTrue(ques.IsCorrect(answers));
 		}
 		 
 		/// <summary>
