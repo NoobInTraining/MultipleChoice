@@ -22,6 +22,7 @@
 			<xs:element name="Answers" tpye="answersType"/>
 			
 			<xs:attribute name="Number" type="xs:int"/>
+			
 		</xs:complexTyp>
 		
 		<xs:complexTyp name="answersType">

@@ -153,6 +153,7 @@ Bringen Sie die folgenden Arbeitsschritte für das Bewerbungsverfahren in eine s
 		</Answers>
 		<CorrectAnswers>
 			<Answer Number="6,1,7,3,8,2,5,4"/>
+			<!--<Postion Pos="1" AnswerNo="6"/>-->
 		</CorrectAnswers>
 	</Question>
 	<Question Number="6">
