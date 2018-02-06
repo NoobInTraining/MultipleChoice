@@ -8,13 +8,25 @@ namespace WiSoLibrary
 {
 	public struct MatchedAnswer : IAnswer
 	{
-		public MatchedAnswer(IAnswer key, IAnswer value)
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="text">The questiontext</param>
+		/// <param name="position">The correct position of this answer</param>
+		public MatchedAnswer(string text, int position)
 		{
-			this.AnswerPair = new KeyValuePair<IAnswer, IAnswer>(key, value);
+			Text = text;			
+			Position = position;
 		}
+		
+		/// <summary>
+		/// The Question Text
+		/// </summary>
+		public string Text { get; }
 
-		KeyValuePair<IAnswer, IAnswer> AnswerPair { get; }
-
-		public string Text => "A matched Question.";
+		/// <summary>
+		/// The correct position of this answer
+		/// </summary>
+		public int Position { get; set; }
 	}
 }

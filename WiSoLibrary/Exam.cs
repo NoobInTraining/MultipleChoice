@@ -79,7 +79,7 @@ namespace WiSoLibrary
 			{
 				#region [ 13-12-2017: Mutiple type support ]
 
-				//check if attribute exists
+				//check if "Type" attribute exists
 				var attr = q.Attribute("Type");
 				if (attr != null)
 				{
@@ -87,17 +87,20 @@ namespace WiSoLibrary
 					switch (QuestionTypes.Assign.FromString(attr.Value))
 					{
 						case QuestionTypes.Sort:
+							parseSortQuestion(q);
 							continue;
 						case QuestionTypes.Assign:
 							continue;
 						case QuestionTypes.Input:
 							continue;
+						//continue by doing it the original way
 						default:
 							break;
 					}
 				}
 
 				#endregion
+
 				var answerElements = q.Element("Answers").Elements().ToArray();
 				var correctAnswers = q.Element("CorrectAnswers");
 
@@ -113,5 +116,52 @@ namespace WiSoLibrary
 			}
 			return exam;
 		}
+
+		/// <summary>
+		/// Parses an element of the questions XML of type Sort
+		/// </summary>
+		/// <param name="question"></param>
+		/// <returns></returns>
+		/// <exception cref="Exception">If the Question is not of type Sort.</exception>
+		private static SortQuestion parseSortQuestion(XElement question)
+		{
+			//check if the question is of type Sort
+			if (!question.Attribute("Type").Value.Equals("Sort", StringComparison.OrdinalIgnoreCase))
+				throw new Exception("Wrong question type");
+
+			//create a temporary list of answers
+			List<MatchedAnswer> answers = new List<MatchedAnswer>();
+
+			//Read out the possible answers and the correct answers
+			var possibleAnswer = question.Element("Answers").Elements("Answer");
+			var correctStep = question.Element("CorrectAnswers").Element("Answer").Attribute("Number").Value.Split(',');
+
+			//check if the numbers match
+			if (possibleAnswer.Count() != correctStep.Count())
+				throw new Exception("The amount of possible answers and given answers arn't equal.");
+			//check if all possible answers where used
+			else if (possibleAnswer.All(p => correctStep.Any(b => b == p.Attribute("Number").Value)))
+				throw new Exception("Not all answers appear are used.");
+			
+			//itterate thorugh the correct steps 
+			for (int i = 0; i < correctStep.Length; i++)
+			{
+				//get the correct step for this occasion
+				var step = correctStep[i];
+				var fitting = possibleAnswer.Single(p => p.Attribute("Number").Value == step);
+				//add the step
+				answers.Add(new MatchedAnswer(fitting.Value, i + 1));
+			}
+
+			//return the question
+			return new SortQuestion(question.Element("Text").Value, answers.ToArray());
+		}
+
+		private static void SetImagePath(IQuestion question, XElement xmlQuestion)
+		{
+			
+		}
+
+
 	}
 }
